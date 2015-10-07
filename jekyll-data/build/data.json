@@ -1,0 +1,149 @@
+{
+    "id": "panorama_right",
+    "view": {
+        "hlookat": 90,
+        "vlookat": 10,
+        "maxpixelzoom": 1.25,
+        "fovmax": 90,
+        "vlookatmin": -32,
+        "vlookatmax": 56
+    },
+    "videos": [
+        {
+            "title": "How the Room Came Together",
+            "files": {
+                "source": "files/howtheroomcametogether.mp4",
+                "poster": "files/howtheroomcametogether_poster.jpg",
+                "thumb": "files/howtheroomcametogether_thumb.jpg"
+            }
+        },{
+            "title": "The Gilded Age",
+            "files": {
+                "source": "files/thegildedage.mp4",
+                "poster": "files/thegildedage_poster.jpg",
+                "thumb": "files/thegildedage_thumb.jpg"
+            }
+        },{
+            "title": "Eleanor Rice's Legacy",
+            "files": {
+                "source": "files/eleanorrice.mp4",
+                "poster": "files/eleanorrice_poster.jpg",
+                "thumb": "files/eleanorrice_thumb.jpg"
+            }
+        }
+    ],
+    "hotspots": [
+        {
+            "id": 1939411,
+            "zoomable": true,
+            "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
+            
+            
+            "ath": 270,
+            "atv": 160,
+            "content": {
+                "accession": "1939-41-9",
+                "title": "Writing Table",
+                "description": "This table was made for Mme Elisabeth, sister of Louis XVI, and delivered to the palace at Versailles, where she occupied a first-floor apartment. This exquisite writing table was delivered by Jean-Henri Riesener to the Versailles apartment of Princess Elisabeth, the youngest sister of King Louis XVI, on December 31, 1785.",
+                "date": "1783",
+                "creator": "Jean-Henri Riesener, German (active Paris), 1734 - 1806",
+                "location": "Made in Paris, France, Europe",
+                "medium": "Oak with mahogany, satinwood, purplewood, and other wood veneers; gilded bronze mounts",
+                "credit": "Bequest of Eleanore Elkins Rice, 1939",
+                "url": "http://www.philamuseum.org/collections/permanent/45855.html?mulR=61461129|1"
+            },
+            "images": [
+                {
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/samplelargefilename.jpg",
+                        
+                        "thumb": "files/samplethumbfilename.jpg"
+                    }
+                },{
+                    "weight": 1,
+                    "type": "context",
+                    "files": {
+                        "large": "files/samplelargefilename.jpg",
+                        
+                        "thumb": "files/samplethumbfilename.jpg"
+                    }
+                },{
+                    "weight": 2,
+                    "type": "360",
+                    "files": {
+                        
+                        "steps": [
+                            "files/sample360step.jpg",
+                            "files/sample360step.jpg",
+                            "files/sample360step.jpg"
+                        ],
+                        "thumb": "files/samplethumbfilename.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": 1939439,
+            "zoomable": false,
+            "hotspot_image": "files/1939419_hotspot.png",
+            "x": 1,
+            "y": 100,
+            
+            
+            "content": {
+                "accession": "1939-41-9",
+                "title": "Writing Table",
+                "description": "This table was made for Mme Elisabeth, sister of Louis XVI, and delivered to the palace at Versailles, where she occupied a first-floor apartment. This exquisite writing table was delivered by Jean-Henri Riesener to the Versailles apartment of Princess Elisabeth, the youngest sister of King Louis XVI, on December 31, 1785.",
+                "date": "1783",
+                "creator": "Jean-Henri Riesener, German (active Paris), 1734 - 1806",
+                "location": "Made in Paris, France, Europe",
+                "medium": "Oak with mahogany, satinwood, purplewood, and other wood veneers; gilded bronze mounts",
+                "credit": "Bequest of Eleanore Elkins Rice, 1939",
+                "url": "http://www.philamuseum.org/collections/permanent/45855.html?mulR=61461129|1"
+            },
+            "images": [
+                {
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/samplelargefilename.jpg",
+                        
+                        "thumb": "files/samplethumbfilename.jpg"
+                    }
+                },{
+                    "weight": 1,
+                    "type": "context",
+                    "files": {
+                        "large": "files/samplelargefilename.jpg",
+                        
+                        "thumb": "files/samplethumbfilename.jpg"
+                    }
+                },{
+                    "weight": 2,
+                    "type": "360",
+                    "files": {
+                        
+                        "steps": [
+                            "files/sample360step.jpg",
+                            "files/sample360step.jpg",
+                            "files/sample360step.jpg"
+                        ],
+                        "thumb": "files/samplethumbfilename.jpg"
+                    }
+                }
+            ]
+        }
+    ],
+    "drawers": [
+        {
+            "id": "drawer-left",
+            "points": [
+                [206,170],[206,202],[220,199],[220,171]
+            ],
+            "objects": [
+                1939439
+            ]
+        }
+    ]
+}

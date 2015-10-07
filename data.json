@@ -1,0 +1,176 @@
+{
+    "id": "panorama_right",
+    "view": {
+        "hlookat": 38,
+        "vlookat": 10,
+        "maxpixelzoom": 2.0,
+        "fovmax": 100,
+        "vlookatmin": -69.790,
+        "vlookatmax": 69.790
+    },
+    "videos": [
+        {
+            "title": "How the Room Came Together",
+            "files": {
+                "source": "files/howtheroomcametogether.mp4",
+                "poster": "files/howtheroomcametogether_poster.jpg",
+                "thumb": "files/howtheroomcametogether_thumb.jpg"
+            }
+        },
+        {
+            "title": "1500",
+            "files": {
+                "source": "files/testvideo1500.mp4",
+                "poster": "files/howtheroomcametogether_poster.jpg",
+                "thumb": "files/howtheroomcametogether_thumb.jpg"
+            }
+        },
+        {
+            "title": "750",
+            "files": {
+                "source": "files/testvideo750.mp4",
+                "poster": "files/howtheroomcametogether_poster.jpg",
+                "thumb": "files/howtheroomcametogether_thumb.jpg"
+            }
+        }
+    ],
+    "hotspots": [
+        {
+            "id": 1939411,
+            "hotspot_image": "images/primary_hotspot.png",
+            "ath": 161,
+            "atv": 168,
+            "scale": 0.5,
+            "zoomable": true,
+            "content": {
+                "accession": "1939-41-9",
+                "title": "Writing Table",
+                "description": "This table was made for Mme Elisabeth, sister of Louis XVI, and delivered to the palace at Versailles, where she occupied a first-floor apartment. This exquisite writing table was delivered by Jean-Henri Riesener to the Versailles apartment of Princess Elisabeth, the youngest sister of King Louis XVI, on December 31, 1785.",
+                "date": "1783",
+                "creator": "Jean-Henri Riesener, German (active Paris), 1734 - 1806",
+                "location": "Made in Paris, France, Europe",
+                "medium": "Oak with mahogany, satinwood, purplewood, and other wood veneers; gilded bronze mounts",
+                "credit": "Bequest of Eleanore Elkins Rice, 1939",
+                "url": "http://www.philamuseum.org/collections/permanent/45855.html?mulR=61461129|1"
+            },
+            "images": [
+                {
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/samplelargefilename.jpg",
+                        "thumb": "files/samplethumbfilename.jpg"
+                    }
+                },
+                {
+                    "weight": 1,
+                    "type": "context",
+                    "caption": "Portrait of Madame Elizabeth, Adelaide Labille-Guiard, 1788, Versailles, from the web",
+                    "files": {
+                        "large": "files/samplelargefilename.jpg",
+                        "thumb": "files/samplethumbfilename.jpg"
+                    }
+                },
+                {
+                    "weight": 2,
+                    "type": "360",
+                    "files": {
+                        "steps": [
+                            "files/sample360step.jpg",
+                            "files/sample360step.jpg",
+                            "files/sample360step.jpg",
+                            "files/sample360step.jpg",
+                            "files/sample360step.jpg",
+                            "files/sample360step.jpg",
+                            "files/sample360step.jpg",
+                            "files/sample360step.jpg",
+                            "files/sample360step.jpg",
+                            "files/sample360step.jpg",
+                            "files/sample360step.jpg",
+                            "files/sample360step.jpg"
+                        ],
+                        "thumb": "files/samplethumbfilename.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 1939439,
+            "zoomable": false,
+            "hotspot_image": "files/1939419_hotspot.png",
+            "x": 1,
+            "y": 1,
+            "content": {
+                "accession": "1939-41-39Aa,b, -Ba,b",
+                "title": "Vase with Lid",
+                "description": "These exquisitely painted and lavishly gilded potpourri vases exemplify the production of the Sevres porcelain factory, the preeminent European manufactory in the second half of the eighteenth century. The quintessentially sinuous rococo shape was designed by Jean-Claude Duplessis, a sculptor who had been trained as a goldsmith and who was the head of the modeling workshop at Sevres. The intricately painted scenes within reserves are after two paintings entitled Rendez-vous de chasse and Depart pour Ia chasse by Carel van Falens, a Flemish-born painter who worked in Paris. The use of the scenes after van Falens' paintings reflects not only the popularity of hunting among France's aristocracy, many of whom were customers of Sevres, but also the fashion among French collectors for Dutch and Flemish paintings particularly of the seventeenth century. The reserves on the reverse of the potpourri vases are painted with naturally rendered floral bouquets. The potpourris would have stood on a chest or table placed against a wall under a mirror in which the floral decoration would have been reflected.",
+                "date": "c. 1761",
+                "creator": "Model probably designed by Jean-Claude Duplessis, Sr., French, c. 1695-1774\nMade by the Sèvres porcelain manufactory, Sèvres, France, 1756-present",
+                "location": "Made in Sèvres, France, Europe",
+                "medium": "Soft-paste porcelain with enamel and gilt decoration",
+                "credit": "Bequest of Eleanore Elkins Rice, 1939",
+                "url": "http://www.philamuseum.org/collections/permanent/133204.html?mulR=139423819|4"
+            },
+            "images": [
+                {
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/samplelargefilename.jpg",
+                        "thumb": "files/samplethumbfilename.jpg"
+                    }
+                },
+                {
+                    "weight": 1,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/samplelargefilename.jpg",
+                        "thumb": "files/samplethumbfilename.jpg"
+                    }
+                },
+                {
+
+                    "weight": 2,
+                    "type": "context",
+                    "caption": "Constant Troyon, Vue de la manufacture de porcelain de Sevres, inauguree en 1756, 1800-1825, Sevres, archives de la manufacture, from Les Vases de Sevres XVIIIe-XXIe siecles, Dijon, 2014",
+                    "files": {
+                        "large": "files/samplelargefilename.jpg",
+                        "thumb": "files/samplethumbfilename.jpg"
+                    }
+                },
+                {
+                    "weight": 3,
+                    "type": "context",
+                    "caption": "Francois Boucher, A lady fastening her Garter (La Toilette), 1742, Thyssen-Bornemisza, Madrid from Colin Bailey, ed., The Age of Watteau, Chardin and Fragonard, New Haven and New York, 2003",
+                    "files": {
+                        "large": "files/samplelargefilename.jpg",
+                        "thumb": "files/samplethumbfilename.jpg"
+                    }
+                },
+                {
+                    "weight": 4,
+                    "type": "context",
+                    "caption": "Detail of Francois Boucher, A lady fastening her Garter (La Toilette), 1742, Thyssen-Bornemisza, Madrid from Colin Bailey, ed., The Age of Watteau, Chardin and Fragonard, New Haven and New York, 2003",
+                    "files": {
+                        "large": "files/samplelargefilename.jpg",
+                        "thumb": "files/samplethumbfilename.jpg"
+                    }
+                }
+            ]
+        }
+    ],
+    "drawers": [
+        {
+            "id": "drawer-left",
+            "points": [
+                [206,176],
+                [206,202],
+                [220,199],
+                [220,171]
+            ],
+            "objects": [
+                1939439
+            ]
+        }
+    ]
+}

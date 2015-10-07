@@ -1,0 +1,134 @@
+#videos {
+    position: fixed;
+    top: 30px;
+    left: 30px;
+    width: 400px;
+    z-index: 9;
+
+    &.in {
+        .video-container {
+            height: 628px;
+        }
+    }
+
+    .audio-narrative {
+        @extend .drop-shadow;
+        @extend .transition;
+
+        height: 80px;
+        background: white;
+        border: 4px solid $tan;
+        display: block;
+        margin-bottom: 10px;
+
+        &:hover {
+            border-color: darken($tan, 5%);
+            
+            .audio-narrative-icon,
+            span {
+                opacity: 0.65;
+            }
+        }
+
+        .audio-narrative-icon {
+            @extend .transition;
+
+            background: url("../images/narrative-play.svg") center center no-repeat;
+            position: relative;
+            display: block;
+            top: 0;
+            bottom: 0;
+            border-right: 1px solid $tan;
+            width: 40px;
+            height: 100%;
+            float: left;
+            padding: 0 20px;
+            margin-right: 25px;
+            opacity: 1;
+
+            &.playing {
+                background: url("../images/narrative-pause.svg") center center no-repeat;
+            }
+        }
+        span {
+            @extend .bold-spaced;
+            @extend .transition;
+
+            float: left;
+            color: $tan;
+            padding: 32px 0;
+            opacity: 1;
+        }
+    }
+    .see-all {
+        @extend .drop-shadow;
+        @extend .bold-spaced;
+        @extend .transition;
+
+        background: $tan;
+        display: block;
+        font-size: 0.9rem;
+        max-height: 38px;
+        padding: 17px 0 15px;
+        text-align: center;
+        
+        &:hover {
+            background: darken($tan, 5%);
+        }
+    }
+    .video-container {
+        @extend .transition;
+
+        position: absolute;
+        width: 100%;
+        top: 98px;
+        overflow: hidden;
+        height: 0px;
+
+        .video {
+            @extend .drop-shadow;
+            @extend .transition;
+
+            width: 392px;
+            height: 180px;
+            border: 4px solid $tan;
+            background: white;
+            position: relative;
+            margin-bottom: 10px;
+            display: block;
+            overflow: hidden;
+            z-index: 10;
+
+            h2 {
+                @extend .bold-spaced;
+            
+                position: absolute;
+                background: rgba(0,0,0,0.5);
+                bottom: 8px;
+                left: 8px;
+                right: 8px;
+                padding: 19px 18px 17px;
+                font-size: 0.8rem;
+                font-weight: 500;
+                text-indent: 48px;
+                z-index: 10;
+
+                &:before {
+                    content: '';
+                    background: url("../images/video-play.svg") center left no-repeat;
+                    position: absolute;
+                    display: block;
+                    top: 0;
+                    bottom: 0;
+                    border-right: 1px solid rgba(255,255,255,0.35);
+                    width: 30px;
+                }
+            }
+            img {
+                width: 100%;
+                height: auto;
+                position: absolute;
+            }
+        }
+    }
+}

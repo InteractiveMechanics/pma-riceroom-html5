@@ -1,0 +1,30 @@
+#drawer-panel {
+    @extend .transition;
+
+    width: 640px;
+    background: url(../images/drawer-background.png) no-repeat center center;
+    background-size: 100%;
+    background-color: darken($light-gray, 10%);
+    z-index: 25;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: -684px;
+    color: $black;
+
+    &.active {
+        right: 0;
+
+        & + #detail-panel {
+            right: -84px;
+
+            &.active {
+                right: 640px;
+            }
+        }
+    }
+
+    a {
+        position: absolute;
+    }
+}

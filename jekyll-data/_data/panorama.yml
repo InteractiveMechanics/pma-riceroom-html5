@@ -1,0 +1,9 @@
+- id: "panorama_right"
+  view:
+    - hlookat: 90
+      vlookat: 10
+      maxpixelzoom: 1.25
+      fovmax: 90
+      limitview: range
+      vlookatmin: -32
+      vlookatmax: 56

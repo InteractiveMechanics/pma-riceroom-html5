@@ -1,0 +1,38 @@
+//  Colors
+$tan:           #ceaf70;
+$light-gray:    #f1f2f2;
+$black:         #231f20;
+$blue:          #25c3e5;
+
+$gold-dark:     #c3922e;
+$gold-mid:      #fbc926;
+$gold-light:    #e2c675;
+
+
+//  Helpers: Gradients
+.gold {
+    background: #1e5799;
+    background: -moz-linear-gradient(0deg,  $gold-dark 0%, $gold-mid 50%, $gold-light 100%);
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,$gold-dark), color-stop(50%,$gold-mid), color-stop(100%,$gold-light));
+    background: -webkit-linear-gradient(-45deg,  $gold-dark 0%,$gold-mid 50%,$gold-light 100%);
+    background: -o-linear-gradient(-45deg,  $gold-dark 0%,$gold-mid 50%,$gold-light 100%);
+    background: -ms-linear-gradient(-45deg,  $gold-dark 0%,$gold-mid 50%,$gold-light 100%);
+    background: linear-gradient(135deg,  $gold-dark 0%,$gold-mid 50%,$gold-light 100%);
+}
+
+
+//  Helpers: Typography
+.bold-spaced {
+    font-weight: 900;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+
+//  Helpers: Other
+.drop-shadow {
+    box-shadow: 0 4px 0 rgba(0,0,0,0.25);
+}
+.transition {
+    transition: 0.5s all;
+}

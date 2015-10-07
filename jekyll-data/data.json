@@ -1,0 +1,70 @@
+---
+layout: null
+---
+{
+    {% for panorama in site.data.panorama %}"id": "{{panorama.id}}",
+    "view": {
+        "hlookat": {{panorama.view[0].hlookat}},
+        "vlookat": {{panorama.view[0].vlookat}},
+        "maxpixelzoom": {{panorama.view[0].maxpixelzoom}},
+        "fovmax": {{panorama.view[0].fovmax}},
+        "vlookatmin": {{panorama.view[0].vlookatmin}},
+        "vlookatmax": {{panorama.view[0].vlookatmax}}
+    },{% endfor %}
+    "videos": [
+        {% for video in site.data.videos %}{
+            "title": "{{ video.title }}",
+            "files": {
+                "source": "files/{{ video.files[0].source }}",
+                "poster": "files/{{ video.files[0].poster }}",
+                "thumb": "files/{{ video.files[0].thumb }}"
+            }
+        }{% if forloop.index != forloop.length %},{% endif %}{% endfor %}
+    ],
+    "hotspots": [
+        {% for hotspot in site.hotspots %}{
+            "id": {{ hotspot.id }},
+            "zoomable": {{ hotspot.zoomable }},
+            "hotspot_image": "files/{{ hotspot.hotspot_image }}",
+            {% if hotspot.x %}"x": {{ hotspot.x }},{% endif %}
+            {% if hotspot.y %}"y": {{ hotspot.y }},{% endif %}
+            {% if hotspot.ath %}"ath": {{ hotspot.ath }},{% endif %}
+            {% if hotspot.atv %}"atv": {{ hotspot.atv }},{% endif %}
+            "content": {
+                {% for cnt in hotspot.context %}"accession": "{{ cnt.accession }}",
+                "title": "{{ cnt.title }}",
+                "description": "{{ cnt.description }}",
+                "date": "{{ cnt.date }}",
+                "creator": "{{ cnt.creator }}",
+                "location": "{{ cnt.location }}",
+                "medium": "{{ cnt.medium }}",
+                "credit": "{{ cnt.credit }}",
+                "url": "{{ cnt.url }}"{% endfor %}
+            },
+            "images": [
+                {% for image in hotspot.images %}{
+                    "weight": {{ image.weight }},
+                    "type": "{{ image.type }}",
+                    "files": {
+                        {% if image.files[0].large %}"large": "files/{{ image.files[0].large }}",{% endif %}
+                        {% if image.files[0].steps %}"steps": [{% for step in image.files[0].steps %}
+                            "files/{{ step.step }}"{% if forloop.index != forloop.length %},{% endif %}{% endfor %}
+                        ],{% endif %}
+                        {% if image.files[0].thumb %}"thumb": "files/{{ image.files[0].thumb }}"{% endif %}
+                    }
+                }{% if forloop.index != forloop.length %},{% endif %}{% endfor %}
+            ]
+        }{% if forloop.index != forloop.length %},{% endif %}{% endfor %}
+    ],
+    "drawers": [
+        {% for drawer in site.data.drawers %}{
+            "id": "{{ drawer.id }}",
+            "points": [
+                {% for point in drawer.points %}[{{ point.ath }},{{ point.atv }}]{% if forloop.index != forloop.length %},{% endif %}{% endfor %}
+            ],
+            "objects": [
+                {% for object in drawer.objects %}{{ object.id }}{% if forloop.index != forloop.length %},{% endif %}{% endfor %}
+            ]
+        }{% if forloop.index != forloop.length %},{% endif %}{% endfor %}
+    ]
+}

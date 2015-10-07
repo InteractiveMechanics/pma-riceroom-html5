@@ -1,0 +1,12 @@
+- id: "drawer-left"
+  points:
+    - ath: 206
+      atv: 170
+    - ath: 206
+      atv: 202
+    - ath: 220
+      atv: 199
+    - ath: 220
+      atv: 171
+  objects:
+    - id: 1939439

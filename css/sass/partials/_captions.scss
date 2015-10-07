@@ -1,0 +1,30 @@
+#captions {
+    @extend .transition;
+
+    position: fixed;
+    pointer-events: none;
+    width: 100%;
+    left: 0;
+    bottom: 25px;
+    text-align: center;
+    display: block;
+    z-index: 9;
+    opacity: 0;
+
+    &.hidden {
+        display: none;
+    }
+    &.in {
+        opacity: 1;
+        bottom: 50px;
+    }
+    
+    .caption-container {
+        display: inline-block;
+        width: auto;
+        background: rgba(0,0,0,0.75);
+        color: white;
+        padding: 14px 24px;
+        border-radius: 99px;
+    }
+}

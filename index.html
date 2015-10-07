@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>DEMO: Rice Room Interactive</title>
+	<title>Rice Room - Philadelphia Museum of Art</title>
 	<meta name="viewport" content="target-densitydpi=device-dpi, 
                                    width=device-width, 
                                    initial-scale=1.0, 
@@ -15,121 +15,188 @@
 	<meta http-equiv="x-ua-compatible" content="IE=edge" />
 
     <link href="./css/main.css" rel="stylesheet" />
+
+    <link href="./images/icons/apple-touch-icon-57x57.png" rel="apple-touch-icon" />
+    <link href="./images/icons/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57" />
+    <link href="./images/icons/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60" />
+    <link href="./images/icons/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+    <link href="./images/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+    <link href="./images/icons/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114" />
+    <link href="./images/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+    <link href="./images/icons/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144" />
+    <link href="./images/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+    <link href="./images/icons/favicon.png" rel="icon" sizes="64x64" />
 </head>
 <body>
-    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script src="2015_05_26TT005-HDR_2015_05_26TT056-HDR_18_20226x7842_cropped.js"></script>
-    <script src="./js/jquery.panzoom.js"></script>
-    <script src="./js/hammer.min.js"></script>
+    <script id="videos-template" type="text/x-handlebars-template">
+        {{#each videos}}
+            <a class="video" data-poster="{{files.poster}}" data-src="{{files.source}}" data-title="{{title}}">
+                <h2>{{title}}</h2>
+                <img src="{{files.thumb}}" />
+            </a>
+        {{/each}}
+        <div class="close bottom"></div>
+    </script>
 
-    <div id="desk" class="modal hidden">
-        <a href="javascript:void(0);" class="close">&times;</a>
+    <script id="modal-template" type="text/x-handlebars-template">
         <div class="modal-container">
-            <div id="hammer" class="media">
-                <img src="images/writing-table.jpg" />
-            </div>
-            <div class="metadata">
-                <h1>Writing Table</h1>
-                <label>Geography</label>
-                <p>Made in Paris, France, Europe</p>
+            <div class="close left"></div>
+            <video id="video" src="{{src}}" poster="{{poster}}"></video>
 
-                <label>Date</label>
-                <p>1783</p>
-                
-                <label>Medium</label>
-                <p>Oak with mahogany, sycamore, satinwood, boxwood, ebony, and other wood veneers; gilded bronze mounts</p>
-
-                <label>Label</label>
-                <p>This table was made for Marie-Antoinette (queen of France 1774-93) and delivered to her at the royal château at Marly, near Versailles.</p>
-
-                <label>Credit</label>
-                <p>Bequest of Eleanore Elkins Rice, 1939</p>
-            </div>
+            <div class="video-play-button"></div>
+            <div class="video-mute-button"></div>
+            <h2>Now Playing: <strong>{{title}}</strong></h2>
+            <input type="range" min="0" max="100" value="0" step="1" class="video-tracker" />
         </div>
+    </script>
+
+    <script id="detail-panel-template" type="text/x-handlebars-template">
+        <div class="close left"></div>
+        <div class="text-size right"></div>
+        <div class="media-container {{#if images.[1]}}expanded{{/if}}">
+            <div class="media-container-inner">
+                <img src="{{images.0.files.large}}" />
+                <span class="caption hidden"></span>
+            </div>
+            {{#if images.[1]}}
+                <ul class="media-container-thumbs">
+                {{#each images}}
+                    <li>
+                        <a 
+                            class="media-thumb"
+                            href="#" 
+                            data-type="{{type}}" 
+                            {{#ifCond type '==' '360'}}
+                                data-src="[{{files.steps}}]"
+                            {{/ifCond}}
+                            {{#ifCond type '==' 'context'}}
+                                data-src="{{files.large}}"
+                                data-caption="{{caption}}"
+                            {{/ifCond}}
+                            {{#ifCond type '==' 'zoom'}}
+                                data-src="{{files.large}}"
+                            {{/ifCond}}>
+                           <img src="{{files.thumb}}" />
+                        </a>
+                    </li>
+                {{/each}}
+                </ul>
+            {{/if}}
+        </div>
+        <div class="container">
+            <h1>{{content.title}} <small>{{content.date}}</small></h1>
+            {{#if content.description}}
+            <label>Description</label>
+            <p>{{content.description}}</p>
+            {{/if}}
+
+            {{#if content.creator}}
+            <label>Creator</label>
+            <p>{{content.creator}}</p>
+            {{/if}}
+
+            {{#if content.location}}
+            <label>Location</label>
+            <p>{{content.location}}</p>
+            {{/if}}
+
+            {{#if content.medium}}
+            <label>Medium</label>
+            <p>{{content.medium}}</p>
+            {{/if}}
+
+            {{#if content.credit}}
+            <label>Credit Line</label>
+            <p>{{content.credit}}</p>
+            {{/if}}
+
+            {{#if content.accession}}
+            <label>Accession</label>
+            <p>{{content.accession}}</p>
+            {{/if}}
+        </div>
+    </script>
+
+    <script id="drawer-panel-template" type="text/x-handlebars-template">
+        <div class="close left"></div>
+        <div class="container">
+            {{#each .}}
+                <a data-id="{{id}}" class="object" style="left:{{x}}px;top:{{y}}px;">
+                    <img src="{{hotspot_image}}" />
+                </a>
+            {{/each}}
+        </div>
+    </script>
+
+    <script src="./js/lib/jquery-1.11.3.min.js"></script>
+    <script src="./js/lib/preloadjs-0.6.1.min.js"></script>
+    <script src="./js/lib/defiant-latest.min.js"></script>
+    <script src="./js/lib/handlebars-v4.0.2.js"></script>
+    
+    <script src="./js/panorama.js"></script>
+    <script src="./js/controllers/utilities.js"></script>
+    <script src="./js/controllers/preloader.js"></script>
+    <script src="./js/controllers/detail-panel.js"></script>
+    <script src="./js/controllers/narrative.js"></script>
+    <script src="./js/controllers/drawer.js"></script>
+    <script src="./js/controllers/videos.js"></script>
+    <script src="./js/controllers/modal.js"></script>
+    <script src="./js/app.js"></script>
+    
+    <div id="captions" class="hidden">
+        <div class="caption-container"></div>
     </div>
-    <div id="carpet" class="modal hidden">
-        <a href="javascript:void(0);" class="close">&times;</a>
-        <div class="modal-container">
-            <div id="hammer" class="media">
-                <img src="images/carpet.jpg" />
-            </div>
-            <div class="metadata">
-                <h1>Carpet</h1>
-                <label>Geography</label>
-                <p>Made in Paris, France, Europe</p>
-
-                <label>Date</label>
-                <p>1668-1685</p>
-                
-                <label>Medium</label>
-                <p>Wool and linen</p>
-
-                <label>Label</label>
-                <p>This carpet is from a set of ninety-three rugs made for the Grande Galerie of the Louvre. In the center are four of King Louis XIV's double L monograms intertwined beneath crowns; at each end, flanked by eagles, appears a crowned globe with the royal motto "Nec Pluribus Impar" (Unequalled Among Many).</p>
-                <p>This is one of ninety-three carpets commissioned by Louis XIV for the long gallery that joined the Louvre and Tuileries palaces in Paris. Among the grandest weaving projects in European history, the scheme required carpets of the then-unprecedented length of over 29 feet each to be laid in two rows along the 1,450-foot gallery. Using specially built large looms housed in newly constructed buildings, two rival workshops in the royal Savonnerie carpet manufactory worked simultaneously on the project from 1668 to 1685. In scale and splendor the suite of carpets is comparable to the king's other celebrated achievements, such as the gardens at Versailles. The center of the present carpet, twenty-sixth in the series, is filled with four of the king's double-L monograms intertwined beneath crowns; a crowned globe inscribed with the royal motto and flanked by eagles appears at each end. This carpet, which has been shortened at one end with the border reattached, was one of a pair of the same design. Katherine B. Hiesinger, from Philadelphia Museum of Art: Handbook of the Collections (1995), p.134.</p>
-
-                <label>Credit</label>
-                <p>Bequest of Eleanore Elkins Rice, 1939</p>
-            </div>
+    <div id="videos">
+        <a class="audio-narrative">
+            <div class="audio-narrative-icon"></div>
+            <span>About the Rice Room</span>
+        </a>
+        <a class="see-all">See All Videos</a>
+        <div class="video-container"></div>
+    </div>
+    <div id="modal" class="hidden"></div>
+    <div id="drawer-panel"></div>
+    <div id="detail-panel"></div>
+    <div id="hidden"></div>
+    <div id="preloader" class="in">
+        <div class="container">
+            <img src="./images/logo.gif" />
         </div>
     </div>
     <div id="pano">
-    	<noscript>
-            <table style="width:100%;height:100%;">
-                <tr style="vertical-align:middle;">
-                    <td><div style="text-align:center;">ERROR:<br/><br/>Javascript not activated</div></td>
-                </tr>
-            </table>
-        </noscript>
     	<script>
     		embedpano({
-                swf:"2015_05_26TT005-HDR_2015_05_26TT056-HDR_18_20226x7842_cropped.swf", 
-                xml:"2015_05_26TT005-HDR_2015_05_26TT056-HDR_18_20226x7842_cropped.xml", 
-                target:"pano", 
-                html5:"prefer", 
+                swf:"panorama_right.swf",
+                xml:"./jekyll-data/build/panorama.xml",
+                target:"pano",
+                html5:"prefer",
                 passQueryParameters:true
             });
+            function lookToHotspot(id){
+                var krpano = document.getElementById("krpanoSWFObject");
+                if (krpano && krpano.get) {
+                    krpano.call("looktohotspot('" + id + "', 60);");
+                }
+            }
+            function returnToZoom(){
+                var krpano = document.getElementById("krpanoSWFObject");
+                if (krpano && krpano.get) {
+                    krpano.call("zoomto(90);");
+                }
+            }
+            function resetToStart(){
+                var krpano = document.getElementById("krpanoSWFObject");
+                if (krpano && krpano.get) {
+                    krpano.call("lookto(90,10,90);");
+                }
+            }
+            function slowRotate(force){
+                var krpano = document.getElementById("krpanoSWFObject");
+                if (krpano && krpano.get) {
+                    krpano.call("set(hlookat_moveforce, " + force + ");");
+                }
+            }
     	</script>
     </div>
-    <script>
-        function popModal(id) {
-            $('#' + id).removeClass('hidden');
-            setTimeout(function(){
-                $('#' + id).addClass('in');
-            }, 100);
-        }
-        function closeModal() {
-            $(this).parent().removeClass('in');
-            setTimeout(function(){
-                $('.modal').addClass('hidden');
-            }, 500);
-        }
-
-        $(function(){
-            var $media = $('.media');
-            var myElement = document.getElementById('hammer');
-            var hammer = new Hammer(myElement);
-
-            $(document).on('click', '.modal .close', closeModal);
-            hammer.on('doubletap', function(e) { e.preventDefault(); $media.panzoom('zoomIn'); });
-            
-            $media.panzoom({
-                startTransform: 'scale(1)',
-                increment: 0.3,
-                minScale: 1,
-                contain: 'invert'
-            });
-            $media.on('mousewheel.focal', function( e ) {
-                e.preventDefault();
-                var delta = e.delta || e.originalEvent.wheelDelta;
-                var zoomOut = delta ? delta < 0 : e.originalEvent.deltaY > 0;
-                $media.panzoom('zoom', zoomOut, {
-                    increment: 0.2,
-                    animate: true,
-                    focal: e
-                });
-            });
-        });
-    </script>
 </body>
 </html>

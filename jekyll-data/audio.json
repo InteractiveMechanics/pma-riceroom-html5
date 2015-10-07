@@ -1,0 +1,11 @@
+---
+layout: null
+---
+[
+    {% for segment in site.data.audio %}
+    {
+        "time": {{ segment.time }},
+        "text": "{{ segment.text }}"{% if segment.action %},
+        "action": "{{ segment.action }}"{% endif %}
+    }{% if forloop.index != forloop.length %},{% endif %}{% endfor %}
+]

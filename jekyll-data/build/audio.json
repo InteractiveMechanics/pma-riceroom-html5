@@ -1,0 +1,51 @@
+[
+    
+    {
+        "time": 0,
+        "text": "The room you are standing in is one of the Museum's thirty-four historic interiors.",
+        "action": "resetToStart()"
+    },
+    {
+        "time": 5500,
+        "text": "These spaces serve as an example of architectural styles from around the world",
+        "action": "slowRotate(-0.025)"
+    },
+    {
+        "time": 10500,
+        "text": "and across time that offer a glimpse into the past."
+    },
+    {
+        "time": 14000,
+        "text": "Because the room so closely resembles an eighteenth-century Parisian salon"
+    },
+    {
+        "time": 17500,
+        "text": "it often surprises people to learn that it comes from a New York townhouse"
+    },
+    {
+        "time": 23000,
+        "text": "built by a socially prominent couple during America's late Gilded Age."
+    },
+    {
+        "time": 28000,
+        "text": "In it, you will find the wall lights that once lit the house of Louis XVI's aunts,"
+    },
+    {
+        "time": 32000,
+        "text": "a carpet made for Louis XIV,"
+    },
+    {
+        "time": 34000,
+        "text": "and even a writing table belonging to Marie Antoinette."
+    },
+    {
+        "time": 37000,
+        "text": "Touch any object on the screen",
+        "action": "Videos.openVideos()"
+    },
+    {
+        "time": 39000,
+        "text": "or select a video to find out more.",
+        "action": "resetToStart()"
+    }
+]
