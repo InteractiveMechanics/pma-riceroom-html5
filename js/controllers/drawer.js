@@ -29,6 +29,7 @@ Drawer = (function() {
     var closeDrawer = function() {
         opened = false;
         drawer.removeClass('active');
+        DetailPanel.closeDetailPanel();
         returnToZoom();
     }
     var openDetailPanel = function() {

@@ -20,22 +20,19 @@ images:
   - weight:         0
     type:           "zoom"
     files:
-      - large:      "samplelargefilename.jpg"
-        thumb:      "samplethumbfilename.jpg"
+      - large:      "1939419a.jpg"
+        thumb:      "1939419a_thumb.jpg"
 
   - weight:         1
     type:           "context"
     caption:        "Portrait of Madame Elizabeth, Adelaide Labille-Guiard, 1788, Versailles, from the web"
     files:
-      - large:      "samplelargefilename.jpg"
-        thumb:      "samplethumbfilename.jpg"
+      - large:      "1939419b.png"
+        thumb:      "1939419b_thumb.jpg"
 
   - weight:         2
-    type:           "360"
+    type:           "zoom"
     files:
-      - thumb:      "samplethumbfilename.jpg"
-        steps:
-          - step:   "sample360step.jpg"
-          - step:   "sample360step.jpg"
-          - step:   "sample360step.jpg"
+      - thumb:      "1939419c_thumb.jpg"
+        large:      "1939419c.jpg"
 ---

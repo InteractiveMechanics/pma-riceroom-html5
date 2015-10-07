@@ -3,11 +3,12 @@ Narrative = (function() {
     var captions;
     var playing;
     var container;
-    var interval;
+    var intervals;
 
     var init = function() {
         playing = false;
         container = $('#captions');
+        intervals = [];
         audio = new Audio('files/narrative.mp3');
 
         $.get('/jekyll-data/build/audio.json', function(response) {
@@ -31,9 +32,9 @@ Narrative = (function() {
         audio.currentTime = 0;
         slowRotate(0);
         toggleAudioIcon(false);
-        clearTimeout(interval);
         
-        interval = undefined;
+        $.each(intervals, function(index, value){ clearTimeout(value); });
+        intervals = [];
 
         container.removeClass('in');
         setTimeout(function(){
@@ -49,13 +50,13 @@ Narrative = (function() {
         } else {
             audio.play();
             $.each(captions, function(i, caption) {
-                interval = setTimeout(function(){
+                intervals.push(setTimeout(function(){
                     container.find('.caption-container').text(caption.text);
                     if (caption.action) {
                         var tempFunction = new Function(caption.action);
                         tempFunction();
                     }
-                }, caption.time);
+                }, caption.time));
             });
 
             toggleAudioIcon(true);

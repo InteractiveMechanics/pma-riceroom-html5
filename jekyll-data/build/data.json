@@ -54,82 +54,71 @@
             },
             "images": [
                 {
+                    
                     "weight": 0,
                     "type": "zoom",
                     "files": {
-                        "large": "files/samplelargefilename.jpg",
+                        "large": "files/1939419a.jpg",
                         
-                        "thumb": "files/samplethumbfilename.jpg"
+                        "thumb": "files/1939419a_thumb.jpg"
                     }
                 },{
+                    "caption": "Portrait of Madame Elizabeth, Adelaide Labille-Guiard, 1788, Versailles, from the web",
                     "weight": 1,
                     "type": "context",
                     "files": {
-                        "large": "files/samplelargefilename.jpg",
+                        "large": "files/1939419b.png",
                         
-                        "thumb": "files/samplethumbfilename.jpg"
+                        "thumb": "files/1939419b_thumb.jpg"
                     }
                 },{
+                    
                     "weight": 2,
-                    "type": "360",
+                    "type": "zoom",
                     "files": {
+                        "large": "files/1939419c.jpg",
                         
-                        "steps": [
-                            "files/sample360step.jpg",
-                            "files/sample360step.jpg",
-                            "files/sample360step.jpg"
-                        ],
-                        "thumb": "files/samplethumbfilename.jpg"
+                        "thumb": "files/1939419c_thumb.jpg"
                     }
                 }
             ]
         },{
-            "id": 1939439,
-            "zoomable": false,
-            "hotspot_image": "files/1939419_hotspot.png",
-            "x": 1,
-            "y": 100,
+            "id": 19394141,
+            "zoomable": true,
+            "hotspot_image": "files/19394141_hotspot.png",
+            "x": 112,
+            "y": 955,
             
             
             "content": {
-                "accession": "1939-41-9",
-                "title": "Writing Table",
-                "description": "This table was made for Mme Elisabeth, sister of Louis XVI, and delivered to the palace at Versailles, where she occupied a first-floor apartment. This exquisite writing table was delivered by Jean-Henri Riesener to the Versailles apartment of Princess Elisabeth, the youngest sister of King Louis XVI, on December 31, 1785.",
-                "date": "1783",
-                "creator": "Jean-Henri Riesener, German (active Paris), 1734 - 1806",
-                "location": "Made in Paris, France, Europe",
-                "medium": "Oak with mahogany, satinwood, purplewood, and other wood veneers; gilded bronze mounts",
+                "accession": "1939-41-41A, B",
+                "title": "Pair of Wine Coolers",
+                "description": "This wine cooler was likely part of a dessert service that was sold by the Paris dealer Lazare Duvaux to the duc de Richelieu (Louis-François-Armand de Vignerot du Plessis), grandnephew of Cardinal Richelieu, on January 9, 1759.",
+                "date": "1758",
+                "creator": "Made at the Sèvres porcelain manufactory, Sèvres, France, 1756-present",
+                "location": "Made in Sèvres, France, Europe",
+                "medium": "Soft-paste porcelain with enamel and gilt decoration",
                 "credit": "Bequest of Eleanore Elkins Rice, 1939",
-                "url": "http://www.philamuseum.org/collections/permanent/45855.html?mulR=61461129|1"
+                "url": "http://www.philamuseum.org/collections/permanent/133207.html?mulR=1921181625|1"
             },
             "images": [
                 {
+                    
                     "weight": 0,
                     "type": "zoom",
                     "files": {
-                        "large": "files/samplelargefilename.jpg",
+                        "large": "files/19394141a.jpg",
                         
-                        "thumb": "files/samplethumbfilename.jpg"
+                        "thumb": "files/19394141a_thumb.jpg"
                     }
                 },{
+                    
                     "weight": 1,
-                    "type": "context",
+                    "type": "zoom",
                     "files": {
-                        "large": "files/samplelargefilename.jpg",
+                        "large": "files/19394141b.jpg",
                         
-                        "thumb": "files/samplethumbfilename.jpg"
-                    }
-                },{
-                    "weight": 2,
-                    "type": "360",
-                    "files": {
-                        
-                        "steps": [
-                            "files/sample360step.jpg",
-                            "files/sample360step.jpg",
-                            "files/sample360step.jpg"
-                        ],
-                        "thumb": "files/samplethumbfilename.jpg"
+                        "thumb": "files/19394141b_thumb.jpg"
                     }
                 }
             ]
@@ -142,7 +131,7 @@
                 [206,170],[206,202],[220,199],[220,171]
             ],
             "objects": [
-                1939439
+                19394141
             ]
         }
     ]

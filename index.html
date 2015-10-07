@@ -54,9 +54,9 @@
         <div class="close left"></div>
         <div class="text-size right"></div>
         <div class="media-container {{#if images.[1]}}expanded{{/if}}">
-            <div class="media-container-inner">
+            <div class="media-container-inner media-type-{{images.0.type}}">
                 <img src="{{images.0.files.large}}" />
-                <span class="caption hidden"></span>
+                <span class="caption">{{images.0.caption}}</span>
             </div>
             {{#if images.[1]}}
                 <ul class="media-container-thumbs">
@@ -128,7 +128,9 @@
         </div>
     </script>
 
+    <script src="./js/lib/hammer.min.js"></script>
     <script src="./js/lib/jquery-1.11.3.min.js"></script>
+    <script src="./js/lib/jquery.hammer.js"></script>
     <script src="./js/lib/preloadjs-0.6.1.min.js"></script>
     <script src="./js/lib/defiant-latest.min.js"></script>
     <script src="./js/lib/handlebars-v4.0.2.js"></script>

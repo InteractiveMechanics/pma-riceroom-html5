@@ -43,6 +43,7 @@ layout: null
             },
             "images": [
                 {% for image in hotspot.images %}{
+                    {% if image.caption %}"caption": "{{ image.caption }}",{% endif %}
                     "weight": {{ image.weight }},
                     "type": "{{ image.type }}",
                     "files": {

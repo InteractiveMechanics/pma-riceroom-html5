@@ -1,12 +1,12 @@
 Utilities = (function() {
     var timeout;
-    var duration = 60000;
+    var duration = 600000;
     var isMuted;
     var isMediaActive;
 
     var init = function() {
         this.isMuted = false;
-        this.isMediaActive = false;
+        this.isMediaActive = false;        
         bindEvents();
     }
     var resetTimeout = function() {
