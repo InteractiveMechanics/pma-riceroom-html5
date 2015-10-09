@@ -1,0 +1,26 @@
+---
+id:                 "19394119"
+zoomable:           true
+hotspot_image:      "images/hotspot-white-fill@2x.png"
+ath:                
+atv:                
+
+context:
+  - accession:      "1939-41-19"
+    title:          "Sofa"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394119a.jpg"
+        thumb:      "19394119a_thumb.jpg"
+
+---

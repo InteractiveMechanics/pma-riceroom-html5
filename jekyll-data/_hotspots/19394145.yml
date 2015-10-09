@@ -1,0 +1,26 @@
+---
+id:                 "19394145"
+zoomable:           false
+hotspot_image:      "19394145_hotspot.png"
+x:                  193
+y:                  245
+
+context:
+  - accession:      "1939-41-45A, B"
+    title:          "Pair of Vases"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394145a.jpg"
+        thumb:      "19394145a_thumb.jpg"
+
+---

@@ -1,0 +1,26 @@
+---
+id:                 "19394161"
+zoomable:           false
+hotspot_image:      "19394161_hotspot.png"
+x:                  206
+y:                  900
+
+context:
+  - accession:      "1939-41-61a, b"
+    title:          "Vase with Lid"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394161a.jpg"
+        thumb:      "19394161a_thumb.jpg"
+
+---

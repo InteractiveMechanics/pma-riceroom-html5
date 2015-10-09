@@ -19,17 +19,101 @@
 
     
     <hotspot 
-        name="a1939411"
+        name="a19394116"
+        type="image"
+        url="/images/hotspot-white-fill@2x.png"
+        visible="true"
+        enabled="true"
+        ath="20"
+        atv="170"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        onclick="js( DetailPanel.updateDetailPanel(19394116) );" />
+    <hotspot 
+        name="a19394127"
+        type="image"
+        url="/images/hotspot-white-stroke@2x.png"
+        visible="true"
+        enabled="true"
+        ath="275"
+        atv="135"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        onclick="js( DetailPanel.updateDetailPanel(19394127) );" />
+    <hotspot 
+        name="a19394128"
+        type="image"
+        url="/images/hotspot-white-stroke@2x.png"
+        visible="true"
+        enabled="true"
+        ath="227.5"
+        atv="183"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        onclick="js( DetailPanel.updateDetailPanel(19394128) );" />
+    <hotspot 
+        name="a19394130a"
         type="image"
         url="/images/hotspot-white-stroke@2x.png"
         visible="true"
         enabled="true"
         ath="270"
-        atv="160"
-        scale="0.5"
+        atv="182"
+        scale="0.35"
         edge="center"
         zoom="true"
-        onclick="js( DetailPanel.updateDetailPanel(1939411) );" />
+        onclick="js( DetailPanel.updateDetailPanel(19394130a) );" />
+    <hotspot 
+        name="a19394130b"
+        type="image"
+        url="/images/hotspot-white-stroke@2x.png"
+        visible="true"
+        enabled="true"
+        ath="298"
+        atv="185"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        onclick="js( DetailPanel.updateDetailPanel(19394130b) );" />
+    <hotspot 
+        name="a19394130c"
+        type="image"
+        url="/images/hotspot-white-stroke@2x.png"
+        visible="true"
+        enabled="true"
+        ath="326"
+        atv="192"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        onclick="js( DetailPanel.updateDetailPanel(19394130c) );" />
+    <hotspot 
+        name="a19394130d"
+        type="image"
+        url="/images/hotspot-white-stroke@2x.png"
+        visible="true"
+        enabled="true"
+        ath="114"
+        atv="192"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        onclick="js( DetailPanel.updateDetailPanel(19394130d) );" />
+    <hotspot 
+        name="a1939419"
+        type="image"
+        url="/images/hotspot-white-stroke@2x.png"
+        visible="true"
+        enabled="true"
+        ath="40"
+        atv="160"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        onclick="js( DetailPanel.updateDetailPanel(1939419) );" />
     
     <hotspot
         name="drawer-left"
@@ -43,6 +127,20 @@
         <point ath="206" atv="202" />
         <point ath="220" atv="199" />
         <point ath="220" atv="171" />
+        
+    </hotspot>
+    <hotspot
+        name="drawer-right"
+        enabled="true"
+        alpha="0"
+        borderwidth="3.0"
+        bordercolor="0xFFFFFF"
+        borderalpha="0.5"
+        onclick="js( Drawer.openDrawer('drawer-right') );">
+        <point ath="242" atv="172" />
+        <point ath="242" atv="190" />
+        <point ath="246" atv="188" />
+        <point ath="246" atv="173" />
         
     </hotspot>
 

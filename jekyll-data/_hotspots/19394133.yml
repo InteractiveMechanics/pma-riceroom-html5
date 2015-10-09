@@ -1,0 +1,26 @@
+---
+id:                 "19394133"
+zoomable:           true
+hotspot_image:      "images/hotspot-white-fill@2x.png"
+ath:                
+atv:                
+
+context:
+  - accession:      "1939-41-33"
+    title:          "Bust of Madame La Poupliniere"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394133a.jpg"
+        thumb:      "19394133a_thumb.jpg"
+
+---

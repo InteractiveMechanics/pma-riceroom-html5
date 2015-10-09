@@ -10,6 +10,7 @@ html, body {
 .text-size,
 .close {
     @extend .gold;
+    @extend .transition;
 
     position: absolute;
     z-index: 9;
@@ -20,6 +21,11 @@ html, body {
     line-height: 0.9;
     height: 44px;
     width: 44px;
+    box-shadow: 0 4px 0 rgba(0,0,0,0.1);
+
+    &:hover {
+        box-shadow: 0 4px 0 rgba(0,0,0,0.2);
+    }
 
     &.bottom {
         bottom: 0;

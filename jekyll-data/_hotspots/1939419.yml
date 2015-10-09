@@ -1,0 +1,38 @@
+---
+id:                 1939419
+zoomable:           true
+hotspot_image:      "images/hotspot-white-stroke@2x.png"
+ath:                40
+atv:                160
+
+context:
+  - accession:      "1939-41-9"
+    title:          "Writing Table"
+    date:           "1783"
+    creator:        "Jean-Henri Riesener, German (active Paris), 1734 - 1806"
+    location:       "Made in Paris, France, Europe"
+    credit:         "Bequest of Eleanore Elkins Rice, 1939"
+    medium:         "Oak with mahogany, satinwood, purplewood, and other wood veneers; gilded bronze mounts"
+    url:            "http://www.philamuseum.org/collections/permanent/45855.html?mulR=61461129|1"
+    description:    "This table was made for Mme Elisabeth, sister of Louis XVI, and delivered to the palace at Versailles, where she occupied a first-floor apartment. This exquisite writing table was delivered by Jean-Henri Riesener to the Versailles apartment of Princess Elisabeth, the youngest sister of King Louis XVI, on December 31, 1785."
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "1939419a.jpg"
+        thumb:      "1939419a_thumb.jpg"
+
+  - weight:         1
+    type:           "context"
+    caption:        "Portrait of Madame Elizabeth, Adelaide Labille-Guiard, 1788, Versailles, from the web"
+    files:
+      - large:      "1939419b.png"
+        thumb:      "1939419b_thumb.jpg"
+
+  - weight:         2
+    type:           "zoom"
+    files:
+      - thumb:      "1939419c_thumb.jpg"
+        large:      "1939419c.jpg"
+---

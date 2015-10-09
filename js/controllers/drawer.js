@@ -24,16 +24,20 @@ Drawer = (function() {
 
         drawer.html(rendered).addClass('active');
         DetailPanel.closeDetailPanel();
+        Videos.closeVideos();
         lookToHotspot(id);
     }
     var closeDrawer = function() {
         opened = false;
         drawer.removeClass('active');
+        drawer.find('.object').removeClass('open');
         DetailPanel.closeDetailPanel();
         returnToZoom();
     }
     var openDetailPanel = function() {
         var id = $(this).attr('data-id');
+        drawer.find('.object').removeClass('open');
+        $(this).addClass('open');
         DetailPanel.updateDetailPanel(id);
     }
     var bindEvents = function() {

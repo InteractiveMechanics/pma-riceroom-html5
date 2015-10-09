@@ -1,0 +1,26 @@
+---
+id:                 "19394144"
+zoomable:           false
+hotspot_image:      "19394144_hotspot.png"
+x:                  230
+y:                  422
+
+context:
+  - accession:      "1939-41-44a--c"
+    title:          "Vase"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394144a.jpg"
+        thumb:      "19394144a_thumb.jpg"
+
+---

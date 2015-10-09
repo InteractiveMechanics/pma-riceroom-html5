@@ -1,0 +1,26 @@
+---
+id:                 "19394152"
+zoomable:           false
+hotspot_image:      "19394152_hotspot.png"
+x:                  410
+y:                  -8
+
+context:
+  - accession:      "1939-41-52"
+    title:          "Potpourri Vase"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394152a.jpg"
+        thumb:      "19394152a_thumb.jpg"
+
+---

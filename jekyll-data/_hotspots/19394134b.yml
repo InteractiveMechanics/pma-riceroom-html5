@@ -1,0 +1,26 @@
+---
+id:                 "19394134b"
+zoomable:           true
+hotspot_image:      "images/hotspot-white-fill@2x.png"
+ath:                
+atv:                
+
+context:
+  - accession:      "1939-41-34b"
+    title:          "Venus Embracing Cupid"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394134ba.jpg"
+        thumb:      "19394134ba_thumb.jpg"
+
+---

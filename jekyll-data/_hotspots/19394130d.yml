@@ -1,0 +1,26 @@
+---
+id:                 "19394130d"
+zoomable:           true
+hotspot_image:      "images/hotspot-white-stroke@2x.png"
+ath:                114
+atv:                192
+
+context:
+  - accession:      "1939-41-30d"
+    title:          "Tapestry showing Psyche's Arrival at Cupid's Palace (L'Arrivee de Psyche dans le palais de l'Amour)"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394130da.jpg"
+        thumb:      "19394130da_thumb.jpg"
+
+---

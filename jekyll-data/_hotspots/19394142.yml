@@ -1,0 +1,26 @@
+---
+id:                 19394142
+zoomable:           false
+hotspot_image:      "19394142_hotspot.png"
+x:                  65
+y:                  252
+
+context:
+  - accession:      "1939-41-42"
+    title:          "Candlesticks"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394142a.jpg"
+        thumb:      "19394142a_thumb.jpg"
+
+---

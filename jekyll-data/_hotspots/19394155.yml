@@ -1,0 +1,26 @@
+---
+id:                 19394155
+zoomable:           false
+hotspot_image:      "19394155_hotspot.png"
+x:                  220
+y:                  420
+
+context:
+  - accession:      "1939-41-55"
+    title:          "Figure of Mr. Fagon"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394155a.jpg"
+        thumb:      "19394155a_thumb.jpg"
+
+---

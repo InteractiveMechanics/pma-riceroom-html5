@@ -1,0 +1,26 @@
+---
+id:                 "19394130c"
+zoomable:           true
+hotspot_image:      "images/hotspot-white-stroke@2x.png"
+ath:                326
+atv:                192
+
+context:
+  - accession:      "1939-41-30c"
+    title:          "Tapestry showing Psyche and the Basketmaker (Psyche et le vannier)"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394130ca.jpg"
+        thumb:      "19394130ca_thumb.jpg"
+
+---

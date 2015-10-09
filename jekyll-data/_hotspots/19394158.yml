@@ -1,0 +1,26 @@
+---
+id:                 "19394158"
+zoomable:           false
+hotspot_image:      "19394158_hotspot.png"
+x:                  223
+y:                  634
+
+context:
+  - accession:      "1939-41-58"
+    title:          "Mantel Clock"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394158a.jpg"
+        thumb:      "19394158a_thumb.jpg"
+
+---

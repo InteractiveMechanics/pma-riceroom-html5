@@ -1,0 +1,26 @@
+---
+id:                 "19394150"
+zoomable:           false
+hotspot_image:      "19394150_hotspot.png"
+x:                  30
+y:                  -8
+
+context:
+  - accession:      "1939-41-50A, B"
+    title:          "Vase"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394150a.jpg"
+        thumb:      "19394150a_thumb.jpg"
+
+---

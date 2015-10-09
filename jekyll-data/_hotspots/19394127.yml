@@ -1,0 +1,26 @@
+---
+id:                 19394127
+zoomable:           true
+hotspot_image:      "images/hotspot-white-stroke@2x.png"
+ath:                275
+atv:                135
+
+context:
+  - accession:      "1939-41-27"
+    title:          "Carpet"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394127a.jpg"
+        thumb:      "19394127a_thumb.jpg"
+
+---

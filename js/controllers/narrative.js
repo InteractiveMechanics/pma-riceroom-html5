@@ -24,8 +24,7 @@ Narrative = (function() {
     }
     var onNarrativeEnd = function() {
         if (audio.currentTime == audio.duration) {
-            stopNarrative();
-            toggleAudioIcon(false);
+            toggleNarrativePlaying();
         }
     }
     var stopNarrative = function () {
@@ -49,6 +48,8 @@ Narrative = (function() {
             stopNarrative();
         } else {
             audio.play();
+            toggleAudioIcon(true);
+
             $.each(captions, function(i, caption) {
                 intervals.push(setTimeout(function(){
                     container.find('.caption-container').text(caption.text);
@@ -59,11 +60,14 @@ Narrative = (function() {
                 }, caption.time));
             });
 
-            toggleAudioIcon(true);
             container.removeClass('hidden');
             setTimeout(function(){
                 container.addClass('in');
             }, 100);
+
+            Videos.closeVideos();
+            DetailPanel.closeDetailPanel();
+            Drawer.closeDrawer();
             Utilities.toggleActiveMedia(true);
         }
         playing = !playing;

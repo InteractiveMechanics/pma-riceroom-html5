@@ -23,7 +23,7 @@ layout: null
     ],
     "hotspots": [
         {% for hotspot in site.hotspots %}{
-            "id": {{ hotspot.id }},
+            "id": "{{ hotspot.id }}",
             "zoomable": {{ hotspot.zoomable }},
             "hotspot_image": "files/{{ hotspot.hotspot_image }}",
             {% if hotspot.x %}"x": {{ hotspot.x }},{% endif %}

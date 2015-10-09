@@ -1,0 +1,26 @@
+---
+id:                 "19394110"
+zoomable:           true
+hotspot_image:      "images/hotspot-white-stroke@2x.png"
+ath:                
+atv:                
+
+context:
+  - accession:      "1939-41-10"
+    title:          "Writing Table"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394110a.jpg"
+        thumb:      "19394110a_thumb.jpg"
+
+---

@@ -1,0 +1,26 @@
+---
+id:                 "19394117b"
+zoomable:           true
+hotspot_image:      "images/hotspot-white-fill@2x.png"
+ath:                
+atv:                
+
+context:
+  - accession:      "1939-41-17b, c, d, e, f, g"
+    title:          "Chairs from a Suite of Furniture"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394117ba.jpg"
+        thumb:      "19394117ba_thumb.jpg"
+
+---

@@ -1,0 +1,26 @@
+---
+id:                 1939412
+zoomable:           true
+hotspot_image:      "images/hotspot-white-fill@2x.png"
+ath:                
+atv:                
+
+context:
+  - accession:      "1939-41-2a, b"
+    title:          "Pair of Commodes"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "1939412a.jpg"
+        thumb:      "1939412a_thumb.jpg"
+
+---

@@ -29,7 +29,7 @@ layout: null
         enabled="true"
         ath="{{ hotspot.ath }}"
         atv="{{ hotspot.atv }}"
-        scale="0.5"
+        scale="0.35"
         edge="center"
         zoom="true"
         onclick="js( DetailPanel.updateDetailPanel({{ hotspot.id }}) );" />{% endif %}{% endfor %}

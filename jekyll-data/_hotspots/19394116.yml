@@ -1,0 +1,26 @@
+---
+id:                 19394116
+zoomable:           true
+hotspot_image:      "images/hotspot-white-fill@2x.png"
+ath:                20
+atv:                170
+
+context:
+  - accession:      "1939-41-16"
+    title:          "Folding Screen"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394116a.jpg"
+        thumb:      "19394116a_thumb.jpg"
+
+---

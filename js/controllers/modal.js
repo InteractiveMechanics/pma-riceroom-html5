@@ -22,6 +22,8 @@ Modal = (function() {
         video = $('#video');
         tracking = $('.video-tracker');
 
+        DetailPanel.closeDetailPanel();
+        Drawer.closeDrawer();
         Utilities.toggleActiveMedia(true);
         if (Utilities.isMuted) {
             video.get(0).muted = true;

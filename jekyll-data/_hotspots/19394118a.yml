@@ -1,0 +1,26 @@
+---
+id:                 "19394118a"
+zoomable:           true
+hotspot_image:      "images/hotspot-white-fill@2x.png"
+ath:                
+atv:                
+
+context:
+  - accession:      "1939-41-18a"
+    title:          "Sofa from a Suite of Furniture"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394118aa.jpg"
+        thumb:      "19394118aa_thumb.jpg"
+
+---

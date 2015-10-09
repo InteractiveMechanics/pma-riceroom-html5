@@ -1,0 +1,26 @@
+---
+id:                 "19394151"
+zoomable:           false
+hotspot_image:      "19394151_hotspot.png"
+x:                  222
+y:                  -6
+
+context:
+  - accession:      "1939-41-51"
+    title:          "Pitcher"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394151a.jpg"
+        thumb:      "19394151a_thumb.jpg"
+
+---
