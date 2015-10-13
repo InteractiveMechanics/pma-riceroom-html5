@@ -67,3 +67,19 @@ html, body {
         left: 14px;
     }
 }
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    @extend .transition;
+    
+    background: rgba(0,0,0,0.05);
+    border-radius: 99px;    
+}
+::-webkit-scrollbar-thumb {
+    @extend .transition;
+
+    border-radius: 99px;
+    background: rgba(0,0,0,0.1);
+}

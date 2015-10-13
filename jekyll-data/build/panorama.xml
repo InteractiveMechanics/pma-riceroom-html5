@@ -19,10 +19,22 @@
 
     
     <hotspot 
+        name="a19394110"
+        type="image"
+        url="/images/hotspot-white-fill@2x.png"
+        visible="false"
+        enabled="true"
+        ath="270"
+        atv="161"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        onclick="js( DetailPanel.updateDetailPanel(19394110) );" />
+    <hotspot 
         name="a19394116"
         type="image"
         url="/images/hotspot-white-fill@2x.png"
-        visible="true"
+        visible="false"
         enabled="true"
         ath="20"
         atv="170"
@@ -30,6 +42,18 @@
         edge="center"
         zoom="true"
         onclick="js( DetailPanel.updateDetailPanel(19394116) );" />
+    <hotspot 
+        name="a1939412"
+        type="image"
+        url="/images/hotspot-white-fill@2x.png"
+        visible="false"
+        enabled="true"
+        ath="86"
+        atv="152"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        onclick="js( DetailPanel.updateDetailPanel(1939412) );" />
     <hotspot 
         name="a19394127"
         type="image"
@@ -103,6 +127,42 @@
         zoom="true"
         onclick="js( DetailPanel.updateDetailPanel(19394130d) );" />
     <hotspot 
+        name="a19394139"
+        type="image"
+        url="/images/hotspot-white-fill@2x.png"
+        visible="false"
+        enabled="true"
+        ath="76"
+        atv="168"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        onclick="js( DetailPanel.updateDetailPanel(19394139) );" />
+    <hotspot 
+        name="a1939414"
+        type="image"
+        url="/images/hotspot-white-fill@2x.png"
+        visible="false"
+        enabled="true"
+        ath="330"
+        atv="165"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        onclick="js( DetailPanel.updateDetailPanel(1939414) );" />
+    <hotspot 
+        name="a1939418"
+        type="image"
+        url="/images/hotspot-white-fill@2x.png"
+        visible="false"
+        enabled="true"
+        ath="133"
+        atv="160"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        onclick="js( DetailPanel.updateDetailPanel(1939418) );" />
+    <hotspot 
         name="a1939419"
         type="image"
         url="/images/hotspot-white-stroke@2x.png"
@@ -143,5 +203,9 @@
         <point ath="246" atv="173" />
         
     </hotspot>
+
+    <events
+        onmousewheel="js( updateSecondaryHotspots() );"
+        />
 
 </krpano>

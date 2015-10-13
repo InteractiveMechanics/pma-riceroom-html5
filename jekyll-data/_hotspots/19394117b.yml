@@ -23,4 +23,52 @@ images:
       - large:      "19394117ba.jpg"
         thumb:      "19394117ba_thumb.jpg"
 
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394117bb.jpg"
+        thumb:      "19394117bb_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394117bc.jpg"
+        thumb:      "19394117bc_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394117bd.jpg"
+        thumb:      "19394117bd_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394117be.jpg"
+        thumb:      "19394117be_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394117be.jpg"
+        thumb:      "19394117be_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394117bf.jpg"
+        thumb:      "19394117bf_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394117bg.jpg"
+        thumb:      "19394117bg_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394117bh.jpg"
+        thumb:      "19394117bh_thumb.jpg"
+
 ---

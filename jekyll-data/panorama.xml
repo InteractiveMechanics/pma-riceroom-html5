@@ -25,7 +25,7 @@ layout: null
         name="a{{ hotspot.id}}"
         type="image"
         url="/{{ hotspot.hotspot_image }}"
-        visible="true"
+        {% if hotspot.zoomable %}visible="false"{% else %}visible="true"{% endif %}
         enabled="true"
         ath="{{ hotspot.ath }}"
         atv="{{ hotspot.atv }}"
@@ -45,5 +45,9 @@ layout: null
         {% for point in drawer.points %}<point ath="{{ point.ath }}" atv="{{ point.atv }}" />
         {% endfor %}
     </hotspot>{% endfor%}
+
+    <events
+        onmousewheel="js( updateSecondaryHotspots() );"
+        />
 
 </krpano>

@@ -2,8 +2,8 @@
 id:                 "19394161"
 zoomable:           false
 hotspot_image:      "19394161_hotspot.png"
-x:                  206
-y:                  900
+x:                  216
+y:                  845
 
 context:
   - accession:      "1939-41-61a, b"
@@ -18,9 +18,30 @@ context:
 
 images:
   - weight:         0
-    type:           "zoom"
+    type:           "360"
     files:
-      - large:      "19394161a.jpg"
-        thumb:      "19394161a_thumb.jpg"
+      - thumb:      "19394161a_thumb.jpg"
+        large:      "19394161a_0.jpg"
+        steps:
+          - step:   "19394161a_0.jpg"
+          - step:   "19394161a_1.jpg"
+          - step:   "19394161a_2.jpg"
+          - step:   "19394161a_3.jpg"
+          - step:   "19394161a_4.jpg"
+          - step:   "19394161a_5.jpg"
+          - step:   "19394161a_6.jpg"
+          - step:   "19394161a_7.jpg"
+          - step:   "19394161a_8.jpg"
+          - step:   "19394161a_9.jpg"
+          - step:   "19394161a_10.jpg"
+          - step:   "19394161a_11.jpg"
+          - step:   "19394161a_12.jpg"
+          - step:   "19394161a_13.jpg"
+          - step:   "19394161a_14.jpg"
+          - step:   "19394161a_15.jpg"
+          - step:   "19394161a_16.jpg"
+          - step:   "19394161a_17.jpg"
+          - step:   "19394161a_18.jpg"
+          - step:   "19394161a_19.jpg"
 
 ---

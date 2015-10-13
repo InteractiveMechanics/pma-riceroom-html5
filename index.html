@@ -27,7 +27,7 @@
     <link href="./images/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
     <link href="./images/icons/favicon.png" rel="icon" sizes="64x64" />
 </head>
-<body>
+<body oncontextmenu="return false">
     <script id="videos-template" type="text/x-handlebars-template">
         {{#each videos}}
             <a class="video" data-poster="{{files.poster}}" data-src="{{files.source}}" data-title="{{title}}">
@@ -54,8 +54,12 @@
         <div class="close left"></div>
         <div class="text-size right"></div>
         <div class="media-container {{#if images.[1]}}expanded{{/if}}">
-            <div class="media-container-inner media-type-{{images.0.type}}">
-                <img src="{{images.0.files.large}}" />
+            <div id="hammertime" data-id="{{id}}" class="media-container-inner media-type-{{images.0.type}}">
+                <img class="zoomable" src="{{images.0.files.large}}" />
+                <div class="zoomer">
+                    <img src="{{images.0.files.large}}" />
+                    <div class="mask"></div>
+                </div>
                 <span class="caption">{{images.0.caption}}</span>
             </div>
             {{#if images.[1]}}
@@ -66,16 +70,12 @@
                             class="media-thumb"
                             href="#" 
                             data-type="{{type}}" 
-                            {{#ifCond type '==' '360'}}
-                                data-src="[{{files.steps}}]"
-                            {{/ifCond}}
-                            {{#ifCond type '==' 'context'}}
+                            {{#if files.large}}
                                 data-src="{{files.large}}"
+                            {{/if}}
+                            {{#if caption}}
                                 data-caption="{{caption}}"
-                            {{/ifCond}}
-                            {{#ifCond type '==' 'zoom'}}
-                                data-src="{{files.large}}"
-                            {{/ifCond}}>
+                            {{/if}}>
                            <img src="{{files.thumb}}" />
                         </a>
                     </li>
@@ -167,6 +167,8 @@
     </div>
     <div id="pano">
     	<script>
+            var bool = false;
+
     		embedpano({
                 swf:"panorama_right.swf",
                 xml:"./jekyll-data/build/panorama.xml",
@@ -196,6 +198,29 @@
                 var krpano = document.getElementById("krpanoSWFObject");
                 if (krpano && krpano.get) {
                     krpano.call("set(hlookat_moveforce, " + force + ");");
+                }
+            }
+            function updateSecondaryHotspots(){
+                var krpano = document.getElementById("krpanoSWFObject");
+                if (krpano && krpano.get) {
+                    var fov = krpano.get('view.fov');
+                    if (fov <= 60) {
+                        if (bool == false){
+                            $.each(data.hotspots, function(key, value){
+                                if(value.zoomable == true){
+                                    krpano.call("set(hotspot['a" + value.id + "'].visible, true);");
+                                }
+                            });
+                            bool = true;
+                        }                        
+                    } else {
+                        $.each(data.hotspots, function(key, value){
+                            if(value.zoomable == true){
+                                krpano.call("set(hotspot['a" + value.id + "'].visible, false);");
+                            }
+                        });
+                        bool = false;
+                    }
                 }
             }
     	</script>

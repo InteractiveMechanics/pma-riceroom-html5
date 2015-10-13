@@ -23,4 +23,34 @@ images:
       - large:      "19394133a.jpg"
         thumb:      "19394133a_thumb.jpg"
 
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394133b.jpg"
+        thumb:      "19394133b_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394133c.jpg"
+        thumb:      "19394133c_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394133d.jpg"
+        thumb:      "19394133d_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394133e.jpg"
+        thumb:      "19394133e_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394133f.jpg"
+        thumb:      "19394133f_thumb.jpg"
+
 ---

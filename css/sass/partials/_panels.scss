@@ -9,12 +9,13 @@
     top: 0;
     right: -684px;
     color: $black;
+    font-size: 110%;
 
     &.active {
         right: 0;
     }
     &.larger {
-        font-size: 110%;
+        font-size: 125%;
 
         .text-size:after {
             background: url('../images/text-size-smaller.svg') no-repeat;
@@ -25,23 +26,60 @@
         position: absolute;
         top: 0;
         width: 100%;
-        height: 400px;
+        height: 450px;
         border-bottom: 1px solid darken($light-gray, 10%);
 
         &.expanded {
-            height: 515px;
+            height: 565px;
 
             & + .container {
-                top: 515px;
+                top: 565px;
             }
         }
         .media-container-inner {
-            height: 400px;
+            height: 450px;
             background: $light-gray;
             text-align: center;
             overflow: hidden;
             position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            align-content: center;
 
+            .zoomer {
+                @extend .transition;
+            
+                position: absolute;
+                top: 20px;
+                left: 20px;
+                max-width: 100px;
+                max-height: 100px;
+                z-index: 9;
+                opacity: 0;
+                overflow: hidden;
+                pointer-events: none;
+                box-sizing: border-box;
+                box-shadow: 0 0 8px rgba(0,0,0,0.5);
+                border: 2px solid white;
+
+                &.in {
+                    opacity: 1;
+                }
+
+                > img {
+                    max-width: 100px;
+                    max-height: 100px;
+                    display: block;
+                }
+                > .mask {
+                    background: rgba(0,0,0,0.35);
+                    position: absolute;
+                    top: 0%;
+                    left: 0%;
+                    transform-origin: 50% 50% 0;
+                }
+            }
             .caption {
                 position: absolute;
                 z-index: 30;
@@ -53,16 +91,18 @@
                 padding: 0 12px;
                 height: 0px;
                 overflow: hidden;
+                font-size: 14px;
 
                 &.in {
                     padding: 12px;
                     height: auto;
                 }
             }
-            img {
+            > img {
                 max-width: 100%;
                 max-height: 100%;
                 transform: scale(1);
+                transform-origin: 50% 50% 0;
             }
         }
         .media-container-thumbs {
@@ -105,7 +145,7 @@
     }
     .container {
         position: absolute;
-        top: 400px;
+        top: 450px;
         bottom: 0;
         padding: 40px;
         overflow: auto;

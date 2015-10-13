@@ -23,4 +23,16 @@ images:
       - large:      "19394124a.jpg"
         thumb:      "19394124a_thumb.jpg"
 
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394124b.jpg"
+        thumb:      "19394124b_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394124c.jpg"
+        thumb:      "19394124c_thumb.jpg"
+
 ---

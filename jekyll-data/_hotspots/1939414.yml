@@ -2,8 +2,8 @@
 id:                 "1939414"
 zoomable:           true
 hotspot_image:      "images/hotspot-white-fill@2x.png"
-ath:                
-atv:                
+ath:                330
+atv:                165
 
 context:
   - accession:      "1939-41-4"
@@ -22,5 +22,11 @@ images:
     files:
       - large:      "1939414a.jpg"
         thumb:      "1939414a_thumb.jpg"
+
+  - weight:         1
+    type:           "zoom"
+    files:
+      - large:      "1939414b.jpg"
+        thumb:      "1939414b_thumb.jpg"
 
 ---

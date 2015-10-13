@@ -1,6 +1,6 @@
 ---
 id:                 "19394128"
-zoomable:           true
+zoomable:           false
 hotspot_image:      "images/hotspot-white-stroke@2x.png"
 ath:                227.5
 atv:                183
@@ -22,5 +22,11 @@ images:
     files:
       - large:      "19394128a.jpg"
         thumb:      "19394128a_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394128b.jpg"
+        thumb:      "19394128b_thumb.jpg"
 
 ---

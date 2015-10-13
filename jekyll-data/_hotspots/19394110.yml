@@ -1,9 +1,9 @@
 ---
 id:                 "19394110"
 zoomable:           true
-hotspot_image:      "images/hotspot-white-stroke@2x.png"
-ath:                
-atv:                
+hotspot_image:      "images/hotspot-white-fill@2x.png"
+ath:                270
+atv:                161
 
 context:
   - accession:      "1939-41-10"
@@ -22,5 +22,12 @@ images:
     files:
       - large:      "19394110a.jpg"
         thumb:      "19394110a_thumb.jpg"
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394110b.jpg"
+        thumb:      "19394110b_thumb.jpg"
 
 ---

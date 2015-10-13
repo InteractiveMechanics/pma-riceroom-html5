@@ -23,4 +23,11 @@ images:
       - large:      "19394117ka.jpg"
         thumb:      "19394117ka_thumb.jpg"
 
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394117kb.jpg"
+        thumb:      "19394117kb_thumb.jpg"
+
 ---
