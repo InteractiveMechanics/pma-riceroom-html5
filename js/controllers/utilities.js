@@ -1,6 +1,6 @@
 Utilities = (function() {
     var timeout;
-    var duration = 1000000;
+    var duration = 60000;
     var isMuted;
     var isMediaActive;
 

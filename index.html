@@ -200,29 +200,6 @@
                     krpano.call("set(hlookat_moveforce, " + force + ");");
                 }
             }
-            function updateSecondaryHotspots(){
-                var krpano = document.getElementById("krpanoSWFObject");
-                if (krpano && krpano.get) {
-                    var fov = krpano.get('view.fov');
-                    if (fov <= 60) {
-                        if (bool == false){
-                            $.each(data.hotspots, function(key, value){
-                                if(value.zoomable == true){
-                                    krpano.call("set(hotspot['a" + value.id + "'].visible, true);");
-                                }
-                            });
-                            bool = true;
-                        }                        
-                    } else {
-                        $.each(data.hotspots, function(key, value){
-                            if(value.zoomable == true){
-                                krpano.call("set(hotspot['a" + value.id + "'].visible, false);");
-                            }
-                        });
-                        bool = false;
-                    }
-                }
-            }
     	</script>
     </div>
 </body>
