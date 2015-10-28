@@ -9,14 +9,14 @@
     height: 100%;
     position: fixed;
     top: 0;
-    right: -684px;
+    right: -700px;
     color: $black;
 
     &.active {
         right: 0;
 
         & + #detail-panel {
-            right: -84px;
+            right: -100px;
 
             &.active {
                 right: 640px;
@@ -34,7 +34,8 @@
         
         &.open {
             img {
-                -webkit-filter: drop-shadow(0 0 15px rgba($gold-mid, 1));
+                -webkit-filter: drop-shadow(0 8px 15px rgba(0,0,0,0.75));
+                margin-top: -15px;
             }
         }
 
@@ -42,7 +43,8 @@
             @extend .transition;
 
             zoom: 50%;
-            -webkit-filter: drop-shadow(0 0 15px rgba($gold-mid, 0));
+            -webkit-filter: drop-shadow(0 0px 15px rgba(0,0,0,0));
+            margin-top: 0;
         }
     }
 }

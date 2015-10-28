@@ -10,8 +10,6 @@ DetailPanel = (function() {
     var scale;
     var vx;
     var vy;
-    var cx;
-    var cy;
     
     var init = function() {
         bigText = false;
@@ -22,18 +20,20 @@ DetailPanel = (function() {
         bindEvents();
     }
     var updateDetailPanel = function(id) {
-        var object = JSON.search(data, '//*[id="' + id + '"]');
-        var rendered = detailPanelTPL(object[0]);
-        detailPanel.html(rendered).addClass('active');
-
-        lookToHotspot('a' + id);
-        $('.media-container-thumbs a').first().addClass('active');
-
-        resetDefaults();
-        if (object[0].images[0].type == 'zoom') {
-            setupHammerZoom();
-        } else if (object[0].images[0].type == '360') {
-            setupHammerPan();
+        if (!Utilities.isPanoActive){
+            var object = JSON.search(data, '//*[id="' + id + '"]');
+            var rendered = detailPanelTPL(object[0]);
+            detailPanel.html(rendered).addClass('active');
+    
+            lookToHotspot('a' + id);
+            $('.media-container-thumbs a').first().addClass('active');
+    
+            resetDefaults();
+            if (object[0].images[0].type == 'zoom') {
+                setupHammerZoom();
+            } else if (object[0].images[0].type == '360') {
+                setupHammerPan();
+            }
         }
     }
     var closeDetailPanel = function() {
@@ -42,6 +42,8 @@ DetailPanel = (function() {
         killHammer();
         returnToZoom();
     }
+
+
     var resetTextSize = function() {
         detailPanel.removeClass('larger');
     }
@@ -49,9 +51,14 @@ DetailPanel = (function() {
         detailPanel.toggleClass('larger');
         bigText = !bigText;
     }
+
+
     var setupHammerZoom = function() {
+        $('.media-container-inner .instructions').addClass('in zoom');
+
         hammer = $('#hammertime');
         mc = new Hammer(hammer.get(0));
+        scale = 1;
 
         mc.get('pinch').set({ enable: true });
         mc.on('pinchin', function(e) {
@@ -59,70 +66,93 @@ DetailPanel = (function() {
             if (scale < 1) {
                 scale = 1;
             }
-            cx = ((1920 - e.center.x)/640) * 100;
-            cy = (e.center.y/450) * 100;
-            updateHammerZoom(scale, vx, vy, cx, cy);
-            updateZoomer(scale, vx, vy, cx, cy);
+            updateHammerZoom(e);
+            updateZoomer(scale, vx, vy);
+            $('.media-container-inner .instructions').removeClass('in');
         });
         mc.on('pinchout', function(e) {
             scale += (e.scale/100);
             if (scale > 4) {
                 scale = 4;
             }
-            cx = ((1920 - e.center.x)/640) * 100;
-            cy = (e.center.y/450) * 100;
-            updateHammerZoom(scale, vx, vy, cx, cy);
-            updateZoomer(scale, vx, vy, cx, cy);
+            updateHammerZoom(e);
+            updateZoomer(scale, vx, vy);
+            $('.media-container-inner .instructions').removeClass('in');
         });
         mc.on('panmove', function(e) {
-            vx -= e.velocityX * 2;
-            vy -= e.velocityY * 2;
-            updateHammerZoom(scale, vx, vy, cx, cy);
-            updateZoomer(scale, vx, vy, cx, cy);
+            updateHammerZoom(e);
+            updateZoomer(scale, vx, vy);
+            $('.media-container-inner .instructions').removeClass('in');
         });
         mc.on('pinchend panend', function(e) {
+            checkZoomBounds();
             setTimeout(function(){ 
                 hammer.find('div.zoomer').removeClass('in');
-            }, 500);
+            }, 1000);
         });
     }
-    var setupHammerPan = function() {
-        hammer = $('#hammertime');
-        mc = new Hammer(hammer.get(0));
-
-        var id = hammer.attr('data-id');
-        var steps = JSON.search(data, '//hotspots[id="' + id + '"]/images/files/steps');
-        var length = steps.length;
-        var step = 0;
+    var updateHammerZoom = function(e) {
+        var delta = 1;
+        var img = $('img.zoomable')[0].getBoundingClientRect();
         
-        mc.on('panright', function(e) {
-            var src;
-            if (e.deltaX % 16 == 0) {
-                step++;
+        if (scale > 1){
+            vx -= e.velocityX * 2;
+            vy -= e.velocityY * 2;
+
+            if (img.width <= 640){
+                if (img.left < 1281){ vx += delta; }
+                if (img.right > 1919){ vx -= delta; }
+            } else {
+                if (img.left > 1279){ vx -= delta; }
+                if (img.right < 1921){ vx += delta; }
             }
-            if (step > length) {
-                step = 0;
+            if (img.height <= 450){
+                if (img.top < 1){ vy += delta; }
+                if (img.bottom > 449){ vy -= delta; }
+            } else {
+                if (img.top > -1){ vy -= delta; }
+                if (img.bottom < 451){ vy += delta; }
             }
-            src = steps[step];
-            $('.media-container-inner > img').attr('src', src);
-        });
-        mc.on('panleft', function(e) {
-            var src;
-            if (e.deltaX % 16 == 0) {
-                step--;
-            }
-            if (step < 0) {
-                step = length;
-            }
-            src = steps[step];
-            $('.media-container-inner > img').attr('src', src);
-        });
-    }
-    var updateHammerZoom = function(scale, vx, vy, cx, cy) {
+        } else {
+            vx = 0;
+            vy = 0;
+        }
+
         hammer.find('img.zoomable').css({
-            'transform-origin': cx + '% ' + cy + '% 0',
             'transform': 'scale(' + scale + ') translate(' + vx + 'px, ' + vy + 'px)'
         });
+    }
+    var checkZoomBounds = function() {
+        var delta = 1;
+        var outOfBounds = false;
+        var img = $('img.zoomable')[0].getBoundingClientRect();
+        
+        if (scale > 1) {
+            if (img.width <= 640){
+                if (img.left < 1280){ vx += delta; outOfBounds = true; }
+                if (img.right > 1920){ vx -= delta; outOfBounds = true; }
+            } else {
+                if (img.left > 1280){ vx -= delta; outOfBounds = true; }
+                if (img.right < 1920){ vx += delta; outOfBounds = true; }
+            }
+            if (img.height <= 450){
+                if (img.top < 0){ vy += delta; outOfBounds = true; }
+                if (img.bottom > 450){ vy -= delta; outOfBounds = true; }
+            } else {
+                if (img.top > 0){ vy -= delta; outOfBounds = true; }
+                if (img.bottom < 450){ vy += delta; outOfBounds = true; }
+            }
+        } else {
+            vx = 0;
+            vy = 0;
+        }
+
+        hammer.find('img.zoomable').css({
+            'transform': 'scale(' + scale + ') translate(' + vx + 'px, ' + vy + 'px)'
+        });
+        if (outOfBounds) {
+            checkZoomBounds();
+        }
     }
     var updateZoomer = function(scale, vx, vy, cx, cy) {
         var zw = $('.media-container-inner').width();
@@ -135,28 +165,78 @@ DetailPanel = (function() {
         var nscale = scale;
         if (scale > 1){
             nscale = 1/scale;
+            hammer.find('div.zoomer')
+                .addClass('in')
+                .find('.mask')
+                .width(nw)
+                .height(ih)
+                .css({
+                    'transform': 'scale(' + nscale + ') translate(' + -(vx/scale) + 'px, ' + -(vy/scale) + 'px)'
+                });
         }
-
-        hammer.find('div.zoomer')
-            .addClass('in')
-            .find('.mask')
-            .width(nw)
-            .height(ih)
-            .css({
-                'transform': 'scale(' + nscale + ') translate(' + -(vx/scale) + 'px, ' + -(vy/scale) + 'px)',
-                'transform-origin': cx + '% ' + cy + '% 0'
-            });
+        if (scale == 1){
+            hammer.find('div.zoomer')
+                .addClass('in')
+                .find('.mask')
+                .width(nw)
+                .height(ih)
+                .css({
+                    'transform': 'scale(' + scale + ') translate(0px, 0px)'
+                });
+        }
     }
+
+
+    var setupHammerPan = function() {
+        $('.media-container-inner .instructions').addClass('in pan');
+
+        hammer = $('#hammertime');
+        mc = new Hammer(hammer.get(0));
+
+        var id = hammer.attr('data-id');
+        var steps = JSON.search(data, '//hotspots[id="' + id + '"]/images/files/steps');
+        var length = steps.length;
+        var step = 0;
+        
+        mc.on('panright', function(e) {
+            var src;
+            if (e.deltaX % 10 == 0) {
+                step--;
+            }
+            if (step < 0) {
+                step = length;
+            }
+            src = steps[step];
+            $('.media-container-inner > img').attr('src', src);
+            $('.media-container-inner .instructions').removeClass('in');
+        });
+        mc.on('panleft', function(e) {
+            var src;
+            if (e.deltaX % 10 == 0) {
+                step++;
+            }
+            if (step > length) {
+                step = 0;
+            }
+            src = steps[step];
+            $('.media-container-inner > img').attr('src', src);
+            $('.media-container-inner .instructions').removeClass('in');
+        });
+    }
+
+
     var resetDefaults = function() {
         scale = 1;
         vx = 0;
         vy = 0;
-        cx = 50;
-        cy = 50;
     }
     var killHammer = function() {
-        mc.destroy();
+        if (mc) {
+            mc.destroy();
+        }
     }
+
+
     var changeMedia = function() {
         var active = $(this).hasClass('active');
         var type = $(this).attr('data-type');
@@ -167,6 +247,7 @@ DetailPanel = (function() {
             killHammer();
             resetDefaults();
 
+            $('.media-container-inner .instructions').removeClass('zoom pan in');
             if (type == 'zoom') {
                 setupHammerZoom();
             }
@@ -184,6 +265,7 @@ DetailPanel = (function() {
             } else {
                 $('.media-container-inner .caption').removeClass('in'); 
             }
+            scale = 1;
         }
     }
     var bindEvents = function() {

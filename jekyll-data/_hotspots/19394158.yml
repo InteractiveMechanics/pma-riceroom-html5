@@ -1,6 +1,6 @@
 ---
 id:                 "19394158"
-zoomable:           false
+type:               "cabinet"
 hotspot_image:      "19394158_hotspot.png"
 x:                  223
 y:                  634
@@ -22,5 +22,17 @@ images:
     files:
       - large:      "19394158a.jpg"
         thumb:      "19394158a_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394158b.jpg"
+        thumb:      "19394158b_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394158c.jpg"
+        thumb:      "19394158c_thumb.jpg"
 
 ---

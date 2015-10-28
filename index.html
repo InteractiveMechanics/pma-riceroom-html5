@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Rice Room - Philadelphia Museum of Art</title>
+	<title>Drawing Room - Philadelphia Museum of Art</title>
 	<meta name="viewport" content="target-densitydpi=device-dpi, 
                                    width=device-width, 
                                    initial-scale=1.0, 
@@ -27,7 +27,7 @@
     <link href="./images/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
     <link href="./images/icons/favicon.png" rel="icon" sizes="64x64" />
 </head>
-<body oncontextmenu="return false">
+<body oncontextmenu="return true">
     <script id="videos-template" type="text/x-handlebars-template">
         {{#each videos}}
             <a class="video" data-poster="{{files.poster}}" data-src="{{files.source}}" data-title="{{title}}">
@@ -35,15 +35,17 @@
                 <img src="{{files.thumb}}" />
             </a>
         {{/each}}
-        <div class="close bottom"></div>
+        <div class="close top"></div>
+        <a class="see-all">See All Videos</a>
     </script>
 
     <script id="modal-template" type="text/x-handlebars-template">
         <div class="modal-container">
-            <div class="close left"></div>
+            <div class="close right"></div>
             <video id="video" src="{{src}}" poster="{{poster}}"></video>
 
             <div class="video-play-button"></div>
+            <div class="video-replay-button"></div>
             <div class="video-mute-button"></div>
             <h2>Now Playing: <strong>{{title}}</strong></h2>
             <input type="range" min="0" max="100" value="0" step="1" class="video-tracker" />
@@ -61,59 +63,47 @@
                     <div class="mask"></div>
                 </div>
                 <span class="caption">{{images.0.caption}}</span>
+                <div class="instructions"></div>
             </div>
             {{#if images.[1]}}
-                <ul class="media-container-thumbs">
-                {{#each images}}
-                    <li>
-                        <a 
-                            class="media-thumb"
-                            href="#" 
-                            data-type="{{type}}" 
-                            {{#if files.large}}
-                                data-src="{{files.large}}"
-                            {{/if}}
-                            {{#if caption}}
-                                data-caption="{{caption}}"
-                            {{/if}}>
-                           <img src="{{files.thumb}}" />
-                        </a>
-                    </li>
-                {{/each}}
-                </ul>
+                <div class="media-container-thumbs">
+                    <ul>
+                    {{#each images}}
+                        <li>
+                            <a 
+                                class="media-thumb"
+                                href="#" 
+                                data-type="{{type}}" 
+                                {{#if files.large}}
+                                    data-src="{{files.large}}"
+                                {{/if}}
+                                {{#if caption}}
+                                    data-caption="{{caption}}"
+                                {{/if}}>
+                                <span class="count">{{inc @index}}</span>
+                                <img src="{{files.thumb}}" />
+                            </a>
+                        </li>
+                    {{/each}}
+                    </ul>
+                </div>
             {{/if}}
         </div>
         <div class="container">
-            <h1>{{content.title}} <small>{{content.date}}</small></h1>
+            <h1>{{content.title}}</h1>
             {{#if content.description}}
-            <label>Description</label>
-            <p>{{content.description}}</p>
+            <p>{{{content.description}}}</p>
             {{/if}}
 
-            {{#if content.creator}}
-            <label>Creator</label>
-            <p>{{content.creator}}</p>
-            {{/if}}
-
-            {{#if content.location}}
-            <label>Location</label>
-            <p>{{content.location}}</p>
-            {{/if}}
-
-            {{#if content.medium}}
-            <label>Medium</label>
-            <p>{{content.medium}}</p>
-            {{/if}}
-
-            {{#if content.credit}}
-            <label>Credit Line</label>
-            <p>{{content.credit}}</p>
-            {{/if}}
-
-            {{#if content.accession}}
-            <label>Accession</label>
-            <p>{{content.accession}}</p>
-            {{/if}}
+            <br/>
+            <p>
+                {{#if content.date}}{{{content.date}}}<br/>{{/if}}
+                {{#if content.creator}}{{{content.creator}}}<br/>{{/if}}
+                {{#if content.location}}{{{content.location}}}<br/>{{/if}}
+                {{#if content.medium}}{{{content.medium}}}<br/>{{/if}}
+                {{#if content.credit}}{{{content.credit}}}{{/if}}
+                {{#if content.accession}}, {{{content.accession}}}<br/>{{/if}}
+            </p>
         </div>
     </script>
 
@@ -143,6 +133,7 @@
     <script src="./js/controllers/drawer.js"></script>
     <script src="./js/controllers/videos.js"></script>
     <script src="./js/controllers/modal.js"></script>
+    <script src="./js/controllers/attract.js"></script>
     <script src="./js/app.js"></script>
     
     <div id="captions" class="hidden">
@@ -151,9 +142,8 @@
     <div id="videos">
         <a class="audio-narrative">
             <div class="audio-narrative-icon"></div>
-            <span>About the Rice Room</span>
+            <span>About the Drawing Room</span>
         </a>
-        <a class="see-all">See All Videos</a>
         <div class="video-container"></div>
     </div>
     <div id="modal" class="hidden"></div>
@@ -165,15 +155,19 @@
             <img src="./images/logo.gif" />
         </div>
     </div>
+    <div id="attract" class="in">
+        <div class="container">
+            <img src="./images/logo.gif" />
+            <h1>Drawing Room from a New York City Town House</h1>
+            <h2>Touch the screen to get started</h2>
+        </div>
+    </div>
     <div id="pano">
     	<script>
-            var bool = false;
-
     		embedpano({
-                swf:"panorama_right.swf",
-                xml:"./jekyll-data/build/panorama.xml",
+                xml:"./jekyll-data/build/panorama_right.xml",
                 target:"pano",
-                html5:"prefer",
+                html5:"only",
                 passQueryParameters:true
             });
             function lookToHotspot(id){
@@ -191,7 +185,25 @@
             function resetToStart(){
                 var krpano = document.getElementById("krpanoSWFObject");
                 if (krpano && krpano.get) {
-                    krpano.call("lookto(90,10,90);");
+                    krpano.call("lookto(0,0,90);");
+                }
+            }
+            function stopAll(){
+                var krpano = document.getElementById("krpanoSWFObject");
+                if (krpano && krpano.get) {
+                    krpano.call("stopall();");
+                }
+            }
+            function disableInteraction() {
+                var krpano = document.getElementById("krpanoSWFObject");
+                if (krpano && krpano.get) {
+                    krpano.call("set(control.usercontrol, 'off');");
+                }
+            }
+            function enableInteraction() {
+                var krpano = document.getElementById("krpanoSWFObject");
+                if (krpano && krpano.get) {
+                    krpano.call("set(control.usercontrol, 'all');");
                 }
             }
             function slowRotate(force){

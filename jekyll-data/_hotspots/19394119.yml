@@ -1,9 +1,25 @@
 ---
 id:                 "19394119"
-zoomable:           true
-hotspot_image:      "images/hotspot-white-fill@2x.png"
-ath:                
-atv:                
+type:               "secondary"
+positions:
+  - points:
+      - ath:        -6.24
+        atv:        -1.52
+      - ath:        -5.91
+        atv:        -2.07
+      - ath:        7.79
+        atv:        -2.11
+      - ath:        8.20
+        atv:        -1.43
+  - points: 
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0 
 
 context:
   - accession:      "1939-41-19"

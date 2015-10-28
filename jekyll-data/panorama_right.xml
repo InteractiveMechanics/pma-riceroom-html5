@@ -1,0 +1,75 @@
+---
+layout: null
+---
+<krpano version="1.18">
+    {% assign panorama = site.data.panorama[0] %}
+	<view 
+        hlookat="{{ panorama.view[0].hlookat }}" 
+        vlookat="{{ panorama.view[0].vlookat }}" 
+        maxpixelzoom="{{ panorama.view[0].maxpixelzoom }}" 
+        fovmax="{{ panorama.view[0].fovmax }}" 
+        limitview="{{ panorama.view[0].limitview }}" 
+        vlookatmin="{{ panorama.view[0].vlookatmin }}" 
+        vlookatmax="{{ panorama.view[0].vlookatmax }}" />
+	
+	<preview url="/{{ panorama.id }}.tiles/preview.jpg" />
+    <image type="CUBE" multires="true" tilesize="512">
+		<level tiledimagewidth="9264" tiledimageheight="9264">
+			<cube url="/{{ panorama.id }}.tiles/mres_%s/l5/%v/l5_%s_%v_%h.jpg" />
+		</level>
+		<level tiledimagewidth="4608" tiledimageheight="4608">
+			<cube url="/{{ panorama.id }}.tiles/mres_%s/l4/%v/l4_%s_%v_%h.jpg" />
+		</level>
+		<level tiledimagewidth="2304" tiledimageheight="2304">
+			<cube url="/{{ panorama.id }}.tiles/mres_%s/l3/%v/l3_%s_%v_%h.jpg" />
+		</level>
+		<level tiledimagewidth="1152" tiledimageheight="1152">
+			<cube url="/{{ panorama.id }}.tiles/mres_%s/l2/%v/l2_%s_%v_%h.jpg" />
+		</level>
+		<level tiledimagewidth="576" tiledimageheight="576">
+			<cube url="/{{ panorama.id }}.tiles/mres_%s/l1/%v/l1_%s_%v_%h.jpg" />
+		</level>
+		<mobile>
+			<cube url="/{{ panorama.id }}.tiles/mobile_%s.jpg" />
+		</mobile>
+	</image>
+
+    {% for hotspot in site.hotspots %}{% if hotspot.type == 'primary' %}
+    <hotspot 
+        name="a{{ hotspot.id }}"
+        type="image"
+        url="/{{ hotspot.hotspot_image }}"
+        {% if hotspot.zoomable %}visible="false"{% else %}visible="true"{% endif %}
+        enabled="true"
+        ath="{{ hotspot.positions[0].points[0].ath }}"
+        atv="{{ hotspot.positions[0].points[0].atv }}"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel({{ hotspot.id }}) );" />{% endif %}{% endfor %}
+    {% for hotspot in site.hotspots %}{% if hotspot.type == 'secondary' %}
+    <hotspot 
+        name="a{{ hotspot.id }}"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel({{ hotspot.id }}) );">
+        {% for point in hotspot.positions[0].points %}
+        <point ath="{{ point.ath }}" atv="{{ point.atv }}" />{% endfor %}
+    </hotspot>{% endif %}{% endfor %}
+    {% for drawer in site.data.drawers %}
+    <hotspot
+        name="{{ drawer.id }}"
+        type="image"
+        url="/images/hotspot-white-stroke@2x.png"
+        enabled="true"
+        alpha="1"
+        onclick="js( Drawer.openDrawer('{{ drawer.id }}') );"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        capture="false"
+        ath="{{ drawer.positions[0].points[0].ath }}"
+        atv="{{ drawer.positions[0].points[0].atv }}" />{% endfor%}
+</krpano>

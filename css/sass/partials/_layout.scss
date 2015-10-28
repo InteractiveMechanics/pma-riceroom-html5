@@ -1,6 +1,7 @@
 html, body {
     overflow: hidden;
 }
+* { -webkit-tap-highlight-color: rgba(0,0,0,0); }
 
 #pano {
     width: 100%;
@@ -19,26 +20,31 @@ html, body {
     color: white;
     text-align: center;
     line-height: 0.9;
-    height: 44px;
-    width: 44px;
+    height: 60px;
+    width: 60px;
     box-shadow: 0 4px 0 rgba(0,0,0,0.1);
 
     &:hover {
         box-shadow: 0 4px 0 rgba(0,0,0,0.2);
     }
 
+    &.top {
+        top: 0;
+        left: 50%;
+        margin-left: -30px;
+    }
     &.bottom {
         bottom: 0;
         left: 50%;
-        margin-left: -22px;
+        margin-left: -30px;
     }
     &.left {
-        left: -44px;
-        top: 44px;
+        left: -60px;
+        top: 60px;
     }
     &.right {
-        right: 0;
-        bottom: 44px;
+        right: -60px;
+        top: 60px;
     }
 }
 .close {
@@ -46,30 +52,37 @@ html, body {
         content: '';
         background: url('../images/close.svg') no-repeat;
         position: absolute;
-        width: 16px;
-        height: 18px;
-        top: 13px;
-        left: 14px;
+        width: 22px;
+        height: 24px;
+        top: 18px;
+        left: 20px;
+        background-size: 100%;
     }
 }
 .text-size {
-    background: rgba($blue, 90%);
-    width: 60px;
-    height: 60px;
+    background: $red;
+    width: 72px;
+    height: 72px;
     
     &:after {
         content: '';
         background: url('../images/text-size-larger.svg') no-repeat;
         position: absolute;
-        width: 36px;
-        height: 26px;
-        top: 16px;
-        left: 14px;
+        width: 44px;
+        height: 32px;
+        top: 22px;
+        left: 15px;
+        background-size: 100%;
+    }
+    &.right {
+        right: 0;
+        top: auto;
+        bottom: 60px;
     }
 }
 
 ::-webkit-scrollbar {
-    width: 8px;
+    display: none;
 }
 ::-webkit-scrollbar-track {
     @extend .transition;

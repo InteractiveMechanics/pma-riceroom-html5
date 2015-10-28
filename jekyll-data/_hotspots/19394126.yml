@@ -1,0 +1,42 @@
+---
+id:                 "19394126"
+type:               "secondary"
+positions:
+  - points:
+      - ath:        -39.91
+        atv:        2.94
+      - ath:        -34.8
+        atv:        2.38
+      - ath:        -34.87
+        atv:        6.17
+      - ath:        -40.19
+        atv:        6.198
+  - points: 
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0 
+
+context:
+  - accession:      "1939-41-26"
+    title:          "Fire grate"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394126a.jpg"
+        thumb:      "19394126a_thumb.jpg"
+
+---

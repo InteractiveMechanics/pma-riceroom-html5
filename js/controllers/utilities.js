@@ -1,12 +1,14 @@
 Utilities = (function() {
     var timeout;
-    var duration = 60000;
+    var duration = 90000;
     var isMuted;
     var isMediaActive;
+    var isPanoActive;
 
     var init = function() {
         this.isMuted = false;
-        this.isMediaActive = false;        
+        this.isMediaActive = false;  
+        this.isPanoActive = false;
         bindEvents();
     }
     var resetTimeout = function() {
@@ -22,14 +24,26 @@ Utilities = (function() {
         if (!isMediaActive) {
             resetToStart();
 
+            Attract.openAttract();
             Videos.closeVideos();
+            Videos.makeVideosInactive();
             DetailPanel.closeDetailPanel();
             DetailPanel.resetTextSize();
             Drawer.closeDrawer();
-            if (Modal.opened){ Modal.closeModal(); }
+            Modal.closeModal();
     
             this.isMuted = false;
             this.isMediaActive = false;
+        }
+    }
+    var toggleActivePanorama = function(bool) {
+        if (this.isPanoActive != bool) {
+            this.isPanoActive = !this.isPanoActive;
+        }
+        if (this.isPanoActive) {
+            disableInteraction();
+        } else {
+            enableInteraction();
         }
     }
     var toggleActiveMedia = function(bool) {
@@ -47,8 +61,10 @@ Utilities = (function() {
         init: init,
         resetTimeout: resetTimeout,
         isMuted: isMuted,
+        isPanoActive: isPanoActive,
         isMediaActive: isMediaActive,
         toggleActiveMedia: toggleActiveMedia,
-        toggleMuted: toggleMuted
+        toggleMuted: toggleMuted,
+        toggleActivePanorama: toggleActivePanorama
     }
 })();

@@ -37,14 +37,16 @@ Modal = (function() {
         }, 100);
     }
     var closeModal = function() {
-        opened = false;
-        video.get(0).pause();
-
-        Utilities.toggleActiveMedia(false);
-        modal.removeClass('in');
-        setTimeout(function(){
-            modal.addClass('hidden');
-        }, 500);
+        if (opened) {
+            opened = false;
+            $('#video').get(0).pause();
+    
+            Utilities.toggleActiveMedia(false);
+            modal.removeClass('in');
+            setTimeout(function(){
+                modal.addClass('hidden');
+            }, 500);
+        }
     } 
     var bindEvents = function() {
         $('#modal .close').on('click', closeModal);
@@ -66,6 +68,11 @@ Modal = (function() {
                 video.get(0).muted = true;
             }
             Utilities.toggleMuted();
+        });
+        $('#modal .video-replay-button').on('click', function(){
+            var video = $('#video').get(0);
+            video.currentTime = 0;
+            video.play();
         });
 
         tracking.on('change', function(e){

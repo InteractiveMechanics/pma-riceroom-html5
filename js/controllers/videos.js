@@ -10,6 +10,12 @@ Videos = (function() {
 
         $('#videos .video-container').html(rendered);
     }
+    var makeVideosActive = function() {
+        videos.addClass('active');
+    }
+    var makeVideosInactive = function() {
+        videos.removeClass('active');
+    }
     var openVideos = function() {
         videos.addClass('in');
 
@@ -27,6 +33,7 @@ Videos = (function() {
             var poster = $(this).attr('data-poster');
             var title = $(this).attr('data-title');
 
+            Narrative.stopNarrative();
             Modal.openModal(src, poster, title);
         });
     }
@@ -34,6 +41,8 @@ Videos = (function() {
     return {
         init: init,
         openVideos: openVideos,
-        closeVideos: closeVideos
+        closeVideos: closeVideos,
+        makeVideosActive: makeVideosActive,
+        makeVideosInactive: makeVideosInactive
     }
 })();

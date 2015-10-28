@@ -24,21 +24,18 @@ layout: null
     "hotspots": [
         {% for hotspot in site.hotspots %}{
             "id": "{{ hotspot.id }}",
-            "zoomable": {{ hotspot.zoomable }},
             "hotspot_image": "files/{{ hotspot.hotspot_image }}",
             {% if hotspot.x %}"x": {{ hotspot.x }},{% endif %}
             {% if hotspot.y %}"y": {{ hotspot.y }},{% endif %}
-            {% if hotspot.ath %}"ath": {{ hotspot.ath }},{% endif %}
-            {% if hotspot.atv %}"atv": {{ hotspot.atv }},{% endif %}
             "content": {
-                {% for cnt in hotspot.context %}"accession": "{{ cnt.accession }}",
-                "title": "{{ cnt.title }}",
-                "description": "{{ cnt.description }}",
-                "date": "{{ cnt.date }}",
-                "creator": "{{ cnt.creator }}",
-                "location": "{{ cnt.location }}",
-                "medium": "{{ cnt.medium }}",
-                "credit": "{{ cnt.credit }}",
+                {% for cnt in hotspot.context %}"accession": "{{ cnt.accession | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}",
+                "title": "{{ cnt.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}",
+                "description": "{{ cnt.description | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}",
+                "date": "{{ cnt.date | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}",
+                "creator": "{{ cnt.creator | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}",
+                "location": "{{ cnt.location | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}",
+                "medium": "{{ cnt.medium | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}",
+                "credit": "{{ cnt.credit | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}",
                 "url": "{{ cnt.url }}"{% endfor %}
             },
             "images": [

@@ -29,6 +29,7 @@ Narrative = (function() {
     }
     var stopNarrative = function () {
         audio.currentTime = 0;
+        audio.pause();
         slowRotate(0);
         toggleAudioIcon(false);
         
@@ -40,15 +41,17 @@ Narrative = (function() {
             container.addClass('hidden');
         }, 500);
         Utilities.toggleActiveMedia(false);
+        playing = false;
     }
     var toggleNarrativePlaying = function() {
         if (playing) {
-            audio.pause();
-            toggleAudioIcon(false);
             stopNarrative();
+            Videos.makeVideosActive();
+            Utilities.toggleActivePanorama(false);
         } else {
             audio.play();
             toggleAudioIcon(true);
+            Utilities.toggleActivePanorama(true);
 
             $.each(captions, function(i, caption) {
                 intervals.push(setTimeout(function(){
@@ -69,8 +72,8 @@ Narrative = (function() {
             DetailPanel.closeDetailPanel();
             Drawer.closeDrawer();
             Utilities.toggleActiveMedia(true);
+            playing = true;
         }
-        playing = !playing;
     }
     var toggleAudioIcon = function(bool) {
         if (bool) {
@@ -82,6 +85,7 @@ Narrative = (function() {
 
     return {
         init: init,
-        toggleNarrativePlaying: toggleNarrativePlaying
+        toggleNarrativePlaying: toggleNarrativePlaying,
+        stopNarrative: stopNarrative
     }
 })();

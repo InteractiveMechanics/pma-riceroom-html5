@@ -1,9 +1,14 @@
 ---
 id:                 "19394128"
-zoomable:           false
+type:               "primary"
 hotspot_image:      "images/hotspot-white-stroke@2x.png"
-ath:                227.5
-atv:                183
+positions:
+  - points:
+      - ath:        -43.67
+        atv:        -14.52
+  - points: 
+      - ath:        0
+        atv:        0
 
 context:
   - accession:      "1939-41-28a, b"
@@ -22,6 +27,30 @@ images:
     files:
       - large:      "19394128a.jpg"
         thumb:      "19394128a_thumb.jpg"
+
+  - weight:         0
+    type:           "context"
+    files:
+      - thumb:      "19394128c_thumb.jpg"
+        large:      "19394128c.jpg"
+
+  - weight:         0
+    type:           "context"
+    files:
+      - thumb:      "19394128d_thumb.jpg"
+        large:      "19394128d.jpg"
+
+  - weight:         0
+    type:           "context"
+    files:
+      - thumb:      "19394128e_thumb.jpg"
+        large:      "19394128e.jpg"
+
+  - weight:         0
+    type:           "context"
+    files:
+      - thumb:      "19394128f_thumb.jpg"
+        large:      "19394128f.jpg"
 
   - weight:         0
     type:           "zoom"

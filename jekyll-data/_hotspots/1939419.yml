@@ -1,9 +1,14 @@
 ---
 id:                 1939419
-zoomable:           false
+type:               "primary"
 hotspot_image:      "images/hotspot-white-stroke@2x.png"
-ath:                40
-atv:                160
+positions:
+  - points:
+      - ath:        137.05
+        atv:        5.64
+  - points: 
+      - ath:        0
+        atv:        0
 
 context:
   - accession:      "1939-41-9"
@@ -29,6 +34,12 @@ images:
     files:
       - large:      "1939419b.png"
         thumb:      "1939419b_thumb.jpg"
+
+  - weight:         1
+    type:           "context"
+    files:
+      - large:      "1939419d.jpg"
+        thumb:      "1939419d_thumb.jpg"
 
   - weight:         2
     type:           "zoom"

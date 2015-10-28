@@ -1,9 +1,25 @@
 ---
 id:                 19394116
-zoomable:           true
-hotspot_image:      "images/hotspot-white-fill@2x.png"
-ath:                20
-atv:                170
+type:               "secondary"
+positions:
+  - points:
+      - ath:        96.34
+        atv:        -11.34
+      - ath:        127.3
+        atv:        -12.11
+      - ath:        127.7
+        atv:        15.99
+      - ath:        96.12
+        atv:        14.3
+  - points: 
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0 
 
 context:
   - accession:      "1939-41-16"

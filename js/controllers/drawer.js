@@ -13,19 +13,25 @@ Drawer = (function() {
         bindEvents();
     }
     var openDrawer = function(id) {
-        opened = true;
-        var objects = JSON.search(data, '//drawers[id="' + id + '"]/objects');
-        var hotspots = [];
-        $.each(objects, function(key, value){
-            var hotspot = JSON.search(data, '//hotspots[id=' + value + ']');
-            hotspots.push(hotspot[0]);
-        });
-        var rendered = drawerTPL(hotspots);
-
-        drawer.html(rendered).addClass('active');
-        DetailPanel.closeDetailPanel();
-        Videos.closeVideos();
-        lookToHotspot(id);
+        if (!Utilities.isPanoActive){
+            opened = true;
+            var objects = JSON.search(data, '//drawers[id="' + id + '"]/objects');
+            var hotspots = [];
+            $.each(objects, function(key, value){
+                var hotspot = JSON.search(data, '//hotspots[id=' + value + ']');
+                hotspots.push(hotspot[0]);
+            });
+            var rendered = drawerTPL(hotspots);
+    
+            drawer.html(rendered).addClass('active');
+            DetailPanel.closeDetailPanel();
+            Videos.closeVideos();
+            lookToHotspot(id);
+    
+            setTimeout(function(){
+                $('#pano').on('click', closeDrawer);
+            }, 100);
+        }
     }
     var closeDrawer = function() {
         opened = false;
@@ -33,6 +39,8 @@ Drawer = (function() {
         drawer.find('.object').removeClass('open');
         DetailPanel.closeDetailPanel();
         returnToZoom();
+
+        $('#pano').off('click', closeDrawer);
     }
     var openDetailPanel = function() {
         var id = $(this).attr('data-id');

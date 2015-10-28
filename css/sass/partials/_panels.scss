@@ -7,18 +7,18 @@
     height: 100%;
     position: absolute;
     top: 0;
-    right: -684px;
+    right: -700px;
     color: $black;
-    font-size: 110%;
+    font-size: 125%;
 
     &.active {
         right: 0;
     }
     &.larger {
-        font-size: 125%;
+        font-size: 150%;
 
         .text-size:after {
-            background: url('../images/text-size-smaller.svg') no-repeat;
+            background-image: url('../images/text-size-smaller.svg');
         }
     }
 
@@ -30,10 +30,10 @@
         border-bottom: 1px solid darken($light-gray, 10%);
 
         &.expanded {
-            height: 565px;
+            height: 575px;
 
             & + .container {
-                top: 565px;
+                top: 575px;
             }
         }
         .media-container-inner {
@@ -53,8 +53,8 @@
                 position: absolute;
                 top: 20px;
                 left: 20px;
-                max-width: 100px;
-                max-height: 100px;
+                max-width: 140px;
+                max-height: 140px;
                 z-index: 9;
                 opacity: 0;
                 overflow: hidden;
@@ -68,16 +68,42 @@
                 }
 
                 > img {
-                    max-width: 100px;
-                    max-height: 100px;
+                    max-width: 140px;
+                    max-height: 140px;
                     display: block;
                 }
                 > .mask {
-                    background: rgba(0,0,0,0.35);
+                    background: rgba($red, 0.5);
                     position: absolute;
-                    top: 0%;
-                    left: 0%;
+                    top: 0;
+                    left: 0;
                     transform-origin: 50% 50% 0;
+                }
+            }
+            .instructions {
+                @extend .transition;
+
+                position: absolute;
+                z-index: 30;
+                bottom: 15px;
+                left: 50%;
+                margin-left: -50px;
+                background: rgba(0,0,0,0.75) center center no-repeat;
+                background-size: 50%;
+                width: 120px;
+                height: 120px;
+                opacity: 0;
+                pointer-events: none;
+                border-radius: 999px;
+
+                &.in {
+                    opacity: 1;
+                }
+                &.pan {
+                    background-image: url(../images/icon-drag.svg);
+                }
+                &.zoom {
+                    background-image: url(../images/icon-pinch.svg);
                 }
             }
             .caption {
@@ -91,10 +117,12 @@
                 padding: 0 12px;
                 height: 0px;
                 overflow: hidden;
-                font-size: 14px;
+                text-align: left;
+                line-height: 1.3;
+                font-weight: 300;
 
                 &.in {
-                    padding: 12px;
+                    padding: 12px 16px;
                     height: auto;
                 }
             }
@@ -106,7 +134,7 @@
             }
         }
         .media-container-thumbs {
-            height: 84px;
+            height: 94px;
             padding: 15px;
             border-top: 1px solid darken($light-gray, 10%);
             margin: 0;
@@ -114,30 +142,57 @@
             bottom: 0;
             width: 100%;
             background: white;
+            overflow: hidden;
+            overflow-x: auto;
+            display: flex;
+            width: 610px;
 
+            ul {
+                margin: 0;
+                padding: 0;
+                display: flex;
+            }
             li {
                 float: left;
                 margin-right: 15px;
 
-                &:last-of-type {
-                    margin-right: 0;
-                }
-
                 a {
                     @extend .transition;
 
-                    height: 76px;
-                    width: 76px;
+                    height: 86px;
+                    width: 86px;
                     border: 4px solid darken($light-gray, 10%);
                     display: block;
+                    position: relative;
 
                     &.active {
                         border: 4px solid $gold-mid;
+
+                        span {
+                            background: $gold-mid;
+                            color: white;
+                        }
                     }
 
                     img {
                         width: 100%;
                         height: auto;
+                    }
+                    span {
+                        @extend .transition;
+
+                        position: absolute;
+                        bottom: 0;
+                        left: 0;
+                        background: darken($light-gray, 10%);
+                        color: white;
+                        font-weight: 700;
+                        font-size: 16px;
+                        padding: 6px;
+                        width: 12px;
+                        text-align: left;
+                        line-height: 1.2;
+                        height: 14px;
                     }
                 }
             }
@@ -149,5 +204,11 @@
         bottom: 0;
         padding: 40px;
         overflow: auto;
+        left: 0;
+        right: 0;
+
+        p { margin: 0 32px 10px 0; }
+        p > strong { font-weight: 700; }
+        p > em { font-style: italic; }
     }
 }

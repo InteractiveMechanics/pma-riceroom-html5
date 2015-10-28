@@ -1,6 +1,6 @@
 ---
 id:                 19394141
-zoomable:           false
+type:               "cabinet"
 hotspot_image:      "19394141_hotspot.png"
 x:                  112
 y:                  955
@@ -28,4 +28,29 @@ images:
     files:
       - thumb:      "19394141b_thumb.jpg"
         large:      "19394141b.jpg"
+
+  - weight:         1
+    type:           "zoom"
+    files:
+      - thumb:      "19394141c_thumb.jpg"
+        large:      "19394141c.jpg"
+
+  - weight:         1
+    type:           "zoom"
+    files:
+      - thumb:      "19394141d_thumb.jpg"
+        large:      "19394141d.jpg"
+
+  - weight:         1
+    type:           "zoom"
+    files:
+      - thumb:      "19394141e_thumb.jpg"
+        large:      "19394141e.jpg"
+
+  - weight:         1
+    type:           "zoom"
+    files:
+      - thumb:      "19394141f_thumb.jpg"
+        large:      "19394141f.jpg"
+
 ---

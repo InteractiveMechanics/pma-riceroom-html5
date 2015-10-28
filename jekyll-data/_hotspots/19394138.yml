@@ -1,9 +1,25 @@
 ---
 id:                 "19394138"
-zoomable:           true
-hotspot_image:      "images/hotspot-white-fill@2x.png"
-ath:                
-atv:                
+type:               "secondary"
+positions:
+  - points:
+      - ath:        -1.08
+        atv:        -5.15
+      - ath:        1.9
+        atv:        -5.15
+      - ath:        1.92
+        atv:        -3.2
+      - ath:        -1.08
+        atv:        -3.22
+  - points: 
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0 
 
 context:
   - accession:      "1939-41-38A, B"

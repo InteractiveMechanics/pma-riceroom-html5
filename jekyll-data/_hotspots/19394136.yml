@@ -1,9 +1,25 @@
 ---
 id:                 "19394136"
-zoomable:           true
-hotspot_image:      "images/hotspot-white-fill@2x.png"
-ath:                
-atv:                
+type:               "secondary"
+positions:
+  - points:
+      - ath:        -41.17
+        atv:        -8.91
+      - ath:        -39.1
+        atv:        -9.42
+      - ath:        -39.01
+        atv:        -3.18
+      - ath:        -41.29
+        atv:        -3.21
+  - points: 
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0 
 
 context:
   - accession:      "1939-41-36A, B"
@@ -22,5 +38,23 @@ images:
     files:
       - large:      "19394136a.jpg"
         thumb:      "19394136a_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394136b.jpg"
+        thumb:      "19394136b_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394136c.jpg"
+        thumb:      "19394136c_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394136d.jpg"
+        thumb:      "19394136d_thumb.jpg"
 
 ---

@@ -1,6 +1,6 @@
 ---
 id:                 "19394159"
-zoomable:           false
+type:               "cabinet"
 hotspot_image:      "19394159_hotspot.png"
 x:                  34
 y:                  630
@@ -22,5 +22,47 @@ images:
     files:
       - large:      "19394159a.jpg"
         thumb:      "19394159a_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394159b.jpg"
+        thumb:      "19394159b_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394159c.jpg"
+        thumb:      "19394159c_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394159d.jpg"
+        thumb:      "19394159d_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394159e.jpg"
+        thumb:      "19394159e_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394159f.jpg"
+        thumb:      "19394159f_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394159g.jpg"
+        thumb:      "19394159g_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394159h.jpg"
+        thumb:      "19394159h_thumb.jpg"
 
 ---

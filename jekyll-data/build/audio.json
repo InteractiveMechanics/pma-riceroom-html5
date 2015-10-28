@@ -2,53 +2,50 @@
     
     {
         "time": 0,
-        "text": "The room you are standing in is one of the Museum's thirty-four historic interiors.",
+        "text": "Welcome to America's Gilded Age.",
         "action": "resetToStart()"
     },
     {
-        "time": 5500,
-        "text": "These spaces serve as examples of architectural styles from around the world",
+        "time": 3000,
+        "text": "Most people are surprised to learn that this room",
         "action": "slowRotate(-0.025)"
     },
     {
-        "time": 10500,
-        "text": "and across time that offer a glimpse into the past."
+        "time": 5000,
+        "text": "does not come from a Parisian residence of the Seventeen hundreds"
+    },
+    {
+        "time": 9500,
+        "text": "but rather, a New York City townhouse built in the 1920's."
     },
     {
         "time": 14000,
-        "text": "Because the room so closely resembles an eighteenth-century Parisian salon"
-    },
-    {
-        "time": 18000,
-        "text": "it often surprises people to learn that it comes from a New York townhouse"
-    },
-    {
-        "time": 23000,
-        "text": "built by a socially prominent couple during America's late Gilded Age."
-    },
-    {
-        "time": 27500,
-        "text": "In it, you will find the wall lights that once lit the house of Louis XVI's aunts,",
-        "action": "lookToHotspot('a19394128')"
-    },
-    {
-        "time": 32000,
-        "text": "a carpet made for Louis XIV,",
+        "text": "In it, you will find a carpet woven for Louis XIV,",
         "action": "lookToHotspot('a19394127')"
     },
     {
-        "time": 34500,
-        "text": "and even a writing table belonging to Marie Antoinette.",
+        "time": 18000,
+        "text": "the wall lights of Louis XVI's aunts,",
+        "action": "lookToHotspot('a19394128')"
+    },
+    {
+        "time": 21000,
+        "text": "and even a writing table once owned by Marie Antoinette.",
         "action": "lookToHotspot('a1939419')"
     },
     {
-        "time": 38500,
-        "text": "Select a video or touch any object to find out more.",
-        "action": "Videos.openVideos()"
+        "time": 25000,
+        "text": "Touch any object on the screen",
+        "action": "resetToStart()"
     },
     {
-        "time": 38500,
-        "text": "Select a video or touch any object to find out more.",
-        "action": "resetToStart()"
+        "time": 27750,
+        "text": "or play a video to find out more.",
+        "action": "Videos.makeVideosActive()"
+    },
+    {
+        "time": 27750,
+        "text": "or play a video to find out more.",
+        "action": "Videos.openVideos()"
     }
 ]

@@ -32,43 +32,48 @@
 
             width: 50%;
             float: left;
-            margin: 11px 0;
+            margin: 24px 0;
             font-weight: 300;
+            font-size: 21px;
 
-            strong { font-weight: 700; margin-left: 5px; }
+            strong { font-weight: 700; margin-left: 8px; }
         }
         
         .video-mute-button {
-            width: 32px;
-            height: 32px;
+            width: 64px;
+            height: 64px;
             float: left;
             position: relative;
             background: url('../images/video-mute.svg') center center no-repeat;
+            background-color: #FFF;
             background-size: 50%;
-            border: 2px solid white;
+            border: 3px solid white;
             border-radius: 99px;
-            margin-right: 15px;
+            margin-right: 25px;
 
             &.muted {
+                background-color: transparent;
+                background-image: url('../images/video-unmute.svg');
+
                 &:after {
                     content: '';
-                    border-bottom: 2px solid white;
+                    border-bottom: 3px solid white;
                     transform: rotate(-45deg);
-                    width: 32px;
+                    width: 65px;
                     position: absolute;
-                    top: 16px;
-                    bottom: 16px;
+                    top: 31px;
+                    bottom: 32px;
                 }
             }
         }
         .video-play-button {
-            width: 32px;
-            height: 32px;
+            width: 64px;
+            height: 64px;
             float: left;
             position: relative;
             background: url('../images/video-pause.svg') center center no-repeat;
             background-size: 32%;
-            border: 2px solid white;
+            border: 3px solid white;
             border-radius: 99px;
             margin-right: 15px;
 
@@ -77,12 +82,24 @@
                 background-size: 32%;
             }
         }
+        .video-replay-button {
+            width: 64px;
+            height: 64px;
+            float: left;
+            position: relative;
+            background: url('../images/video-replay.svg') center center no-repeat;
+            background-size: 53%;
+            border: 3px solid white;
+            border-radius: 99px;
+            margin-right: 15px;
+        }
 
         input[type=range] {
             -webkit-appearance: none;
-            width: 40%;
+            width: 25%;
             height: 32px;
             float: right;
+            top: 15px;
             position: relative;
             background: none;
         }
@@ -91,21 +108,20 @@
         
             width: 96%;
             margin: 12px auto;
-            height: 8px;
+            height: 12px;
             position: relative;
-            background: rgba(255,255,255,0.35);
-            border-radius: 4px;
+            background: rgba(255,255,255,0.25);
+            border-radius: 8px;
         }
         input[type=range]::-webkit-slider-thumb {
-            @extend .gold;
-            
+            background: rgba(255,255,255,0.75);            
             -webkit-appearance: none;
-            width: 32px;
-            height: 32px;
-            border-radius: 99px;
+            width: 12px;
+            height: 12px;
+            border-radius: 8px;
             position: absolute;
             left: 0;
-            top: -13px;
+            top: 0;
         }
         input[type=range]:focus {
             outline: none;

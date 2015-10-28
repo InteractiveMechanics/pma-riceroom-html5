@@ -1,0 +1,64 @@
+---
+id:                 "19394118c"
+type:               "secondary"
+positions:
+  - points:
+      - ath:        -149.39
+        atv:        -1.31
+      - ath:        -142.09
+        atv:        -1.2
+      - ath:        -138.94
+        atv:        5.01
+      - ath:        -132.1
+        atv:        6.98
+      - ath:        -131.23
+        atv:        19.95
+      - ath:        -143.36
+        atv:        24.2
+  - points: 
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0
+      - ath:        0
+        atv:        0 
+
+context:
+  - accession:      "1939-41-18c"
+    title:          "Chairs from a Suite of Furniture"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394118ca.jpg"
+        thumb:      "19394118ca_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394118cb.jpg"
+        thumb:      "19394118cb_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394118cc.jpg"
+        thumb:      "19394118cc_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394118cd.jpg"
+        thumb:      "19394118cd_thumb.jpg"
+
+---

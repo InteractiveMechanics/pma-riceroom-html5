@@ -1,0 +1,504 @@
+<krpano version="1.18">
+    
+	<view 
+        hlookat="0" 
+        vlookat="0" 
+        maxpixelzoom="1.25" 
+        fovmax="90" 
+        limitview="range" 
+        vlookatmin="-45" 
+        vlookatmax="45" />
+	
+	<preview url="/panorama_left.tiles/preview.jpg" />
+    <image type="CUBE" multires="true" tilesize="512">
+		<level tiledimagewidth="9264" tiledimageheight="9264">
+			<cube url="/panorama_left.tiles/mres_%s/l5/%v/l5_%s_%v_%h.jpg" />
+		</level>
+		<level tiledimagewidth="4608" tiledimageheight="4608">
+			<cube url="/panorama_left.tiles/mres_%s/l4/%v/l4_%s_%v_%h.jpg" />
+		</level>
+		<level tiledimagewidth="2304" tiledimageheight="2304">
+			<cube url="/panorama_left.tiles/mres_%s/l3/%v/l3_%s_%v_%h.jpg" />
+		</level>
+		<level tiledimagewidth="1152" tiledimageheight="1152">
+			<cube url="/panorama_left.tiles/mres_%s/l2/%v/l2_%s_%v_%h.jpg" />
+		</level>
+		<level tiledimagewidth="576" tiledimageheight="576">
+			<cube url="/panorama_left.tiles/mres_%s/l1/%v/l1_%s_%v_%h.jpg" />
+		</level>
+		<mobile>
+			<cube url="/panorama_left.tiles/mobile_%s.jpg" />
+		</mobile>
+	</image>
+
+    
+    <hotspot 
+        name="a19394127"
+        type="image"
+        url="/images/hotspot-white-stroke@2x.png"
+        visible="true"
+        enabled="true"
+        ath="0"
+        atv="0"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394127) );" />
+    <hotspot 
+        name="a19394128"
+        type="image"
+        url="/images/hotspot-white-stroke@2x.png"
+        visible="true"
+        enabled="true"
+        ath="0"
+        atv="0"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394128) );" />
+    <hotspot 
+        name="a19394130a"
+        type="image"
+        url="/images/hotspot-white-stroke@2x.png"
+        visible="true"
+        enabled="true"
+        ath="0"
+        atv="0"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394130a) );" />
+    <hotspot 
+        name="a19394130b"
+        type="image"
+        url="/images/hotspot-white-stroke@2x.png"
+        visible="true"
+        enabled="true"
+        ath="0"
+        atv="0"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394130b) );" />
+    <hotspot 
+        name="a19394130c"
+        type="image"
+        url="/images/hotspot-white-stroke@2x.png"
+        visible="true"
+        enabled="true"
+        ath="0"
+        atv="0"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394130c) );" />
+    <hotspot 
+        name="a19394130d"
+        type="image"
+        url="/images/hotspot-white-stroke@2x.png"
+        visible="true"
+        enabled="true"
+        ath="0"
+        atv="0"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394130d) );" />
+    <hotspot 
+        name="a1939419"
+        type="image"
+        url="/images/hotspot-white-stroke@2x.png"
+        visible="true"
+        enabled="true"
+        ath="0"
+        atv="0"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(1939419) );" />
+    
+    <hotspot 
+        name="a1939411"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(1939411) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394110"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394110) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394111"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394111) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394113"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394113) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394116"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394116) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394117a"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394117a) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394117b"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394117b) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394117k"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394117k) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394118a"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394118a) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394118b"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394118b) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394118c"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394118c) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394118d"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394118d) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394118e"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394118e) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394119"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394119) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a1939412"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(1939412) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394124"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394124) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394126"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394126) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a1939413"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(1939413) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394133"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394133) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394134a"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394134a) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394134b"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394134b) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394135"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394135) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394136"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394136) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394137"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394137) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394138"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394138) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a19394139"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(19394139) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a1939414"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(1939414) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a1939415"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(1939415) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    <hotspot 
+        name="a1939418"
+        enabled="true"
+        alpha="0"
+        capture="false"
+        onclick="js( DetailPanel.updateDetailPanel(1939418) );">
+        
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+        <point ath="0" atv="0" />
+    </hotspot>
+    
+    <hotspot
+        name="drawer-left"
+        type="image"
+        url="/images/hotspot-white-stroke@2x.png"
+        enabled="true"
+        alpha="1"
+        onclick="js( Drawer.openDrawer('drawer-left') );"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        capture="false"
+        ath="0"
+        atv="0" />
+    <hotspot
+        name="drawer-right"
+        type="image"
+        url="/images/hotspot-white-stroke@2x.png"
+        enabled="true"
+        alpha="1"
+        onclick="js( Drawer.openDrawer('drawer-right') );"
+        scale="0.35"
+        edge="center"
+        zoom="true"
+        capture="false"
+        ath="0"
+        atv="0" />
+
+    <events onclick="showlog(); screentosphere(mouse.x, mouse.y, toh, tov); trace(get(toh), ' ', get(tov));" />
+</krpano>

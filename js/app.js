@@ -5,6 +5,7 @@ $(document).ready(function(){
         data = response;
 
         Utilities.init();
+        Attract.init();
         Modal.init();
         Preloader.init();
         DetailPanel.init();
@@ -34,5 +35,8 @@ $(document).ready(function(){
             default:
                 return options.inverse(this);
         }
+    });
+    Handlebars.registerHelper("inc", function(value, options) {
+        return parseInt(value) + 1;
     });
 });

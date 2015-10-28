@@ -1,9 +1,14 @@
 ---
 id:                 "19394130b"
-zoomable:           false
+type:               "primary"
 hotspot_image:      "images/hotspot-white-stroke@2x.png"
-ath:                298
-atv:                185
+positions:
+  - points:
+      - ath:        27.65
+        atv:        -15.12
+  - points: 
+      - ath:        0
+        atv:        0
 
 context:
   - accession:      "1939-41-30b"
