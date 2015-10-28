@@ -67,7 +67,7 @@ DetailPanel = (function() {
                 scale = 1;
             }
             updateHammerZoom(e);
-            updateZoomer(scale, vx, vy);
+            updateZoomer(e);
             $('.media-container-inner .instructions').removeClass('in');
         });
         mc.on('pinchout', function(e) {
@@ -76,12 +76,12 @@ DetailPanel = (function() {
                 scale = 4;
             }
             updateHammerZoom(e);
-            updateZoomer(scale, vx, vy);
+            updateZoomer(e);
             $('.media-container-inner .instructions').removeClass('in');
         });
         mc.on('panmove', function(e) {
             updateHammerZoom(e);
-            updateZoomer(scale, vx, vy);
+            updateZoomer(e);
             $('.media-container-inner .instructions').removeClass('in');
         });
         mc.on('pinchend panend', function(e) {
@@ -154,7 +154,7 @@ DetailPanel = (function() {
             checkZoomBounds();
         }
     }
-    var updateZoomer = function(scale, vx, vy, cx, cy) {
+    var updateZoomer = function() {
         var zw = $('.media-container-inner').width();
         var zh = $('.media-container-inner').height();
         var iw = $('.media-container-inner > div.zoomer').width();
@@ -171,14 +171,14 @@ DetailPanel = (function() {
                 .width(nw)
                 .height(ih)
                 .css({
-                    'transform': 'scale(' + nscale + ') translate(' + -(vx/scale) + 'px, ' + -(vy/scale) + 'px)'
+                    'transform': 'scale(' + nscale + ') translate(' + -(vx + iw/2) + 'px, ' + -(vy) + 'px)'
                 });
         }
         if (scale == 1){
             hammer.find('div.zoomer')
                 .addClass('in')
                 .find('.mask')
-                .width(nw)
+                .width(iw)
                 .height(ih)
                 .css({
                     'transform': 'scale(' + scale + ') translate(0px, 0px)'
