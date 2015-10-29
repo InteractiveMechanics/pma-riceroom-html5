@@ -10,9 +10,9 @@ html, body {
 
 .text-size,
 .close {
-    @extend .gold;
     @extend .transition;
 
+    background: $gold-mid;
     position: absolute;
     z-index: 9;
     font-size: 27px;

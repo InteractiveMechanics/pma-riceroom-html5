@@ -9,10 +9,16 @@
         .video-container {
             height: 48px;
         }
+        .close {
+            opacity: 0 !important;
+        }
     }
     &.in {
         .video-container {
             height: 645px;
+        }
+        .close {
+            opacity: 1 !important;
         }
     }
 
@@ -20,11 +26,15 @@
         @extend .drop-shadow;
         @extend .transition;
 
-        height: 80px;
-        background: white;
-        border: 4px solid $tan;
+        height: 88px;
+        background: rgba(255,255,255,0.9);
         display: block;
         margin-bottom: 10px;
+        opacity: 0;
+
+        &.in {
+            opacity: 1;
+        }
 
         .audio-narrative-icon {
             background: url("../images/narrative-play.svg") center center no-repeat;
@@ -33,12 +43,12 @@
             display: block;
             top: 0;
             bottom: 0;
-            border-right: 1px solid $tan;
+            border-right: 1px solid #444;
             width: 40px;
             height: 100%;
             float: left;
             padding: 0 20px;
-            margin-right: 25px;
+            margin-right: 28px;
             opacity: 1;
             
 
@@ -51,8 +61,8 @@
             @extend .transition;
 
             float: left;
-            color: $tan;
-            padding: 30px 0 32px;
+            color: #444;
+            padding: 32px 0 30px;
             opacity: 1;
             font-size: 1.3em;
             letter-spacing: 0;
@@ -73,6 +83,7 @@
         width: 100%;
         bottom: 0;
         z-index: 9;
+        color: #444;
         
         &:hover {
             background: darken($tan, 5%);
@@ -84,9 +95,16 @@
         position: absolute;
         width: 100%;
         bottom: 110px;
-        overflow: hidden;
+        overflow-y: hidden;
+        overflow-x: visible;
         height: 0px;
+        //-webkit-filter: drop-shadow(0 8px 15px rgba(0,0,0,0.75));
 
+        .close {
+            @extend .transition;
+
+            opacity: 1;
+        }
         .video {
             @extend .drop-shadow;
             @extend .transition;
@@ -109,7 +127,7 @@
                 @extend .bold-spaced;
             
                 position: absolute;
-                background: rgba(0,0,0,0.5);
+                background: rgba(0,0,0,0.75);
                 bottom: 8px;
                 left: 8px;
                 right: 8px;
@@ -134,6 +152,7 @@
                 width: 100%;
                 height: auto;
                 position: absolute;
+                -webkit-filter: grayscale(1);
             }
         }
     }

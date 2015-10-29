@@ -22,6 +22,14 @@ Narrative = (function() {
         });
         audio.addEventListener('timeupdate', onNarrativeEnd);
     }
+
+    var toggleNarrativeButton = function(bool) {
+        if (bool) {
+            $('.audio-narrative').addClass('in');
+        } else {
+            $('.audio-narrative').removeClass('in');
+        }
+    }
     var onNarrativeEnd = function() {
         if (audio.currentTime == audio.duration) {
             toggleNarrativePlaying();
@@ -50,6 +58,7 @@ Narrative = (function() {
             Utilities.toggleActivePanorama(false);
         } else {
             audio.play();
+            toggleNarrativeButton(true);
             toggleAudioIcon(true);
             Utilities.toggleActivePanorama(true);
 

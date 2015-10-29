@@ -6,8 +6,8 @@
         maxpixelzoom="1.25" 
         fovmax="90" 
         limitview="range" 
-        vlookatmin="-45" 
-        vlookatmax="45" />
+        vlookatmin="-50" 
+        vlookatmax="40" />
 	
 	<preview url="/panorama_right.tiles/preview.jpg" />
     <image type="CUBE" multires="true" tilesize="512">

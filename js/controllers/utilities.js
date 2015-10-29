@@ -1,6 +1,6 @@
 Utilities = (function() {
     var timeout;
-    var duration = 90000;
+    var duration = 10000;
     var isMuted;
     var isMediaActive;
     var isPanoActive;
@@ -12,8 +12,10 @@ Utilities = (function() {
         bindEvents();
     }
     var resetTimeout = function() {
-        if (timeout){
-            clearTimeout(timeout);
+        if (timeout) {
+            $.each(timeout, function(index, value){
+                clearTimeout(value);
+            });
         }
         timeout = setTimeout(resetInteractive, duration);
     }
@@ -22,9 +24,10 @@ Utilities = (function() {
     }
     var resetInteractive = function() {
         if (!isMediaActive) {
-            resetToStart();
+            attractRotation(0.030);
 
             Attract.openAttract();
+            Narrative.toggleNarrativeButton(false);
             Videos.closeVideos();
             Videos.makeVideosInactive();
             DetailPanel.closeDetailPanel();

@@ -5,20 +5,20 @@
         "vlookat": 0,
         "maxpixelzoom": 1.25,
         "fovmax": 90,
-        "vlookatmin": -45,
-        "vlookatmax": 45
+        "vlookatmin": -50,
+        "vlookatmax": 40
     },"id": "panorama_left",
     "view": {
         "hlookat": 0,
         "vlookat": 0,
         "maxpixelzoom": 1.25,
         "fovmax": 90,
-        "vlookatmin": -45,
-        "vlookatmax": 45
+        "vlookatmin": -50,
+        "vlookatmax": 40
     },
     "videos": [
         {
-            "title": "How the Room Came Together",
+            "title": "How the Room Got Here",
             "files": {
                 "source": "files/howtheroomcametogether.mp4",
                 "poster": "files/howtheroomcametogether_poster.jpg",

@@ -4,11 +4,13 @@ Attract = (function() {
     var init = function() {
         attract = $('#attract');
         bindEvents();
+        attractRotation(0.030);
     }
     var bindEvents = function() {
         attract.on('click tap', closeAttract);
     }
     var openAttract = function () {
+        attractRotation(0.030);
         $('#attract').removeClass('hidden');
         setTimeout(function(){
             $('#attract').addClass('in');

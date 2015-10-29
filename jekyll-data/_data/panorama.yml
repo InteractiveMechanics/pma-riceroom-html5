@@ -5,8 +5,8 @@
       maxpixelzoom: 1.25
       fovmax: 90
       limitview: range
-      vlookatmin: -45
-      vlookatmax: 45
+      vlookatmin: -50
+      vlookatmax: 40
 
 - id: "panorama_left"
   view:
@@ -15,5 +15,5 @@
       maxpixelzoom: 1.25
       fovmax: 90
       limitview: range
-      vlookatmin: -45
-      vlookatmax: 45
+      vlookatmin: -50
+      vlookatmax: 40

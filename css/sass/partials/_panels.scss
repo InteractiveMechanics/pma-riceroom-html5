@@ -20,6 +20,12 @@
         .text-size:after {
             background-image: url('../images/text-size-smaller.svg');
         }
+        .media-container-thumbs li a span {
+            font-size: 18px !important;
+            padding: 7px !important;
+            width: 13px !important;
+            height: 16px !important;
+        }
     }
 
     .media-container {
@@ -88,7 +94,7 @@
                 bottom: 15px;
                 left: 50%;
                 margin-left: -50px;
-                background: rgba(0,0,0,0.75) center center no-repeat;
+                background: rgba(0,0,0,0.65) center center no-repeat;
                 background-size: 50%;
                 width: 120px;
                 height: 120px;
@@ -100,10 +106,14 @@
                     opacity: 1;
                 }
                 &.pan {
+                    background: rgba(0, 0, 0, 0.65) 16px 24px no-repeat;
                     background-image: url(../images/icon-drag.svg);
+                    background-size: 70%;
                 }
                 &.zoom {
+                    background: rgba(0, 0, 0, 0.65) 15px 20px no-repeat;
                     background-image: url(../images/icon-pinch.svg);
+                    background-size: 70%;
                 }
             }
             .caption {
@@ -161,7 +171,7 @@
 
                     height: 86px;
                     width: 86px;
-                    border: 4px solid darken($light-gray, 10%);
+                    border: 4px solid darken($light-gray, 25%);
                     display: block;
                     position: relative;
 
@@ -184,7 +194,7 @@
                         position: absolute;
                         bottom: 0;
                         left: 0;
-                        background: darken($light-gray, 10%);
+                        background: darken($light-gray, 25%);
                         color: white;
                         font-weight: 700;
                         font-size: 16px;

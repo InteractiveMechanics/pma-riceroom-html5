@@ -157,7 +157,7 @@
     </div>
     <div id="attract" class="in">
         <div class="container">
-            <img src="./images/logo.gif" />
+            <img src="./images/logo.png" />
             <h1>Drawing Room from a New York City Town House</h1>
             <h2>Touch the screen to get started</h2>
         </div>
@@ -204,6 +204,13 @@
                 var krpano = document.getElementById("krpanoSWFObject");
                 if (krpano && krpano.get) {
                     krpano.call("set(control.usercontrol, 'all');");
+                }
+            }
+            function attractRotation(force) {
+                var krpano = document.getElementById("krpanoSWFObject");
+                if (krpano && krpano.get) {
+                    krpano.call("zoomto(90);");
+                    krpano.call("set(hlookat_moveforce, " + force + ");");
                 }
             }
             function slowRotate(force){

@@ -94,24 +94,29 @@ DetailPanel = (function() {
     var updateHammerZoom = function(e) {
         var delta = 1;
         var img = $('img.zoomable')[0].getBoundingClientRect();
+        var offset = 0;
+
+        if ($('#drawer').hasClass('in')) {
+            offset = 640;
+        }
         
-        if (scale > 1){
+        if (scale > 1) {
             vx -= e.velocityX * 2;
             vy -= e.velocityY * 2;
 
             if (img.width <= 640){
-                if (img.left < 1281){ vx += delta; }
-                if (img.right > 1919){ vx -= delta; }
+                if (img.left < (1281 - offset)){ vx += delta; }
+                if (img.right > (1919 - offset)){ vx -= delta; }
             } else {
-                if (img.left > 1279){ vx -= delta; }
-                if (img.right < 1921){ vx += delta; }
+                if (img.left > (1279 - offset)){ vx -= delta; }
+                if (img.right < (1921 - offset)){ vx += delta; }
             }
             if (img.height <= 450){
-                if (img.top < 1){ vy += delta; }
-                if (img.bottom > 449){ vy -= delta; }
+                if (img.top < (1 - offset)){ vy += delta; }
+                if (img.bottom > (449 - offset)){ vy -= delta; }
             } else {
-                if (img.top > -1){ vy -= delta; }
-                if (img.bottom < 451){ vy += delta; }
+                if (img.top > (-1 - offset)){ vy -= delta; }
+                if (img.bottom < (451 - offset)){ vy += delta; }
             }
         } else {
             vx = 0;
@@ -200,7 +205,7 @@ DetailPanel = (function() {
         
         mc.on('panright', function(e) {
             var src;
-            if (e.deltaX % 10 == 0) {
+            if (e.deltaX % 12 == 0) {
                 step--;
             }
             if (step < 0) {
@@ -212,7 +217,7 @@ DetailPanel = (function() {
         });
         mc.on('panleft', function(e) {
             var src;
-            if (e.deltaX % 10 == 0) {
+            if (e.deltaX % 12 == 0) {
                 step++;
             }
             if (step > length) {
