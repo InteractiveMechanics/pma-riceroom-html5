@@ -30,7 +30,22 @@ context:
     credit:         ""
     medium:         ""
     url:            ""
-    description:    ""
+    description:    "Joseph Baumhauer, like many Parisian cabinetmakers, did not sell directly to clients but instead worked almost exclusively for prominent dealers of luxury goods such as Simon-Philippe Poirier and his partner Dominique Daguerre.
+<br><br>
+Poirier likely commissioned this table. He had a virtual monopoly on the porcelain plaques that adorn it, and is credited with creating the market for this type of innovative furniture. The Museum’s collection includes a number of Poirier-commissioned pieces made by a different cabinetmaker, Martin Carlin, such as a plant stand (on display in this room) and a writing desk (image 2).
+<br><br>
+To begin the process of manufacture Poirier provided Baumhauer with a sketch for the table. With the design in hand, workers in Baumhauer’s shop constructed the carcass and covered the exposed surfaces, except for the desktop, with a thin layer of tulipwood veneer. Poirier then supplied the plaques, which he may have commissioned from the Sèvres porcelain factory specifically for this table. He also supplied the metal mounts that Baumhauer, as a cabinetmaker, was prohibited from making due to guild regulations.
+<br><br>
+Eleanore Rice purchased this table from New York dealer Joseph Duveen in 1925. It had formerly been among the furnishings in a drawing room only doors away from Mrs. Rice’s Fifth Avenue townhouse, in a residence designed for George J. Gould, the eldest son of the financier and railroad tycoon Jay Gould (image 3). 
+<br><br>
+c. 1763<br>
+Oak with tulipwood veneer; gilded bronze mounts; soft-paste porcelain plaques with enamel and gilt decoration; morocco leather top
+<br><br>
+Table made by **Joseph Baumhauer**, German (active Paris), born ?, died 1772
+<br><br>
+Plaques made by the **Sèvres porcelain factory**, Sèvres, France, 1756–present
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-10"
 
 images:
   - weight:         0
@@ -41,12 +56,14 @@ images:
 
   - weight:         0
     type:           "context"
+    caption:        "Writing Desk, c. 1777–80, by Martin Carlin, plaques by Sèvres porcelain factory, oak with satinwood, tulipwood, and mahogany veneers; gilded bronze mounts; soft-paste porcelain plaques with enamel and gilt decoration. Collection Philadelphia Museum of Art"
     files:
       - thumb:      "19394110c_thumb.jpg"
         large:      "19394110c.jpg"
 
   - weight:         0
     type:           "context"
+    caption:        "Drawing room of George J. Gould residence, New York, 1907–9"
     files:
       - thumb:      "19394110d_thumb.jpg"
         large:      "19394110d.jpg"

@@ -47,14 +47,14 @@ layout: null
         edge="center"
         zoom="true"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel({{ hotspot.id }}) );" />{% endif %}{% endfor %}
+        onclick="js( DetailPanel.updateDetailPanel({{ hotspot.id }}{% if hotspot.distance %}, {{ hotspot.distance }}{% endif %}) );" />{% endif %}{% endfor %}
     {% for hotspot in site.hotspots %}{% if hotspot.type == 'secondary' %}
     <hotspot 
         name="a{{ hotspot.id }}"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel({{ hotspot.id }}) );">
+        onclick="js( DetailPanel.updateDetailPanel({{ hotspot.id }}{% if hotspot.distance %}, {{ hotspot.distance }}{% endif %}) );">
         {% for point in hotspot.positions[1].points %}
         <point ath="{{ point.ath }}" atv="{{ point.atv }}" />{% endfor %}
     </hotspot>{% endif %}{% endfor %}

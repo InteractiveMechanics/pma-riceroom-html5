@@ -11,15 +11,32 @@ positions:
         atv:        -3.94
 
 context:
-  - accession:      "1939-41-9"
-    title:          "Writing Table"
-    date:           "1783"
-    creator:        "Jean-Henri Riesener, German (active Paris), 1734 - 1806"
-    location:       "Made in Paris, France, Europe"
-    credit:         "Bequest of Eleanore Elkins Rice, 1939"
-    medium:         "Oak with mahogany, satinwood, purplewood, and other wood veneers; gilded bronze mounts"
-    url:            "http://www.philamuseum.org/collections/permanent/45855.html?mulR=61461129|1"
-    description:    "This table was made for Mme Elisabeth, sister of Louis XVI, and delivered to the palace at Versailles, where she occupied a first-floor apartment. This exquisite writing table was delivered by Jean-Henri Riesener to the Versailles apartment of Princess Elisabeth, the youngest sister of King Louis XVI, on December 31, 1785."
+  - accession:      ""
+    title:          ""
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    "This vase, along with much of the porcelain in this room, was made at the famous Sèvres (formerly Vincennes) porcelain factory. The manufactory, purchased by French King Louis XV in 1759, produced some of the finest porcelain in Europe during the second half of the 1700s. 
+<br><br>
+The distinctive style developed by Sèvres in the 1750s included brightly colored background colors, exquisite painted scenes, and lavish embellishments in gold. Because of a privilege granted by the king in 1745, the Sèvres factory was the only one in France permitted to decorate its porcelain with figures.
+<br><br>
+This vase’s turquoise blue *(bleu celeste)* ground color, only the second introduced at the factory, proved to be its most successful. First created for a dinner and dessert service made for Louis XV in the early 1750s (image 2), *bleu celeste* appeared on a variety of pieces produced during the latter half of the century. 
+<br><br>
+Charles-Nicolas Dodin, considered one of the most skillful painters at Sèvres, decorated this vase with a scene drawn by François Boucher, a French painter, engraver, and designer (image 3). It depicts an elderly man reading the fortune of a young shepherdess, a book at his feet displaying the astrological symbol of a crescent moon and accompanied by three younger figures who frolic and flirt. Boucher’s work embodied the spirit of the times and had an unparalleled impact on the decorative arts of the 1700s.
+<br><br>
+1764<br>
+Soft-paste porcelain with enamel and gilt decoration
+<br><br>
+Model probably made by **Jean-Claude Duplessis, Sr.**, French, born c. 1695, died 1774
+<br><br>
+Made by the **Sèvres porcelain factory**, Sèvres, France, 1756–present
+<br><br>
+Decorated by **Charles-Nicolas Dodin**, French, born 1734, died 1803
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-61"
 
 images:
   - weight:         0
@@ -37,13 +54,29 @@ images:
 
   - weight:         1
     type:           "context"
+    caption:        "Portrait of Jean-Henri Riesener (1734–1806), 1786, by Antoine Vestier, oil on canvas. Collection Château de Versailles"
     files:
       - large:      "1939419d.jpg"
         thumb:      "1939419d_thumb.jpg"
+
+  - weight:         2
+    type:           "context"
+    caption:        "Conversation at Drottningholm Castle, 1779, by Pehr Hilleström, oil on canvas. Collection Nationalmuseum, Stockholm"
+    files:
+      - thumb:      "1939419f_thumb.jpg"
+        large:      "1939419f.jpg"
+
+  - weight:         2
+    type:           "context"
+    caption:        "The Beloved Portrait, c. 1783, by Jean-Frédéric Schall, oil on panel. Private Collection"
+    files:
+      - thumb:      "1939419e_thumb.jpg"
+        large:      "1939419e.jpg"
 
   - weight:         2
     type:           "zoom"
     files:
       - thumb:      "1939419c_thumb.jpg"
         large:      "1939419c.jpg"
+
 ---

@@ -285,6 +285,8 @@ html, body {
     opacity: 1; }
   #modal.hidden {
     display: none; }
+  #modal .close {
+    right: -64px; }
   #modal .modal-container {
     position: fixed;
     top: 80px;

@@ -7,14 +7,31 @@ y:                  845
 
 context:
   - accession:      "1939-41-61a, b"
-    title:          "Vase with Lid"
+    title:          "Vase"
     date:           ""
     creator:        ""
     location:       ""
     credit:         ""
     medium:         ""
     url:            ""
-    description:    ""
+    description:    "This vase, along with much of the porcelain in this room, was made at the famous Sèvres (formerly Vincennes) porcelain factory. The manufactory, purchased by French King Louis XV in 1759, produced some of the finest porcelain in Europe during the second half of the 1700s. 
+<br><br>
+The distinctive style developed by Sèvres in the 1750s included brightly colored background colors, exquisite painted scenes, and lavish embellishments in gold. Because of a privilege granted by the king in 1745, the Sèvres factory was the only one in France permitted to decorate its porcelain with figures.
+<br><br>
+This vase’s turquoise blue *(bleu celeste)* ground color, only the second introduced at the factory, proved to be its most successful. First created for a dinner and dessert service made for Louis XV in the early 1750s (image 2), *bleu celeste* appeared on a variety of pieces produced during the latter half of the century. 
+<br><br>
+Charles-Nicolas Dodin, considered one of the most skillful painters at Sèvres, decorated this vase with a scene drawn by François Boucher, a French painter, engraver, and designer (image 3). It depicts an elderly man reading the fortune of a young shepherdess, a book at his feet displaying the astrological symbol of a crescent moon and accompanied by three younger figures who frolic and flirt. Boucher’s work embodied the spirit of the times and had an unparalleled impact on the decorative arts of the 1700s.
+<br><br>
+1764<br>
+Soft-paste porcelain with enamel and gilt decoration
+<br><br>
+Model probably made by **Jean-Claude Duplessis, Sr.**, French, born c. 1695, died 1774
+<br><br>
+Made by the **Sèvres porcelain factory**, Sèvres, France, 1756–present
+<br><br>
+Decorated by **Charles-Nicolas Dodin**, French, born 1734, died 1803
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-61"
 
 images:
   - weight:         0
@@ -46,14 +63,16 @@ images:
 
   - weight:         0
     type:           "context"
-    files:
-      - thumb:      "19394161b_thumb.jpg"
-        large:      "19394161b.jpg"
-
-  - weight:         0
-    type:           "context"
+    caption:        "The Fortune Teller, 1738, by Pierre Aveline, based on a drawing by François Boucher, engraving"
     files:
       - thumb:      "19394161c_thumb.jpg"
         large:      "19394161c.jpg"
+
+  - weight:         0
+    type:           "context"
+    caption:        "Wine Bottle Cooler, 1753, Vincennes porcelain factory, soft-paste porcelain. From a dinner service ordered by Louis XV. Collection Metropolitan Museum of Art, New York"
+    files:
+      - thumb:      "19394161b_thumb.jpg"
+        large:      "19394161b.jpg"
 
 ---
