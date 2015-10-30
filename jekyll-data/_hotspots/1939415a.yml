@@ -1,0 +1,60 @@
+---
+id:                 "1939415a"
+type:               "secondary"
+positions:
+  - points:
+      - ath:        -17.11
+        atv:        -4.58
+      - ath:        -13.81
+        atv:        -4.71
+      - ath:        -13.56
+        atv:        -1.85
+      - ath:        -17.13
+        atv:        -2.37
+  - points: 
+      - ath:        106.73
+        atv:        12.48
+      - ath:        106.29
+        atv:        -6.97
+      - ath:        118.53
+        atv:        -6.85
+      - ath:        118.15
+        atv:        13.23 
+
+context:
+  - accession:      "1939-41-5"
+    title:          "Pair of Secretaries on Stands"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    ""
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "1939415a.jpg"
+        thumb:      "1939415a_thumb.jpg"
+
+  - weight:         1
+    type:           "zoom"
+    files:
+      - large:      "1939415b.jpg"
+        thumb:      "1939415b_thumb.jpg"
+
+  - weight:         2
+    type:           "zoom"
+    files:
+      - large:      "1939415c.jpg"
+        thumb:      "1939415c_thumb.jpg"
+
+  - weight:         3
+    type:           "zoom"
+    files:
+      - large:      "1939415d.jpg"
+        thumb:      "1939415d_thumb.jpg"
+
+---

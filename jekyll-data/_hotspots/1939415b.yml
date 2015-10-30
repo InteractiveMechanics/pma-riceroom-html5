@@ -1,5 +1,5 @@
 ---
-id:                 1939415
+id:                 "1939415b"
 type:               "secondary"
 positions:
   - points:
@@ -12,14 +12,14 @@ positions:
       - ath:        -17.13
         atv:        -2.37
   - points: 
-      - ath:        0
-        atv:        0
-      - ath:        0
-        atv:        0
-      - ath:        0
-        atv:        0
-      - ath:        0
-        atv:        0 
+      - ath:        -118.74
+        atv:        14.02
+      - ath:        -118.91
+        atv:        -7.14
+      - ath:        -106.11
+        atv:        -7.17
+      - ath:        -106.10
+        atv:        13.34 
 
 context:
   - accession:      "1939-41-5"

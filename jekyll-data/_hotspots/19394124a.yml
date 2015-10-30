@@ -1,5 +1,5 @@
 ---
-id:                 "19394124"
+id:                 "19394124a"
 type:               "secondary"
 positions:
   - points:
@@ -26,14 +26,20 @@ positions:
       - ath:        26.95
         atv:        4.57
   - points: 
-      - ath:        0
-        atv:        0
-      - ath:        0
-        atv:        0
-      - ath:        0
-        atv:        0
-      - ath:        0
-        atv:        0 
+      - ath:        -35.88
+        atv:        6.14
+      - ath:        -37.65
+        atv:        -3.24
+      - ath:        -35.47
+        atv:        -2.54
+      - ath:        -34.42
+        atv:        -0.69
+      - ath:        -30.49
+        atv:        -0.35
+      - ath:        -29.38
+        atv:        5.13
+      - ath:        -31.18
+        atv:        6.69
 
 context:
   - accession:      "1939-41-24a, b"
