@@ -14,19 +14,19 @@ layout: null
 	
 	<preview url="/{{ panorama.id }}.tiles/preview.jpg" />
     <image type="CUBE" multires="true" tilesize="512">
-		<level tiledimagewidth="9264" tiledimageheight="9264">
+		<level tiledimagewidth="10654" tiledimageheight="10654">
 			<cube url="/{{ panorama.id }}.tiles/mres_%s/l5/%v/l5_%s_%v_%h.jpg" />
 		</level>
-		<level tiledimagewidth="4608" tiledimageheight="4608">
+		<level tiledimagewidth="5328" tiledimageheight="5328">
 			<cube url="/{{ panorama.id }}.tiles/mres_%s/l4/%v/l4_%s_%v_%h.jpg" />
 		</level>
-		<level tiledimagewidth="2304" tiledimageheight="2304">
+		<level tiledimagewidth="2664" tiledimageheight="2664">
 			<cube url="/{{ panorama.id }}.tiles/mres_%s/l3/%v/l3_%s_%v_%h.jpg" />
 		</level>
-		<level tiledimagewidth="1152" tiledimageheight="1152">
+		<level tiledimagewidth="1332" tiledimageheight="1332">
 			<cube url="/{{ panorama.id }}.tiles/mres_%s/l2/%v/l2_%s_%v_%h.jpg" />
 		</level>
-		<level tiledimagewidth="576" tiledimageheight="576">
+		<level tiledimagewidth="666" tiledimageheight="666">
 			<cube url="/{{ panorama.id }}.tiles/mres_%s/l1/%v/l1_%s_%v_%h.jpg" />
 		</level>
 		<mobile>
