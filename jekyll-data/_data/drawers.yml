@@ -4,8 +4,8 @@
       - ath:        303
         atv:        -17
     - points: 
-      - ath:        0
-        atv:        0
+      - ath:        26.95
+        atv:        -11.48
   objects:
     - id: 19394141
     - id: 19394142
@@ -21,8 +21,8 @@
       - ath:        333
         atv:        -12
     - points: 
-      - ath:        0
-        atv:        0
+      - ath:        55.73
+        atv:        -18.41
   objects:
     - id: 19394150
     - id: 19394151
