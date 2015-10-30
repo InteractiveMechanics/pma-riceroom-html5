@@ -1,5 +1,6 @@
 ---
 id:                 "19394128"
+distance:           "mid"
 type:               "primary"
 hotspot_image:      "images/hotspot-white-stroke@2x.png"
 positions:

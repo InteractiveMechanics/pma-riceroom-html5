@@ -160,10 +160,14 @@
                 html5:"only",
                 passQueryParameters:true
             });
-            function lookToHotspot(id){
+            function lookToHotspot(id, zoom){
+                var fov = 60;
                 var krpano = document.getElementById("krpanoSWFObject");
+                if (zoom == 'far'){ fov = 20 }
+                if (zoom == 'mid'){ fov = 40 }
+
                 if (krpano && krpano.get) {
-                    krpano.call("looktohotspot('" + id + "', 60);");
+                    krpano.call("looktohotspot('" + id + "', " + fov + ");");
                 }
             }
             function returnToZoom(){

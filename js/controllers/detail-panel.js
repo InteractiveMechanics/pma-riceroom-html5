@@ -19,13 +19,13 @@ DetailPanel = (function() {
 
         bindEvents();
     }
-    var updateDetailPanel = function(id) {
+    var updateDetailPanel = function(id, fov) {
         if (!Utilities.isPanoActive){
             var object = JSON.search(data, '//*[id="' + id + '"]');
             var rendered = detailPanelTPL(object[0]);
             detailPanel.html(rendered).addClass('active');
     
-            lookToHotspot('a' + id);
+            lookToHotspot('a' + id, fov);
             $('.media-container-thumbs a').first().addClass('active');
     
             resetDefaults();
