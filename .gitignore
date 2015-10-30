@@ -1,5 +1,7 @@
 __content
 __demo
+node_modules
+dist
 
 .sass-cache
 .DS_Store

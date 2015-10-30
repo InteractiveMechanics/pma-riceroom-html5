@@ -1,12 +1,11 @@
 # Site settings
 baseurl:            ""
 url:                "http://localhost"
-panorama:           "right"
 
 # Build settings
 markdown:           kramdown
 destination:        build
-exclude:            [.DS_Store, .gitignore]
+exclude:            [.DS_Store, .gitignore, node_modules]
 collections:
   hotspots:
     output:         false

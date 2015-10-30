@@ -515,4 +515,6 @@
         capture="false"
         ath="333"
         atv="-12" />
+
+    <events onclick="showlog(); screentosphere(mouse.x, mouse.y, toh, tov); trace(get(toh), ' ', get(tov));" />
 </krpano>
