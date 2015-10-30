@@ -19,7 +19,20 @@ context:
     credit:         ""
     medium:         ""
     url:            ""
-    description:    ""
+    description:    "For centuries woven tapestries served a practical purpose—acting as insulation—as they decorated walls and floors, and in the 1700s they remained at the forefront of fashionable interior design (image 2). 
+<br><br>
+The tapestries on view in this room—four from a set of five—feature scenes from the ancient myth of Psyche, a beautiful mortal who overcame many obstacles to become the lover and eventual wife of Cupid. The larger two weavings depict Psyche’s arrival at Cupid’s palace and her toilette among nymphs; the smaller two show Psyche’s abandonment by Cupid and her welcome by basketmakers as she searches for her husband. The fifth, not on view, represents Psyche showing her sisters the riches of Cupid’s palace (image 3). 
+<br><br>
+In 1737 French King Louis XV commissioned the series and six complete sets were woven, with the Museum’s tapestries being the first produced, originally made for the city of Marseille. It took almost three years to complete the five scenes, the weavers translating into silk and wool the elegant and sensuous designs of French artist François Boucher. It is a testament to the skill of the Beauvais factory weavers who, while employing only thread, were able to so skillfully depict flesh, marble, silk, smoke, and gold.
+<br><br>
+1741–42<br>
+Wool, silk
+<br><br>
+Designed by **François Boucher**, French, born 1703, died 1770
+<br><br>
+Woven by the **Beauvais tapestry manufactory**, Beauvais, France, 1664–present
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-30a–d"
 
 images:
   - weight:         0
@@ -27,5 +40,19 @@ images:
     files:
       - large:      "19394130ca.jpg"
         thumb:      "19394130ca_thumb.jpg"
+
+  - weight:         0
+    type:           "context"
+    caption:        "Evening Banquet, 1640, by Wolfgang Heimbach, oil on canvas. Collection Kunsthistorisches Museum, Vienna"
+    files:
+      - thumb:      "19394130db_thumb.jpg"
+        large:      "19394130db.jpg"
+
+  - weight:         0
+    type:           "context"
+    caption:        "Fifth tapestry from the set: The Riches (Psyche Displaying Her Treasures to Her Sisters), 1741–42, designed by François Boucher, woven by the Beauvais tapestry factory, wool and silk. Collection Philadelphia Museum of Art"
+    files:
+      - thumb:      "19394130dc_thumb.jpg"
+        large:      "19394130dc.jpg"
 
 ---

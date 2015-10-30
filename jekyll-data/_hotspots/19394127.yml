@@ -19,7 +19,24 @@ context:
     credit:         ""
     medium:         ""
     url:            ""
-    description:    ""
+    description:    "In 1664 Jean-Baptiste Colbert, King Louis XIV’s minister in charge of buildings, began a campaign to transform the Louvre (the royal residence at the time) into the grandest and largest palace in Europe (image 2). Central to this project was the renovation of a 1,450-foot-long space known as the Grande Galerie. This amazing interior overlooked the Seine and connected the Louvre and Tuileries palaces (image 3). 
+<br><br>
+For this hall Colbert commissioned the Savonnerie carpet factory to produce ninety-three carpets. The commission’s scale was unprecedented in the history of French woven arts, and the carpets that were ultimately produced rank among the greatest artistic achievements of the 1600s (image 4).
+<br><br>
+Production of the carpets, which were each some thirty feet in length and required the construction of new looms made from particularly long and stout tree trunks, began in 1668 and continued until 1688, by which time the king had lost interest in the project and moved the court to Versailles. In the following centuries the carpets were given away as diplomatic gifts or, on special occasions, brought out of storage for use at the royal residences and elsewhere. 
+<br><br>
+In 1788 the Museum’s carpet was sent *for one day* to the Paris church of Saint-Roch for the marriage of the Duke de Montmorency. And on June 18, 1919, when the treaty that ended World War I was signed at Versailles, twenty-four of the carpets adorned the Galerie des Glaces (Hall of Mirrors) (image 5).
+<br><br>
+Although each of the Savonnerie carpets is individual in design, they share certain distinct traits: a black background, a modified egg-and-leaf border, scrolling acanthus leaves in the corners, and cartouches at each end that contain either a landscape or allegorical scene. All display decorations replete with royal emblems. The design of the Museum’s carpet includes the crowned monogram of the king four times in the center and a crowned globe with the motto NEC PLURIBUS IMPAR (One Among Many) at each end.
+<br><br>
+1668–85<br>
+Wool, linen
+<br><br>
+After a model made by **Charles Le Brun**, French, born 1619, died 1690; or **Louis Le Vau**, French, born 1612, died 1670
+<br><br>
+Made by the **Savonnerie carpet manufactory**, Paris, 1627–1825
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-27"
 
 images:
   - weight:         0
@@ -30,24 +47,28 @@ images:
 
   - weight:         0
     type:           "context"
+    caption:        "Portrait of Louis XIV, 1701, by Hyacinthe Rigaud, oil on canvas. Collection Musée du Louvre, Paris"
     files:
       - thumb:      "19394127b_thumb.jpg"
         large:      "19394127b.jpg"
 
   - weight:         0
     type:           "context"
+    caption:        "Map of Paris (detail) as it appeared in the 1730s, from Michel-Étienne Turgot’s Plan de Paris: commencé de l’année (1739), engraving with etching"
     files:
       - thumb:      "19394127c_thumb.jpg"
         large:      "19394127c.jpg"
 
   - weight:         0
     type:           "context"
+    caption:        "Two men working at a carpet loom, from Denis Diderot’s Encyclopédie, ou, Dictionnaire raisonné des sciences, des arts et des métiers (Paris, 1751–80), engraving"
     files:
       - thumb:      "19394127d_thumb.jpg"
         large:      "19394127d.jpg"
 
   - weight:         0
     type:           "context"
+    caption:        "Postcard showing some of the Savonnerie carpets in use at the Galerie des Glaces (Hall of Mirrors) at Versailles in 1919. Private Collection"
     files:
       - thumb:      "19394127e_thumb.jpg"
         large:      "19394127e.jpg"
