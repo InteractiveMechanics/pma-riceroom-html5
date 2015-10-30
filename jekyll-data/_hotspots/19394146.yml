@@ -7,14 +7,21 @@ y:                  100
 
 context:
   - accession:      "1939-41-46B, C"
-    title:          "Pair of Vases"
+    title:          "Vases (two)"
     date:           ""
     creator:        ""
     location:       ""
     credit:         ""
     medium:         ""
     url:            ""
-    description:    ""
+    description:    "1760<br>
+Soft-paste porcelain with enamel and gilt decoration
+<br><br>
+Made by the **Sèvres porcelain factory**, Sèvres, France, 1756–present
+<br><br>
+Partially decorated by **Charles-Louis Méreaud the Younger**, French, born 1735, died 1780
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-46B,C"
 
 images:
   - weight:         0

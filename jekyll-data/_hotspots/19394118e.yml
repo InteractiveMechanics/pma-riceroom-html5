@@ -27,14 +27,24 @@ positions:
 
 context:
   - accession:      "1939-41-18e"
-    title:          "Chairs from a Suite of Furniture"
+    title:          "Chairs (from a set)"
     date:           ""
     creator:        ""
     location:       ""
     credit:         ""
     medium:         ""
     url:            ""
-    description:    ""
+    description:    "1923 frames; 1760–80 tapestries <br>
+Gilded wood frames; wool and silk upholstery
+<br><br>
+Frames made by the firm **Maison Carlhian**, Paris, 1867–1975 
+<br><br>
+Tapestry upholstery woven by the **Gobelins tapestry manufactory**, Paris, 1699–present; <br>
+in the **Workshop of Jacques Neilson**, French (born England), born 1714, died 1788
+<br><br>
+Seat tapestries after designs by Jean-Baptiste Oudry, French, born 1686, died 1755; back tapestries after designs by François Boucher, French, born 1703, died 1770; borders after designs by Maurice Jacques, French, born 1712, died 1784; or Louis Tessier, French, born 1719, died 1781
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-18a–e"
 
 images:
   - weight:         0

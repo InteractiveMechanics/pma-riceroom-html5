@@ -23,14 +23,19 @@ positions:
 
 context:
   - accession:      "1939-41-11"
-    title:          "Pair of Writing Desks"
+    title:          "Writing Desks (two)"
     date:           ""
     creator:        ""
     location:       ""
     credit:         ""
     medium:         ""
     url:            ""
-    description:    ""
+    description:    "c. 1770<br>
+Oak with rosewood, sycamore, holly, and ebony veneers; gilded bronze mounts
+<br><br>
+Made by **Martin Carlin**, German (active Paris), born c. 1730, died 1785
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-11a,b"
 
 images:
   - weight:         0

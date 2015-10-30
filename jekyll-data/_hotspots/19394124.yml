@@ -37,14 +37,19 @@ positions:
 
 context:
   - accession:      "1939-41-24a, b"
-    title:          "Armchairs"
+    title:          "Armchairs (two)"
     date:           ""
     creator:        ""
     location:       ""
     credit:         ""
     medium:         ""
     url:            ""
-    description:    ""
+    description:    "c. 1760<br>
+Stained wood frame; modern silk upholstery
+<br><br>
+Made in France
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-24a,b"
 
 images:
   - weight:         0
