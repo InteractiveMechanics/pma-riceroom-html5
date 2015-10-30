@@ -7,8 +7,8 @@ positions:
       - ath:        -0.19
         atv:        -12.66
   - points: 
-      - ath:        0
-        atv:        0
+      - ath:        -176.65
+        atv:        -32.28
 
 context:
   - accession:      "1939-41-30a"
