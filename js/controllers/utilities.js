@@ -26,8 +26,6 @@ Utilities = (function() {
     }
     var resetInteractive = function() {
         if (!isMediaActive) {
-            attractRotation(0.030);
-
             Attract.openAttract();
             Narrative.toggleNarrativeButton(false);
             Videos.closeVideos();
@@ -36,6 +34,8 @@ Utilities = (function() {
             DetailPanel.resetTextSize();
             Drawer.closeDrawer();
             Modal.closeModal();
+
+            attractRotation(0.030);
     
             this.isMuted = false;
             this.isMediaActive = false;
