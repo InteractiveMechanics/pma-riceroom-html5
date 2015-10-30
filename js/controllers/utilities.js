@@ -1,6 +1,6 @@
 Utilities = (function() {
-    var timeout;
-    var duration = 10000;
+    var timeout = [];
+    var duration = 90000;
     var isMuted;
     var isMediaActive;
     var isPanoActive;
@@ -13,11 +13,13 @@ Utilities = (function() {
     }
     var resetTimeout = function() {
         if (timeout) {
+            console.log(timeout);
             $.each(timeout, function(index, value){
                 clearTimeout(value);
+                timeout.splice(index, 1);
             });
         }
-        timeout = setTimeout(resetInteractive, duration);
+        timeout.push(setTimeout(resetInteractive, duration));
     }
     var bindEvents = function() {
         $(document).on('click', resetTimeout);
