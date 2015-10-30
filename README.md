@@ -5,8 +5,8 @@
 *  Clone the repository
 *  Run `npm install` from the root directory to install depedencies
 *  Add in any missing files (e.g. videos), if you'd like
-*  Run `grunt` from the root directory to start a local web server, and automatically watch for all files.
-*  Make edits as needed!
+*  Run `grunt` from the root directory to start a local web server and check for file changes.
+*  Go to localhost:8000 in your browser, and begin making edits as needed!
 
 ### Missing files
 Due to the large size of some of the files in this project, any file over 50MB should not be stored in the repo. This includes all video files or large images (like high-density TIFFs).
