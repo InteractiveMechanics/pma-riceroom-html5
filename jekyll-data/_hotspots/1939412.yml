@@ -23,14 +23,19 @@ positions:
 
 context:
   - accession:      "1939-41-2a, b"
-    title:          "Pair of Commodes"
+    title:          "Pair of Cabinets"
     date:           ""
     creator:        ""
     location:       ""
     credit:         ""
     medium:         ""
     url:            ""
-    description:    ""
+    description:    "c. 1770<br>
+Oak with holly, ebony, and sycamore veneers; gilded bronze mounts; marble tops
+<br><br>
+Made by **Martin Carlin**, German (active Paris), born c. 1730, died 1785
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-2a,b"
 
 images:
   - weight:         0

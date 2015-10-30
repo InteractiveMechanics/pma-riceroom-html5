@@ -7,14 +7,21 @@ y:                  -8
 
 context:
   - accession:      "1939-41-50A, B"
-    title:          "Vase"
+    title:          "Potpourri Vase"
     date:           ""
     creator:        ""
     location:       ""
     credit:         ""
     medium:         ""
     url:            ""
-    description:    ""
+    description:    "c. 1762<br>
+Soft-paste porcelain with enamel and gilt decoration
+<br><br>
+Model possibly made by **Jean-Claude Duplessis, Sr.**, French, born c. 1695, died 1774
+<br><br>
+Made by the **Sèvres porcelain factory**, Sèvres, France, 1756–present
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-50"
 
 images:
   - weight:         0

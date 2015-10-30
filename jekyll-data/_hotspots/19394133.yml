@@ -25,14 +25,21 @@ positions:
 
 context:
   - accession:      "1939-41-33"
-    title:          "Bust of Madame La Poupliniere"
+    title:          "Bust of Madame de La Pouplinière"
     date:           ""
     creator:        ""
     location:       ""
     credit:         ""
     medium:         ""
     url:            ""
-    description:    ""
+    description:    "Marie-Thérèse de Mondran (1737–?) was the second wife of Alexandre Le Riche de La Pouplinière (1693–1762), an immensely wealthy financier and one of the most influential patrons of the Enlightenment. 
+<br><br>
+1769<br>
+Marble
+<br><br>
+Made by **Jean-Baptiste Lemoyne the Younger**, French, born 1704, died 1778
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-33"
 
 images:
   - weight:         0

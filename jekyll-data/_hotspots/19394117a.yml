@@ -31,14 +31,23 @@ positions:
 
 context:
   - accession:      "1939-41-17a"
-    title:          "Sofa from a Suite of Furniture"
+    title:          "Sofa (from a set)"
     date:           ""
     creator:        ""
     location:       ""
     credit:         ""
     medium:         ""
     url:            ""
-    description:    ""
+    description:    "1923 frames; 1750–75 tapestries<br>
+Gilded wood frames; wool and silk upholstery
+<br><br>
+Frames made by the firm **Maison Carlhian**, Paris, 1867–1975 
+<br><br>
+Tapestry upholstery designed by **Louis Tessier**, French, born 1719, died 1781; and **Maurice Jacques**, French, born 1712, died 1784
+<br><br>
+Tapestry upholstery woven by the **Gobelins tapestry manufactory**, Paris, 1699–present
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-17a–g"
 
 images:
   - weight:         0

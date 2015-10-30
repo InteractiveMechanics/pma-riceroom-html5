@@ -7,14 +7,23 @@ y:                  252
 
 context:
   - accession:      "1939-41-42"
-    title:          "Candlesticks"
+    title:          "Candlesticks (four)"
     date:           ""
     creator:        ""
     location:       ""
     credit:         ""
     medium:         ""
     url:            ""
-    description:    ""
+    description:    "1762<br>
+Soft-paste porcelain with enamel and gilt decoration; gilded bronze mounts
+<br><br>
+Model probably made by **Jean-Claude Duplessis, Sr.**, French, born c. 1695, died 1774
+<br><br>
+Made by the **Sèvres porcelain factory**, Sèvres, France, 1756–present
+<br><br>
+Decorated by **Jean-Baptiste Tandart**, French, active 1754 to 1800
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-42a–d"
 
 images:
   - weight:         0

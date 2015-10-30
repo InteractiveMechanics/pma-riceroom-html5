@@ -112,11 +112,11 @@ DetailPanel = (function() {
                 if (img.right < (1921 - offset)){ vx += delta; }
             }
             if (img.height <= 450){
-                if (img.top < (1 - offset)){ vy += delta; }
-                if (img.bottom > (449 - offset)){ vy -= delta; }
+                if (img.top < 1){ vy += delta; }
+                if (img.bottom > 449){ vy -= delta; }
             } else {
-                if (img.top > (-1 - offset)){ vy -= delta; }
-                if (img.bottom < (451 - offset)){ vy += delta; }
+                if (img.top > -1){ vy -= delta; }
+                if (img.bottom < 451){ vy += delta; }
             }
         } else {
             vx = 0;
