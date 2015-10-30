@@ -8,6 +8,7 @@
     "grunt-contrib-sass": "latest",
     "grunt-contrib-cssmin": "latest",
     "grunt-contrib-watch": "latest",
+    "grunt-contrib-connect": "latest",
     "grunt-jekyll": "latest"
   }
 }

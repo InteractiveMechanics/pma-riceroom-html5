@@ -95,6 +95,7 @@ Narrative = (function() {
     return {
         init: init,
         toggleNarrativePlaying: toggleNarrativePlaying,
+        toggleNarrativeButton: toggleNarrativeButton,
         stopNarrative: stopNarrative
     }
 })();

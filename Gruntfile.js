@@ -3,6 +3,13 @@ module.exports = function(grunt) {
     grunt.initConfig({
         pkg: grunt.file.readJSON('package.json'),
         
+        connect: {
+            server: {
+                options: {
+                    port: 8000
+                }
+            }
+        },
         sass: {
             dev: {
                 files: {
@@ -33,8 +40,9 @@ module.exports = function(grunt) {
     
     grunt.loadNpmTasks('grunt-contrib-sass');
     grunt.loadNpmTasks('grunt-contrib-cssmin');
+    grunt.loadNpmTasks('grunt-contrib-connect');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-jekyll');
     
-    grunt.registerTask('default', ['watch']);
+    grunt.registerTask('default', ['connect:server', 'watch']);
 };
