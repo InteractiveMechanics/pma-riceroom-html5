@@ -16,20 +16,20 @@ positions:
       - ath:        -28.03
         atv:        19.05
   - points: 
-      - ath:        6.60
-        atv:        -0.55
-      - ath:        6.96
-        atv:        -4.56
-      - ath:        9.42
-        atv:        -5.49
-      - ath:        12.01
-        atv:        -4.09
-      - ath:        11.77
-        atv:        -0.53
+      - ath:        
+        atv:        
+      - ath:        
+        atv:        
+      - ath:        
+        atv:        
+      - ath:        
+        atv:        
+      - ath:        
+        atv:        
 
 context:
   - accession:      "1939-41-18e"
-    title:          "Chairs (from a set)"
+    title:          "Sofa and Armchairs (from a set)"
     date:           ""
     creator:        ""
     location:       ""

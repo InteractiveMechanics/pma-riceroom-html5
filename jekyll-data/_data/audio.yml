@@ -22,7 +22,7 @@
 
 - time:     21000
   text:     "and even a writing table once owned by Marie Antoinette."
-  action:   "lookToHotspot('a1939419')"
+  action:   "lookToHotspot('a1939418')"
 
 - time:     25000
   text:     "Touch any object on the screen"

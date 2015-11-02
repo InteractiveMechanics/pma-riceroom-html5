@@ -7,12 +7,12 @@ positions:
       - ath:        137.05
         atv:        5.64
   - points: 
-      - ath:        12.88
-        atv:        -3.94
+      - ath:        
+        atv:        
 
 context:
   - accession:      ""
-    title:          ""
+    title:          "Writing Table"
     date:           ""
     creator:        ""
     location:       ""

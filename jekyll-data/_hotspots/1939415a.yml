@@ -45,25 +45,14 @@ images:
   - weight:         0
     type:           "zoom"
     files:
-      - large:      "1939415a.jpg"
-        thumb:      "1939415a_thumb.jpg"
+      - large:      "1939415aa.jpg"
+        thumb:      "1939415aa_thumb.jpg"
 
   - weight:         1
     type:           "zoom"
     files:
-      - large:      "1939415b.jpg"
-        thumb:      "1939415b_thumb.jpg"
+      - large:      "1939415ab.jpg"
+        thumb:      "1939415ab_thumb.jpg"
 
-  - weight:         2
-    type:           "zoom"
-    files:
-      - large:      "1939415c.jpg"
-        thumb:      "1939415c_thumb.jpg"
-
-  - weight:         3
-    type:           "zoom"
-    files:
-      - large:      "1939415d.jpg"
-        thumb:      "1939415d_thumb.jpg"
 
 ---

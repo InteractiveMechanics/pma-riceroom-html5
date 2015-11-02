@@ -16,27 +16,35 @@ positions:
       - ath:        -7.31
         atv:        -0.78
   - points: 
-      - ath:        -153.06
-        atv:        21.14
-      - ath:        -154.30
-        atv:        -3.89
-      - ath:        -134.12
-        atv:        -2.46
-      - ath:        -128.24
-        atv:        22.76
-      - ath:        -145.05
-        atv:        29.19
+      - ath:        -150.50
+        atv:        28.95
+      - ath:        -156.47
+        atv:        -3.28
+      - ath:        -140.35
+        atv:        -4.82
+      - ath:        -126.25
+        atv:        22.23
+
 
 context:
   - accession:      "1939-41-17b, c, d, e, f, g"
-    title:          "Chairs from a Suite of Furniture"
+    title:          "Sofa and Armchairs (from a set)"
     date:           ""
     creator:        ""
     location:       ""
     credit:         ""
     medium:         ""
     url:            ""
-    description:    ""
+    description:    "1923 frames; 1750–75 tapestries<br>
+Gilded wood frames; wool and silk upholstery
+<br><br>
+Frames made by the firm **Maison Carlhian**, Paris, 1867–1975 
+<br><br>
+Tapestry upholstery designed by **Louis Tessier**, French, born 1719, died 1781; and **Maurice Jacques**, French, born 1712, died 1784
+<br><br>
+Tapestry upholstery woven by the **Gobelins tapestry manufactory**, Paris, 1699–present
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-17a–g"
 
 images:
   - weight:         0

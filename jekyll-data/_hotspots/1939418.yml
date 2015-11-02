@@ -12,14 +12,14 @@ positions:
       - ath:        -136.71
         atv:        14.36
   - points: 
-      - ath:        0
-        atv:        0
-      - ath:        0
-        atv:        0
-      - ath:        0
-        atv:        0
-      - ath:        0
-        atv:        0 
+      - ath:        12.15
+        atv:        -4.39
+      - ath:        13.98
+        atv:        -4.49
+      - ath:        13.95
+        atv:        -3.28
+      - ath:        12.10
+        atv:        -3.21
 
 context:
   - accession:      "1939-41-8"
