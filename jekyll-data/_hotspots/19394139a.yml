@@ -1,0 +1,97 @@
+---
+id:                 "19394139a"
+type:               "secondary"
+positions:
+  - points:
+      - ath:        178.76
+        atv:        -6.49
+      - ath:        -163.58
+        atv:        -6.67
+      - ath:        -164.1
+        atv:        3.21
+      - ath:        179.11
+        atv:        3.16
+  - points: 
+      - ath:        -0.67
+        atv:        -5.65
+      - ath:        -0.67
+        atv:        -6.91
+      - ath:        0.42
+        atv:        -6.89
+      - ath:        0.40
+        atv:        -5.64
+
+context:
+  - accession:      ""
+    title:          "Pair of Potpourri Vases"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    "These exquisitely painted and lavishly gilded potpourri vases exemplify the production of the Sèvres porcelain factory, the preeminent European manufacturer of porcelain in the second half of the 1700s (image 2). 
+<br><br>
+The scenes on the front are based on two paintings: *Gathering for the Hunt* and *Departing for the Hunt* by Carel van Falens, a Flemish-born artist who worked in Paris. The use of Van Falens’s pictures reflects not only the popularity of hunting among France’s aristocracy, many of whom were customers of Sèvres, but also the fashion among French collectors for Dutch and Flemish artwork, particularly that of the 1600s (image 3).
+<br><br>
+The floral bouquets that decorate the reverse of each vase match the vignettes on the front in detail and intricacy, as they were intended to be visible through reflection. Potpourri vases often stood on chests or tables placed under mirrors (image 4). 
+<br><br>
+In the 1700s potpourris, essential items in households of the affluent and aristocratic, were made in a profusion of playful and innovative shapes by many of Europe’s porcelain factories (image 5). At Sèvres, the form was called *pot pourri feuilles de mirte*, a reference to the leaves of the myrtle plant, a common ingredient in potpourri at the time. On these vessels the plant twines around the shoulders and down the sides. 
+<br><br>
+c. 1761<br>
+Soft-paste porcelain with enamel and gilt decoration
+<br><br>
+Model probably made by **Jean-Claude Duplessis, Sr.**, French, born c. 1695, died 1774
+<br><br>
+Made by the **Sèvres porcelain factory**, Sèvres, France, 1756–present 
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-39A,B"
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394139a.jpg"
+        thumb:      "19394139a_thumb.jpg"
+
+  - weight:         0
+    type:           "context"
+    caption:        "View of the Sèvres Porcelain Factory, by Constant Troyon. Collection Sèvres, archives de la manufacture"
+    files:
+      - thumb:      "19394139g_thumb.jpg"
+        large:      "19394139g.jpg"
+
+  - weight:         0
+    type:           "context"
+    caption:        "Gathering for the Hunt, 1726, by Carel van Falens, oil on canvas. Collection Musée de Louvre, Paris"
+    files:
+      - thumb:      "19394139e_thumb.jpg"
+        large:      "19394139e.jpg"
+
+  - weight:         0
+    type:           "context"
+    caption:        "A Lady Fastening Her Garter (detail), 1742, by François Boucher, oil on canvas. Collection Museo Thyssen-Bornemisza, Madrid"
+    files:
+      - thumb:      "19394139f_thumb.jpg"
+        large:      "19394139f.jpg"
+
+  - weight:         0
+    type:           "context"
+    caption:        "Potpourri Vase with Figure Group, c. 1750–60, Mennecy porcelain factory, soft-paste porcelain. Collection Philadelphia Museum of Art"
+    files:
+      - thumb:      "19394139d_thumb.jpg"
+        large:      "19394139d.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394139b.jpg"
+        thumb:      "19394139b_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394139c.jpg"
+        thumb:      "19394139c_thumb.jpg"
+
+---

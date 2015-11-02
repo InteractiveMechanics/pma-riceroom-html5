@@ -1,0 +1,65 @@
+---
+id:                 "19394111a"
+type:               "secondary"
+positions:
+  - points:
+      - ath:        -46.65
+        atv:        -0.30
+      - ath:        -43.62
+        atv:        -0.47
+      - ath:        -41.67
+        atv:        2.43
+      - ath:        -44.53
+        atv:        2.11
+  - points: 
+      - ath:        26.57
+        atv:        2.34
+      - ath:        26.35
+        atv:        -3.66
+      - ath:        29.77
+        atv:        -3.75
+      - ath:        29.61
+        atv:        2.95
+
+context:
+  - accession:      "1939-41-11"
+    title:          "Writing Desks (two)"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    "c. 1770<br>
+Oak with rosewood, sycamore, holly, and ebony veneers; gilded bronze mounts
+<br><br>
+Made by **Martin Carlin**, German (active Paris), born c. 1730, died 1785
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-11a,b"
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394111a.jpg"
+        thumb:      "19394111a_thumb.jpg"
+
+  - weight:         1
+    type:           "zoom"
+    files:
+      - large:      "19394111b.jpg"
+        thumb:      "19394111b_thumb.jpg"
+
+  - weight:         2
+    type:           "zoom"
+    files:
+      - large:      "19394111c.jpg"
+        thumb:      "19394111c_thumb.jpg"
+
+  - weight:         3
+    type:           "zoom"
+    files:
+      - large:      "19394111d.jpg"
+        thumb:      "19394111d_thumb.jpg"
+
+---

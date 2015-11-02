@@ -1,0 +1,67 @@
+---
+id:                 "19394136a"
+type:               "secondary"
+positions:
+  - points:
+      - ath:        -41.17
+        atv:        -8.91
+      - ath:        -39.1
+        atv:        -9.42
+      - ath:        -39.01
+        atv:        -3.18
+      - ath:        -41.29
+        atv:        -3.21
+  - points: 
+      - ath:        37.70
+        atv:        -5.34
+      - ath:        37.82
+        atv:        -11.20
+      - ath:        40.15
+        atv:        -11.03
+      - ath:        39.91
+        atv:        -5.30
+
+context:
+  - accession:      "1939-41-36A, B"
+    title:          "Pair of Vases"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    "c. 1768–69<br>
+Soft-paste porcelain with enamel and gilt decoration
+<br><br>
+Made by the **Sèvres porcelain factory**, Sèvres, France, 1756– present
+<br><br>
+Portrait medallions decorated by **Jean-Baptiste-Étienne Genest**, French, active from 1752, died 1789
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-36A,B"
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394136a.jpg"
+        thumb:      "19394136a_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394136b.jpg"
+        thumb:      "19394136b_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394136c.jpg"
+        thumb:      "19394136c_thumb.jpg"
+
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394136d.jpg"
+        thumb:      "19394136d_thumb.jpg"
+
+---

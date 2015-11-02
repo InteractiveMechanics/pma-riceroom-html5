@@ -1,0 +1,53 @@
+---
+id:                 "19394138b"
+type:               "secondary"
+positions:
+  - points:
+      - ath:        -1.08
+        atv:        -5.15
+      - ath:        1.9
+        atv:        -5.15
+      - ath:        1.92
+        atv:        -3.2
+      - ath:        -1.08
+        atv:        -3.22
+  - points: 
+      - ath:        -177.58
+        atv:        3.23
+      - ath:        -176.93
+        atv:        -9.71
+      - ath:        -171.83
+        atv:        -9.51
+      - ath:        -171.73
+        atv:        3.57
+
+context:
+  - accession:      "1939-41-38A, B"
+    title:          "Pair of Vases"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    "The scenes on these vases are after two paintings, *Diana and Callisto* (left) and *Apollo and the Sibyl of Cumae* (right) by Jean-Jacques Lagrenée (French, 1739–1821), who was appointed artistic codirector of the Sèvres factory in March 1785.
+<br><br>
+c. 1790<br>
+Soft-paste porcelain with enamel and gilt decoration
+<br><br>
+Model probably made by **Étienne-Maurice Falconet**, French, born 1716, died 1791
+<br><br>
+Made by the **Sèvres porcelain factory**, Sèvres, France, 1756–present
+<br><br>
+Possibly decorated by **Charles-Nicolas Dodin**, French, born 1734, died 1803
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-38A,B"
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394138a.jpg"
+        thumb:      "19394138a_thumb.jpg"
+
+---

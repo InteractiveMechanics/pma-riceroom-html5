@@ -1,39 +1,49 @@
 ---
-id:                 "19394117f"
+id:                 "19394117c"
 type:               "secondary"
 positions:
   - points:
-      - ath:        5.45
-        atv:        -2.23
-      - ath:        5.38
-        atv:        -4.15
-      - ath:        9.30
-        atv:        -4.13
-      - ath:        8.83
-        atv:        -1.54
-
+      - ath:        9.41
+        atv:        -3.3
+      - ath:        15.05
+        atv:        -2.99
+      - ath:        14.88
+        atv:        4.73
+      - ath:        7.88
+        atv:        2.08
   - points: 
-      - ath:        15.32
-        atv:        0.14
-      - ath:        15.95
-        atv:        -3.08
-      - ath:        19.43
-        atv:        -4.78
-      - ath:        22.25
-        atv:        -2.81
-      - ath:        21.30
-        atv:        2.06
+      - ath:        -20.54
+        atv:        1.48
+      - ath:        -21.30
+        atv:        -3.35
+      - ath:        -18.63
+        atv:        -4.58
+      - ath:        -14.89
+        atv:        -2.88
+      - ath:        -14.46
+        atv:        -0.05
+      - ath:        -17.85
+        atv:        0.17
 
 context:
   - accession:      "1939-41-17b, c, d, e, f, g"
-    title:          "Chairs from a Suite of Furniture"
+    title:          "Chairs (from a set)"
     date:           ""
     creator:        ""
     location:       ""
     credit:         ""
     medium:         ""
     url:            ""
-    description:    ""
+    description:    "1923 frames; 1750–75 tapestries<br>
+Gilded wood frames; wool and silk upholstery
+<br><br>
+Frames made by the firm **Maison Carlhian**, Paris, 1867–1975 
+<br><br>
+Tapestry upholstery designed by **Louis Tessier**, French, born 1719, died 1781; and **Maurice Jacques**, French, born 1712, died 1784
+<br><br>
+Tapestry upholstery woven by the **Gobelins tapestry manufactory**, Paris, 1699–present
+<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-17a–g"
 
 images:
   - weight:         0
