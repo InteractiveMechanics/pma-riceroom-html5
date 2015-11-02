@@ -34,7 +34,7 @@ layout: null
 		</mobile>
 	</image>
 
-    {% for hotspot in site.hotspots %}{% if hotspot.type == 'primary' %}
+    {% for hotspot in site.hotspots %}{% if hotspot.type == 'primary' && hotspot.positions[0].points[0].ath != 0 && hotspot.positions[0].points[0].atv != 0 %}
     <hotspot 
         name="a{{ hotspot.id }}"
         type="image"
