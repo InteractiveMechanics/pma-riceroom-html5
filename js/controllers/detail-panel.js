@@ -21,11 +21,15 @@ DetailPanel = (function() {
 
         bindEvents();
     }
-    var updateDetailPanel = function(id, fov) {
+    var updateDetailPanel = function(id, fov, isCabinet) {
         if (!Utilities.isPanoActive){
             var object = JSON.search(data, '//*[id="' + id + '"]');
             var rendered = detailPanelTPL(object[0]);
             detailPanel.html(rendered).addClass('active');
+
+            if (Drawer.opened && !isCabinet) {
+                Drawer.closeDrawer();
+            }
     
             lookToHotspot('a' + id, fov);
             $('.media-container-thumbs a').first().addClass('active');

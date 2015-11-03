@@ -26,10 +26,7 @@ Drawer = (function() {
             DetailPanel.closeDetailPanel();
             Videos.closeVideos();
             lookToHotspot(id);
-    
-            setTimeout(function(){
-                $('#pano').on('click', closeDrawer);
-            }, 100);
+            opened = true;
         }
     }
     var closeDrawer = function() {
@@ -41,14 +38,12 @@ Drawer = (function() {
         }
 
         opened = false;
-        $('#pano').off('click', closeDrawer);
     }
     var openDetailPanel = function() {
         var id = $(this).attr('data-id');
         drawer.find('.object').removeClass('open');
         $(this).addClass('open');
-        DetailPanel.updateDetailPanel(id);
-        opened = true;
+        DetailPanel.updateDetailPanel(id, null, true);
     }
     var bindEvents = function() {
         drawer.on('click', '.close', closeDrawer);
@@ -58,6 +53,7 @@ Drawer = (function() {
     return {
         init: init,
         openDrawer: openDrawer,
-        closeDrawer: closeDrawer
+        closeDrawer: closeDrawer,
+        opened: opened
     }
 })();

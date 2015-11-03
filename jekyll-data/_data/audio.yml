@@ -14,15 +14,15 @@
 
 - time:     14000
   text:     "In it, you will find a carpet woven for Louis XIV,"
-  action:   "lookToHotspot('a19394127')"
+  action:   "lookToHotspot('a19394127', '', 360)"
 
 - time:     18000
   text:     "the wall lights of Louis XVI's aunts,"
-  action:   "lookToHotspot('a19394128')"
+  action:   "lookToHotspot('a19394128', '', 360)"
 
 - time:     21000
   text:     "and even a writing table once owned by Marie Antoinette."
-  action:   "lookToHotspot('a1939418')"
+  action:   "lookToHotspot('a1939418', '', 360)"
 
 - time:     25000
   text:     "Touch any object on the screen"

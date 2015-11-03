@@ -160,14 +160,13 @@
                 html5:"only",
                 passQueryParameters:true
             });
-            function lookToHotspot(id, zoom){
-                var fov = 60;
+            function lookToHotspot(id, zoom, maxspeed){
                 var krpano = document.getElementById("krpanoSWFObject");
-                if (zoom == 'far'){ fov = 20 }
-                if (zoom == 'mid'){ fov = 40 }
+                if (!maxspeed){ maxspeed = 720 }
 
                 if (krpano && krpano.get) {
-                    krpano.call("looktohotspot('" + id + "', " + fov + ");");
+                    var fov = krpano.get("view.fov");
+                    krpano.call("looktohotspot('" + id + "', " + (fov - 5) + ", smooth(720, -720, " + maxspeed + "));");
                 }
             }
             function returnToZoom(){

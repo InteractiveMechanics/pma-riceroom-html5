@@ -21,7 +21,7 @@ Utilities = (function() {
         timeout.push(setTimeout(resetInteractive, duration));
     }
     var bindEvents = function() {
-        $(document).on('click', resetTimeout);
+        $(document).on('click tap drag', resetTimeout);
     }
     var resetInteractive = function() {
         if (!isMediaActive) {
@@ -51,8 +51,8 @@ Utilities = (function() {
         }
     }
     var toggleActiveMedia = function(bool) {
-        if (this.isMediaActive != bool) {
-            this.isMediaActive = !this.isMediaActive;
+        if (isMediaActive != bool) {
+            isMediaActive = !isMediaActive;
         }
     }
     var toggleMuted = function(bool) {

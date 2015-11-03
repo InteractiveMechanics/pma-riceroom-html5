@@ -72,4 +72,6 @@ layout: null
         capture="false"
         ath="{{ drawer.positions[0].points[0].ath }}"
         atv="{{ drawer.positions[0].points[0].atv }}" />{% endfor%}
+
+    <events onviewchanged="js( Utilities.resetTimeout() );" />
 </krpano>
