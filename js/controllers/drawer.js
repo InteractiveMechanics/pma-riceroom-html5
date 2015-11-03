@@ -2,10 +2,12 @@ Drawer = (function() {
     var drawer;
     var drawerHTML;
     var drawerTPL;
-    var opened;
+    var openDrawer;
+    var openPanel;
 
     var init = function() {
-        opened = false;
+        openDrawer = false;
+        openPanel = false;
         drawer = $('#drawer-panel');
         drawerHTML = $('#drawer-panel-template').html();
         drawerTPL = Handlebars.compile(drawerHTML);
@@ -26,24 +28,26 @@ Drawer = (function() {
             DetailPanel.closeDetailPanel();
             Videos.closeVideos();
             lookToHotspot(id);
-            opened = true;
+            openDrawer = true;
         }
     }
     var closeDrawer = function() {
         drawer.removeClass('active');
         drawer.find('.object').removeClass('open');
-        if (opened) {
+        openDrawer = false;
+
+        if (openPanel) {
             DetailPanel.closeDetailPanel();
             returnToZoom();
+            openPanel = false;
         }
-
-        opened = false;
     }
     var openDetailPanel = function() {
         var id = $(this).attr('data-id');
         drawer.find('.object').removeClass('open');
+        openPanel = true;
         $(this).addClass('open');
-        DetailPanel.updateDetailPanel(id, null, true);
+        DetailPanel.updateDetailPanel(id);
     }
     var bindEvents = function() {
         drawer.on('click', '.close', closeDrawer);
@@ -53,7 +57,6 @@ Drawer = (function() {
     return {
         init: init,
         openDrawer: openDrawer,
-        closeDrawer: closeDrawer,
-        opened: opened
+        closeDrawer: closeDrawer
     }
 })();

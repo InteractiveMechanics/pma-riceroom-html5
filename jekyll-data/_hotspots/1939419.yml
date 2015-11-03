@@ -7,8 +7,8 @@ positions:
       - ath:        137.05
         atv:        5.64
   - points: 
-      - ath:        
-        atv:        
+      - ath:        0
+        atv:        0
 
 context:
   - accession:      ""
@@ -19,24 +19,20 @@ context:
     credit:         ""
     medium:         ""
     url:            ""
-    description:    "This vase, along with much of the porcelain in this room, was made at the famous Sèvres (formerly Vincennes) porcelain factory. The manufactory, purchased by French King Louis XV in 1759, produced some of the finest porcelain in Europe during the second half of the 1700s. 
-<br><br>
-The distinctive style developed by Sèvres in the 1750s included brightly colored background colors, exquisite painted scenes, and lavish embellishments in gold. Because of a privilege granted by the king in 1745, the Sèvres factory was the only one in France permitted to decorate its porcelain with figures.
-<br><br>
-This vase’s turquoise blue *(bleu celeste)* ground color, only the second introduced at the factory, proved to be its most successful. First created for a dinner and dessert service made for Louis XV in the early 1750s (image 2), *bleu celeste* appeared on a variety of pieces produced during the latter half of the century. 
-<br><br>
-Charles-Nicolas Dodin, considered one of the most skillful painters at Sèvres, decorated this vase with a scene drawn by François Boucher, a French painter, engraver, and designer (image 3). It depicts an elderly man reading the fortune of a young shepherdess, a book at his feet displaying the astrological symbol of a crescent moon and accompanied by three younger figures who frolic and flirt. Boucher’s work embodied the spirit of the times and had an unparalleled impact on the decorative arts of the 1700s.
-<br><br>
-1764<br>
-Soft-paste porcelain with enamel and gilt decoration
-<br><br>
-Model probably made by **Jean-Claude Duplessis, Sr.**, French, born c. 1695, died 1774
-<br><br>
-Made by the **Sèvres porcelain factory**, Sèvres, France, 1756–present
-<br><br>
-Decorated by **Charles-Nicolas Dodin**, French, born 1734, died 1803
-<br><br>
-Bequest of Eleanore Elkins Rice, 1939-41-61"
+    description:    "Jean-Henri Riesener delivered this exquisite writing table to the Versailles apartment of Princess Élisabeth, the youngest sister of King Louis XVI, on December 31, 1785 (image 2).
+​<br><br>
+Riesener made numerous versions of the table, including another in the Museum’s collection—on view at the other end of this wall—that he created for Queen Marie Antoinette. Perhaps as a reflection of the cabinetmaker’s fondness for the model, a similar table appears in a portrait of him painted by Antoine Vestier in 1786 (image 3).
+​​<br><br>
+Small, portable tables proliferated in the 1700s, easily moved from one room to another, from the light of a window to the warmth of a fire. They were generally intended for women and were suited to a variety of purposes (image 4).
+​​<br><br>
+One such purpose was letter writing, a fashionable pastime among French upper-class women during the 1700s. Letters, either in the possession of young women or discreetly exchanged between presumed lovers, often appear in paintings of the time as suggestions of sexual intrigue (image 5).
+​​<br><br>
+1783​<br>
+Oak with mahogany, satinwood, purplewood, and other wood veneers; gilded bronze mounts
+​​<br><br>
+Made by **Jean-Henri Riesener**, German (active Paris), born 1734, died 1806
+​​<br><br>
+Bequest of Eleanore Elkins Rice, 1939-41-9"
 
 images:
   - weight:         0
@@ -54,7 +50,7 @@ images:
 
   - weight:         1
     type:           "context"
-    caption:        "Portrait of Jean-Henri Riesener (1734–1806), 1786, by Antoine Vestier, oil on canvas. Collection Château de Versailles"
+    caption:        "**Portrait of Jean-Henri Riesener** (1734–1806), 1786, by Antoine Vestier, oil on canvas. Collection Château de Versailles"
     files:
       - large:      "1939419d.jpg"
         thumb:      "1939419d_thumb.jpg"

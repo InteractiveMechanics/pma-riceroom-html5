@@ -19,7 +19,7 @@ Videos = (function() {
     var openVideos = function() {
         videos.addClass('in');
 
-        DetailPanel.closeDetailPanel();
+        //DetailPanel.closeDetailPanel();
         Drawer.closeDrawer();
     }
     var closeVideos = function() {

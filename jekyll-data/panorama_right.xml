@@ -6,7 +6,7 @@ layout: null
 	<view 
         hlookat="{{ panorama.view[0].hlookat }}" 
         vlookat="{{ panorama.view[0].vlookat }}" 
-        maxpixelzoom="{{ panorama.view[0].maxpixelzoom }}" 
+        fovmin="{{ panorama.view[0].fovmin }}" 
         fovmax="{{ panorama.view[0].fovmax }}" 
         limitview="{{ panorama.view[0].limitview }}" 
         vlookatmin="{{ panorama.view[0].vlookatmin }}" 
@@ -34,20 +34,21 @@ layout: null
 		</mobile>
 	</image>
 
-    {% for hotspot in site.hotspots %}{% if hotspot.type == 'primary' && hotspot.positions[0].points[0].ath != 0 && hotspot.positions[0].points[0].atv != 0 %}
+    {% for hotspot in site.hotspots %}{% if hotspot.type == 'primary' %}{% if hotspot.positions[0].points[0].ath != 0 %}
     <hotspot 
         name="a{{ hotspot.id }}"
         type="image"
         url="/{{ hotspot.hotspot_image }}"
-        {% if hotspot.zoomable %}visible="false"{% else %}visible="true"{% endif %}
+        visible="true"
         enabled="true"
         ath="{{ hotspot.positions[0].points[0].ath }}"
         atv="{{ hotspot.positions[0].points[0].atv }}"
-        scale="0.35"
+        scale="0.16"
+        alpha="1"
         edge="center"
         zoom="true"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel({{ hotspot.id }}{% if hotspot.distance %}, {{ hotspot.distance }}{% endif %}) );" />{% endif %}{% endfor %}
+        onclick="js( DetailPanel.updateDetailPanel({{ hotspot.id }}{% if hotspot.distance %}, {{ hotspot.distance }}{% endif %}) );" />{% endif %}{% endif %}{% endfor %}
     {% for hotspot in site.hotspots %}{% if hotspot.type == 'secondary' %}
     <hotspot 
         name="a{{ hotspot.id }}"
@@ -66,7 +67,7 @@ layout: null
         enabled="true"
         alpha="1"
         onclick="js( Drawer.openDrawer('{{ drawer.id }}') );"
-        scale="0.35"
+        scale="0.16"
         edge="center"
         zoom="true"
         capture="false"

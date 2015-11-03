@@ -3,6 +3,7 @@
     - hlookat: 0
       vlookat: 0
       maxpixelzoom: 1.25
+      fovmin: 15
       fovmax: 90
       limitview: range
       vlookatmin: -50
@@ -13,6 +14,7 @@
     - hlookat: 0
       vlookat: 0
       maxpixelzoom: 1.25
+      fovmin: 15
       fovmax: 90
       limitview: range
       vlookatmin: -50

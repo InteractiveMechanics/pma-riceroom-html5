@@ -1,16 +1,10 @@
 ---
-id:                 "19394110"
+id:                 "19394110s"
 type:               "secondary"
 positions:
   - points:
-      - ath:        -10.27
-        atv:        2.76
-      - ath:        10.97
-        atv:        2.54
-      - ath:        10.61
-        atv:        17.41
-      - ath:        -10.1
-        atv:        17.63
+      - ath:        0
+        atv:        0
   - points: 
       - ath:        -2.57
         atv:        -2.83

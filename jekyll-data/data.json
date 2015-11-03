@@ -25,6 +25,7 @@ layout: null
         {% for hotspot in site.hotspots %}{
             "id": "{{ hotspot.id }}",
             "hotspot_image": "files/{{ hotspot.hotspot_image }}",
+            "type": "{{ hotspot.type }}",
             {% if hotspot.x %}"x": {{ hotspot.x }},{% endif %}
             {% if hotspot.y %}"y": {{ hotspot.y }},{% endif %}
             "content": {
@@ -40,7 +41,7 @@ layout: null
             },
             "images": [
                 {% for image in hotspot.images %}{
-                    {% if image.caption %}"caption": "{{ image.caption }}",{% endif %}
+                    {% if image.caption %}"caption": "{{ image.caption | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}",{% endif %}
                     "weight": {{ image.weight }},
                     "type": "{{ image.type }}",
                     "files": {

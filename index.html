@@ -62,7 +62,7 @@
                     <img src="{{images.0.files.large}}" />
                     <div class="mask"></div>
                 </div>
-                <span class="caption">{{images.0.caption}}</span>
+                <span class="caption">{{{images.0.caption}}}</span>
                 <div class="instructions"></div>
             </div>
             {{#if images.[1]}}
@@ -90,10 +90,11 @@
             {{/if}}
         </div>
         <div class="container">
-            <h1>{{content.title}}</h1>
+            <h1>{{{content.title}}}</h1>
             {{#if content.description}}
             <p>{{{content.description}}}</p>
             {{/if}}
+            <footer>This interactive has been made possible by Mrs. F. Eugene Dixon, Jr.</footer>
         </div>
     </script>
 
@@ -162,11 +163,16 @@
             });
             function lookToHotspot(id, zoom, maxspeed){
                 var krpano = document.getElementById("krpanoSWFObject");
-                if (!maxspeed){ maxspeed = 720 }
+                if (!maxspeed){ maxspeed = 180 }
 
                 if (krpano && krpano.get) {
-                    var fov = krpano.get("view.fov");
-                    krpano.call("looktohotspot('" + id + "', " + (fov - 5) + ", smooth(720, -720, " + maxspeed + "));");
+                    if (!zoom){
+                        fov = krpano.get("view.fov");
+                        fov -= 5;
+                    } else {
+                        fov = zoom;
+                    }
+                    krpano.call("looktohotspot('" + id + "', " + fov + ", smooth(60, -60, " + maxspeed + "));");
                 }
             }
             function returnToZoom(){
@@ -178,7 +184,7 @@
             function resetToStart(){
                 var krpano = document.getElementById("krpanoSWFObject");
                 if (krpano && krpano.get) {
-                    krpano.call("lookto(0,0,90);");
+                    krpano.call("lookto(0,0,90,smooth(720, -720, 60));");
                 }
             }
             function stopAll(){
@@ -198,6 +204,16 @@
                 if (krpano && krpano.get) {
                     krpano.call("set(control.usercontrol, 'all');");
                 }
+            }
+            function setAlpha(val) {
+                var krpano = document.getElementById("krpanoSWFObject");
+                var object = JSON.search(data, '//*[type="primary"]');
+
+                $.each(object, function(){
+                    if (krpano && krpano.get) {
+                        krpano.call("set(hotspot.alpha, " + val + ");");
+                    }
+                });
             }
             function attractRotation(force) {
                 var krpano = document.getElementById("krpanoSWFObject");

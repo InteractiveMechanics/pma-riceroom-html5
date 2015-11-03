@@ -21,18 +21,18 @@ DetailPanel = (function() {
 
         bindEvents();
     }
-    var updateDetailPanel = function(id, fov, isCabinet) {
+    var updateDetailPanel = function(id, fov) {
         if (!Utilities.isPanoActive){
             var object = JSON.search(data, '//*[id="' + id + '"]');
             var rendered = detailPanelTPL(object[0]);
             detailPanel.html(rendered).addClass('active');
-
-            if (Drawer.opened && !isCabinet) {
-                Drawer.closeDrawer();
-            }
     
             lookToHotspot('a' + id, fov);
             $('.media-container-thumbs a').first().addClass('active');
+
+            if (object[0].type != 'cabinet') {
+                Drawer.closeDrawer();
+            }
     
             resetDefaults();
             if (object[0].images[0].type == 'zoom') {
@@ -46,7 +46,7 @@ DetailPanel = (function() {
         detailPanel.removeClass('active');
         resetDefaults();
         killHammer();
-        returnToZoom();
+        //returnToZoom();
     }
 
 
@@ -77,7 +77,7 @@ DetailPanel = (function() {
             $('.media-container-inner .instructions').removeClass('in');
         });
         mc.on('pinchout', function(e) {
-            scale += (e.scale/100);
+            scale += (e.scale/75);
             if (scale > 4) {
                 scale = 4;
             }
@@ -280,7 +280,7 @@ DetailPanel = (function() {
             $(this).addClass('active');
 
             if (caption){ 
-                $('.media-container-inner .caption').text(caption).addClass('in'); 
+                $('.media-container-inner .caption').html(caption).addClass('in'); 
             } else {
                 $('.media-container-inner .caption').removeClass('in'); 
             }
