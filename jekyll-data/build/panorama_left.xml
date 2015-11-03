@@ -59,7 +59,7 @@
         edge="center"
         zoom="true"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(19394128, mid) );" />
+        onclick="js( DetailPanel.updateDetailPanel(19394128) );" />
     <hotspot 
         name="a19394130a"
         type="image"

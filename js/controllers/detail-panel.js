@@ -40,6 +40,7 @@ DetailPanel = (function() {
             } else if (object[0].images[0].type == '360') {
                 setupHammerPan();
             }
+            Videos.closeVideos();
         }
     }
     var closeDetailPanel = function() {
