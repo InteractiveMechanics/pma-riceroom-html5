@@ -18,11 +18,11 @@
     },
     "videos": [
         {
-            "title": "How the Room Got Here",
+            "title": "Eleanor Rice's Legacy",
             "files": {
-                "source": "files/howtheroomcametogether.mp4",
-                "poster": "files/howtheroomcametogether_poster.jpg",
-                "thumb": "files/howtheroomcametogether_thumb.jpg"
+                "source": "files/eleanorrice.mp4",
+                "poster": "files/eleanorrice_poster.jpg",
+                "thumb": "files/eleanorrice_thumb.jpg"
             }
         },{
             "title": "The Gilded Age",
@@ -32,11 +32,11 @@
                 "thumb": "files/thegildedage_thumb.jpg"
             }
         },{
-            "title": "Eleanor Rice's Legacy",
+            "title": "How the Room Got Here",
             "files": {
-                "source": "files/eleanorrice.mp4",
-                "poster": "files/eleanorrice_poster.jpg",
-                "thumb": "files/eleanorrice_thumb.jpg"
+                "source": "files/howtheroomcametogether.mp4",
+                "poster": "files/howtheroomcametogether_poster.jpg",
+                "thumb": "files/howtheroomcametogether_thumb.jpg"
             }
         }
     ],

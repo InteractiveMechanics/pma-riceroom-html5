@@ -1,8 +1,8 @@
-- title: "How the Room Got Here"
+- title: "Eleanor Rice's Legacy"
   files:
-    - source: "howtheroomcametogether.mp4"
-      poster: "howtheroomcametogether_poster.jpg"
-      thumb:  "howtheroomcametogether_thumb.jpg"
+    - source: "eleanorrice.mp4"
+      poster: "eleanorrice_poster.jpg"
+      thumb:  "eleanorrice_thumb.jpg"
 
 - title: "The Gilded Age"
   files:
@@ -10,8 +10,8 @@
       poster: "thegildedage_poster.jpg"
       thumb:  "thegildedage_thumb.jpg"
 
-- title: "Eleanor Rice's Legacy"
+- title: "How the Room Got Here"
   files:
-    - source: "eleanorrice.mp4"
-      poster: "eleanorrice_poster.jpg"
-      thumb:  "eleanorrice_thumb.jpg"
+    - source: "howtheroomcametogether.mp4"
+      poster: "howtheroomcametogether_poster.jpg"
+      thumb:  "howtheroomcametogether_thumb.jpg"
