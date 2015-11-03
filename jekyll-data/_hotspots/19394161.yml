@@ -63,14 +63,14 @@ images:
 
   - weight:         0
     type:           "context"
-    caption:        "The Fortune Teller, 1738, by Pierre Aveline, based on a drawing by François Boucher, engraving"
+    caption:        "Wine Bottle Cooler, 1753, Vincennes porcelain factory, soft-paste porcelain. From a dinner service ordered by Louis XV. Collection Metropolitan Museum of Art, New York"
     files:
       - thumb:      "19394161c_thumb.jpg"
         large:      "19394161c.jpg"
 
   - weight:         0
     type:           "context"
-    caption:        "Wine Bottle Cooler, 1753, Vincennes porcelain factory, soft-paste porcelain. From a dinner service ordered by Louis XV. Collection Metropolitan Museum of Art, New York"
+    caption:        "The Fortune Teller, 1738, by Pierre Aveline, based on a drawing by François Boucher, engraving"
     files:
       - thumb:      "19394161b_thumb.jpg"
         large:      "19394161b.jpg"
