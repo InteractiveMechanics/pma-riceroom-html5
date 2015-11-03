@@ -388,7 +388,7 @@ html, body {
   width: 400px;
   z-index: 9; }
   #videos.active .video-container {
-    height: 48px; }
+    height: 56px; }
   #videos.active .close {
     opacity: 0 !important; }
   #videos.in .video-container {
@@ -430,8 +430,8 @@ html, body {
     background: rgba(255, 255, 255, 0.9);
     display: block;
     font-size: 1rem;
-    max-height: 44px;
-    padding: 21px 0 15px;
+    height: 22px;
+    padding: 18px 0 16px;
     text-align: center;
     position: absolute;
     width: 100%;
