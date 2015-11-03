@@ -13,7 +13,6 @@ Utilities = (function() {
     }
     var resetTimeout = function() {
         if (timeout) {
-            console.log(timeout);
             $.each(timeout, function(index, value){
                 clearTimeout(value);
                 timeout.splice(index, 1);

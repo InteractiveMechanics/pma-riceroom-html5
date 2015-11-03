@@ -72,6 +72,4 @@ layout: null
         capture="false"
         ath="{{ drawer.positions[1].points[0].ath }}"
         atv="{{ drawer.positions[1].points[0].atv }}" />{% endfor%}
-
-    <events onclick="showlog(); screentosphere(mouse.x, mouse.y, toh, tov); trace(get(toh), ' ', get(tov));" />
 </krpano>

@@ -82,17 +82,16 @@
                     background: rgba($red, 0.5);
                     position: absolute;
                     top: 0;
-                    left: 0;
                     transform-origin: 50% 50% 0;
                 }
             }
             .instructions {
-                @extend .transition;
-
+                transition: 0.5s opacity;
                 position: absolute;
                 z-index: 30;
                 bottom: 15px;
                 left: 50%;
+                background: none;
                 margin-left: -50px;
                 width: 120px;
                 height: 120px;

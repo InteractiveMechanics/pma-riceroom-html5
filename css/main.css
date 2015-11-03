@@ -81,7 +81,7 @@ body {
   box-shadow: 0 4px 0 rgba(0, 0, 0, 0.25); }
 
 .transition, .text-size,
-.close, ::-webkit-scrollbar-track, ::-webkit-scrollbar-thumb, #modal .modal-container input[type=range]::-webkit-slider-runnable-track, #videos .audio-narrative, #videos .audio-narrative span, #videos .see-all, #videos .video-container, #videos .video-container .close, #videos .video-container .video, #detail-panel, #detail-panel .media-container .media-container-inner .zoomer, #detail-panel .media-container .media-container-inner .instructions, #detail-panel .media-container .media-container-thumbs li a, #detail-panel .media-container .media-container-thumbs li a span, #drawer-panel, #drawer-panel a img, #captions {
+.close, ::-webkit-scrollbar-track, ::-webkit-scrollbar-thumb, #modal .modal-container input[type=range]::-webkit-slider-runnable-track, #videos .audio-narrative, #videos .audio-narrative span, #videos .see-all, #videos .video-container, #videos .video-container .close, #videos .video-container .video, #detail-panel, #detail-panel .media-container .media-container-inner .zoomer, #detail-panel .media-container .media-container-thumbs li a, #detail-panel .media-container .media-container-thumbs li a span, #drawer-panel, #drawer-panel a img, #captions {
   transition: 0.5s all; }
 
 body {
@@ -551,13 +551,14 @@ html, body {
           background: rgba(232, 58, 23, 0.5);
           position: absolute;
           top: 0;
-          left: 0;
           transform-origin: 50% 50% 0; }
       #detail-panel .media-container .media-container-inner .instructions {
+        transition: 0.5s opacity;
         position: absolute;
         z-index: 30;
         bottom: 15px;
         left: 50%;
+        background: none;
         margin-left: -50px;
         width: 120px;
         height: 120px;
