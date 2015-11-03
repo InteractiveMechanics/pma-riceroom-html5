@@ -1,0 +1,3755 @@
+{
+    "id": "panorama_right",
+    "view": {
+        "hlookat": 0,
+        "vlookat": 0,
+        "maxpixelzoom": 1.25,
+        "fovmax": 90,
+        "vlookatmin": -50,
+        "vlookatmax": 40
+    },"id": "panorama_left",
+    "view": {
+        "hlookat": 0,
+        "vlookat": 0,
+        "maxpixelzoom": 1.25,
+        "fovmax": 90,
+        "vlookatmin": -50,
+        "vlookatmax": 40
+    },
+    "videos": [
+        {
+            "title": "How the Room Got Here",
+            "files": {
+                "source": "files/howtheroomcametogether.mp4",
+                "poster": "files/howtheroomcametogether_poster.jpg",
+                "thumb": "files/howtheroomcametogether_thumb.jpg"
+            }
+        },{
+            "title": "The Gilded Age",
+            "files": {
+                "source": "files/thegildedage.mp4",
+                "poster": "files/thegildedage_poster.jpg",
+                "thumb": "files/thegildedage_thumb.jpg"
+            }
+        },{
+            "title": "Eleanor Rice's Legacy",
+            "files": {
+                "source": "files/eleanorrice.mp4",
+                "poster": "files/eleanorrice_poster.jpg",
+                "thumb": "files/eleanorrice_thumb.jpg"
+            }
+        }
+    ],
+    "hotspots": [
+        {
+            "id": "1939411",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-1",
+                "title": "Writing Table",
+                "description": "c. 1775, with later additions<br /> Mahogany veneer; gilded bronze mounts; soft-paste porcelain plaques with enamel and gilt <br /> decoration; leather top <br /><br /> Table made in France <br /><br /> Plaques made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-1",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939411a.jpg",
+                        
+                        "thumb": "files/1939411a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 1,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939411b.jpg",
+                        
+                        "thumb": "files/1939411b_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394110n",
+            "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
+            "type": "primary",
+            
+            
+            "content": {
+                "accession": "1939-41-10",
+                "title": "Writing Table",
+                "description": "Joseph Baumhauer, like many Parisian cabinetmakers, did not sell directly to clients but instead worked almost exclusively for prominent dealers of luxury goods such as Simon-Philippe Poirier and his partner Dominique Daguerre. <br /><br /> Poirier likely commissioned this table. He had a virtual monopoly on the porcelain plaques that adorn it, and is credited with creating the market for this type of innovative furniture. The Museum’s collection includes a number of Poirier-commissioned pieces made by a different cabinetmaker, Martin Carlin, such as a plant stand (on display in this room) and a writing desk (image 2). <br /><br /> To begin the process of manufacture Poirier provided Baumhauer with a sketch for the table. With the design in hand, workers in Baumhauer’s shop constructed the carcass and covered the exposed surfaces, except for the desktop, with a thin layer of tulipwood veneer. Poirier then supplied the plaques, which he may have commissioned from the Sèvres porcelain factory specifically for this table. He also supplied the metal mounts that Baumhauer, as a cabinetmaker, was prohibited from making due to guild regulations. <br /><br /> Eleanore Rice purchased this table from New York dealer Joseph Duveen in 1925. It had formerly been among the furnishings in a drawing room only doors away from Mrs. Rice’s Fifth Avenue townhouse, in a residence designed for George J. Gould, the eldest son of the financier and railroad tycoon Jay Gould (image 3). <br /><br /> c. 1763<br /> Oak with tulipwood veneer; gilded bronze mounts; soft-paste porcelain plaques with enamel and gilt decoration; morocco leather top <br /><br /> Table made by <strong>Joseph Baumhauer</strong>, German (active Paris), born ?, died 1772 <br /><br /> Plaques made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-10",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394110a.jpg",
+                        
+                        "thumb": "files/19394110a_thumb.jpg"
+                    }
+                },{
+                    "caption": "Writing Desk, c. 1777–80, by Martin Carlin, plaques by Sèvres porcelain factory, oak with satinwood, tulipwood, and mahogany veneers; gilded bronze mounts; soft-paste porcelain plaques with enamel and gilt decoration. Collection Philadelphia Museum of Art",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394110c.jpg",
+                        
+                        "thumb": "files/19394110c_thumb.jpg"
+                    }
+                },{
+                    "caption": "Drawing room of George J. Gould residence, New York, 1907–9",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394110d.jpg",
+                        
+                        "thumb": "files/19394110d_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394110b.jpg",
+                        
+                        "thumb": "files/19394110b_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394110s",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-10",
+                "title": "Writing Table",
+                "description": "Joseph Baumhauer, like many Parisian cabinetmakers, did not sell directly to clients but instead worked almost exclusively for prominent dealers of luxury goods such as Simon-Philippe Poirier and his partner Dominique Daguerre. <br /><br /> Poirier likely commissioned this table. He had a virtual monopoly on the porcelain plaques that adorn it, and is credited with creating the market for this type of innovative furniture. The Museum’s collection includes a number of Poirier-commissioned pieces made by a different cabinetmaker, Martin Carlin, such as a plant stand (on display in this room) and a writing desk (image 2). <br /><br /> To begin the process of manufacture Poirier provided Baumhauer with a sketch for the table. With the design in hand, workers in Baumhauer’s shop constructed the carcass and covered the exposed surfaces, except for the desktop, with a thin layer of tulipwood veneer. Poirier then supplied the plaques, which he may have commissioned from the Sèvres porcelain factory specifically for this table. He also supplied the metal mounts that Baumhauer, as a cabinetmaker, was prohibited from making due to guild regulations. <br /><br /> Eleanore Rice purchased this table from New York dealer Joseph Duveen in 1925. It had formerly been among the furnishings in a drawing room only doors away from Mrs. Rice’s Fifth Avenue townhouse, in a residence designed for George J. Gould, the eldest son of the financier and railroad tycoon Jay Gould (image 3). <br /><br /> c. 1763<br /> Oak with tulipwood veneer; gilded bronze mounts; soft-paste porcelain plaques with enamel and gilt decoration; morocco leather top <br /><br /> Table made by <strong>Joseph Baumhauer</strong>, German (active Paris), born ?, died 1772 <br /><br /> Plaques made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-10",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394110a.jpg",
+                        
+                        "thumb": "files/19394110a_thumb.jpg"
+                    }
+                },{
+                    "caption": "Writing Desk, c. 1777–80, by Martin Carlin, plaques by Sèvres porcelain factory, oak with satinwood, tulipwood, and mahogany veneers; gilded bronze mounts; soft-paste porcelain plaques with enamel and gilt decoration. Collection Philadelphia Museum of Art",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394110c.jpg",
+                        
+                        "thumb": "files/19394110c_thumb.jpg"
+                    }
+                },{
+                    "caption": "Drawing room of George J. Gould residence, New York, 1907–9",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394110d.jpg",
+                        
+                        "thumb": "files/19394110d_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394110b.jpg",
+                        
+                        "thumb": "files/19394110b_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394111a",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-11",
+                "title": "Writing Desks (two)",
+                "description": "c. 1770<br /> Oak with rosewood, sycamore, holly, and ebony veneers; gilded bronze mounts <br /><br /> Made by <strong>Martin Carlin</strong>, German (active Paris), born c. 1730, died 1785 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-11a,b",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394111a.jpg",
+                        
+                        "thumb": "files/19394111a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 1,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394111b.jpg",
+                        
+                        "thumb": "files/19394111b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 2,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394111c.jpg",
+                        
+                        "thumb": "files/19394111c_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 3,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394111d.jpg",
+                        
+                        "thumb": "files/19394111d_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394111b",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-11",
+                "title": "Writing Desks (two)",
+                "description": "c. 1770<br /> Oak with rosewood, sycamore, holly, and ebony veneers; gilded bronze mounts <br /><br /> Made by <strong>Martin Carlin</strong>, German (active Paris), born c. 1730, died 1785 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-11a,b",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394111a.jpg",
+                        
+                        "thumb": "files/19394111a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 1,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394111b.jpg",
+                        
+                        "thumb": "files/19394111b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 2,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394111c.jpg",
+                        
+                        "thumb": "files/19394111c_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 3,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394111d.jpg",
+                        
+                        "thumb": "files/19394111d_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394113",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-13",
+                "title": "Plant Stand",
+                "description": "The porcelain plaques that decorate this stand were likely sold by the Sèvres porcelain factory to the <em>marchands-merciers</em> Simon-Philippe Poirier and Dominique Daguerre, who then specially commissioned this piece from the cabinetmaker Martin Carlin. <em>Marchands-merciers</em> were trendsetting merchants credited with the creation of many novel forms of porcelain-mounted furniture in the 1700s. <br /><br /> c. 1776–77<br /> Oak with tulipwood, rosewood, and other wood veneers; gilded bronze mounts; soft-paste porcelain plaques with enamel and gilt decoration <br /><br /> Made by <strong>Martin Carlin</strong>, German (active Paris), born c. 1730, died 1785 <br /><br /> Plaques made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Plaques decorated by <strong>Vincent Taillandier</strong>, French, born 1736, died 1790 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-13",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394113a.jpg",
+                        
+                        "thumb": "files/19394113a_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394116",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-16",
+                "title": "Folding Screen",
+                "description": "c. 1900 frame; c. 1750 paintings<br /> Gilded wood frame; oil on canvas panels <br /><br /> Made in France <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-16",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394116a.jpg",
+                        
+                        "thumb": "files/19394116a_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394117a",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-17a",
+                "title": "Sofa and Armchairs (from a set)",
+                "description": "1923 frames; 1750–75 tapestries<br /> Gilded wood frames; wool and silk upholstery <br /><br /> Frames made by the firm <strong>Maison Carlhian</strong>, Paris, 1867–1975 <br /><br /> Tapestry upholstery designed by <strong>Louis Tessier</strong>, French, born 1719, died 1781; and <strong>Maurice Jacques</strong>, French, born 1712, died 1784 <br /><br /> Tapestry upholstery woven by the <strong>Gobelins tapestry manufactory</strong>, Paris, 1699–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-17a–g",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117aa.jpg",
+                        
+                        "thumb": "files/19394117aa_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394117b",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-17b, c, d, e, f, g",
+                "title": "Sofa and Armchairs (from a set)",
+                "description": "1923 frames; 1750–75 tapestries<br /> Gilded wood frames; wool and silk upholstery <br /><br /> Frames made by the firm <strong>Maison Carlhian</strong>, Paris, 1867–1975 <br /><br /> Tapestry upholstery designed by <strong>Louis Tessier</strong>, French, born 1719, died 1781; and <strong>Maurice Jacques</strong>, French, born 1712, died 1784 <br /><br /> Tapestry upholstery woven by the <strong>Gobelins tapestry manufactory</strong>, Paris, 1699–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-17a–g",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117ba.jpg",
+                        
+                        "thumb": "files/19394117ba_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bb.jpg",
+                        
+                        "thumb": "files/19394117bb_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bc.jpg",
+                        
+                        "thumb": "files/19394117bc_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bd.jpg",
+                        
+                        "thumb": "files/19394117bd_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117be.jpg",
+                        
+                        "thumb": "files/19394117be_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117be.jpg",
+                        
+                        "thumb": "files/19394117be_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bf.jpg",
+                        
+                        "thumb": "files/19394117bf_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bg.jpg",
+                        
+                        "thumb": "files/19394117bg_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bh.jpg",
+                        
+                        "thumb": "files/19394117bh_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394117c",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-17b, c, d, e, f, g",
+                "title": "Sofa and Armchairs (from a set)",
+                "description": "1923 frames; 1750–75 tapestries<br /> Gilded wood frames; wool and silk upholstery <br /><br /> Frames made by the firm <strong>Maison Carlhian</strong>, Paris, 1867–1975 <br /><br /> Tapestry upholstery designed by <strong>Louis Tessier</strong>, French, born 1719, died 1781; and <strong>Maurice Jacques</strong>, French, born 1712, died 1784 <br /><br /> Tapestry upholstery woven by the <strong>Gobelins tapestry manufactory</strong>, Paris, 1699–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-17a–g",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117ba.jpg",
+                        
+                        "thumb": "files/19394117ba_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bb.jpg",
+                        
+                        "thumb": "files/19394117bb_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bc.jpg",
+                        
+                        "thumb": "files/19394117bc_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bd.jpg",
+                        
+                        "thumb": "files/19394117bd_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117be.jpg",
+                        
+                        "thumb": "files/19394117be_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117be.jpg",
+                        
+                        "thumb": "files/19394117be_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bf.jpg",
+                        
+                        "thumb": "files/19394117bf_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bg.jpg",
+                        
+                        "thumb": "files/19394117bg_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bh.jpg",
+                        
+                        "thumb": "files/19394117bh_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394117d",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-17b, c, d, e, f, g",
+                "title": "Sofa and Armchairs (from a set)",
+                "description": "1923 frames; 1750–75 tapestries<br /> Gilded wood frames; wool and silk upholstery <br /><br /> Frames made by the firm <strong>Maison Carlhian</strong>, Paris, 1867–1975 <br /><br /> Tapestry upholstery designed by <strong>Louis Tessier</strong>, French, born 1719, died 1781; and <strong>Maurice Jacques</strong>, French, born 1712, died 1784 <br /><br /> Tapestry upholstery woven by the <strong>Gobelins tapestry manufactory</strong>, Paris, 1699–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-17a–g",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117ba.jpg",
+                        
+                        "thumb": "files/19394117ba_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bb.jpg",
+                        
+                        "thumb": "files/19394117bb_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bc.jpg",
+                        
+                        "thumb": "files/19394117bc_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bd.jpg",
+                        
+                        "thumb": "files/19394117bd_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117be.jpg",
+                        
+                        "thumb": "files/19394117be_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117be.jpg",
+                        
+                        "thumb": "files/19394117be_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bf.jpg",
+                        
+                        "thumb": "files/19394117bf_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bg.jpg",
+                        
+                        "thumb": "files/19394117bg_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bh.jpg",
+                        
+                        "thumb": "files/19394117bh_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394117e",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-17b, c, d, e, f, g",
+                "title": "Sofa and Armchairs (from a set)",
+                "description": "1923 frames; 1750–75 tapestries<br /> Gilded wood frames; wool and silk upholstery <br /><br /> Frames made by the firm <strong>Maison Carlhian</strong>, Paris, 1867–1975 <br /><br /> Tapestry upholstery designed by <strong>Louis Tessier</strong>, French, born 1719, died 1781; and <strong>Maurice Jacques</strong>, French, born 1712, died 1784 <br /><br /> Tapestry upholstery woven by the <strong>Gobelins tapestry manufactory</strong>, Paris, 1699–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-17a–g",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117ba.jpg",
+                        
+                        "thumb": "files/19394117ba_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bb.jpg",
+                        
+                        "thumb": "files/19394117bb_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bc.jpg",
+                        
+                        "thumb": "files/19394117bc_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bd.jpg",
+                        
+                        "thumb": "files/19394117bd_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117be.jpg",
+                        
+                        "thumb": "files/19394117be_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117be.jpg",
+                        
+                        "thumb": "files/19394117be_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bf.jpg",
+                        
+                        "thumb": "files/19394117bf_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bg.jpg",
+                        
+                        "thumb": "files/19394117bg_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bh.jpg",
+                        
+                        "thumb": "files/19394117bh_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394117f",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-17b, c, d, e, f, g",
+                "title": "Sofa and Armchairs (from a set)",
+                "description": "1923 frames; 1750–75 tapestries<br /> Gilded wood frames; wool and silk upholstery <br /><br /> Frames made by the firm <strong>Maison Carlhian</strong>, Paris, 1867–1975 <br /><br /> Tapestry upholstery designed by <strong>Louis Tessier</strong>, French, born 1719, died 1781; and <strong>Maurice Jacques</strong>, French, born 1712, died 1784 <br /><br /> Tapestry upholstery woven by the <strong>Gobelins tapestry manufactory</strong>, Paris, 1699–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-17a–g",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117ba.jpg",
+                        
+                        "thumb": "files/19394117ba_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bb.jpg",
+                        
+                        "thumb": "files/19394117bb_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bc.jpg",
+                        
+                        "thumb": "files/19394117bc_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bd.jpg",
+                        
+                        "thumb": "files/19394117bd_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117be.jpg",
+                        
+                        "thumb": "files/19394117be_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117be.jpg",
+                        
+                        "thumb": "files/19394117be_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bf.jpg",
+                        
+                        "thumb": "files/19394117bf_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bg.jpg",
+                        
+                        "thumb": "files/19394117bg_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bh.jpg",
+                        
+                        "thumb": "files/19394117bh_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394117g",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-17b, c, d, e, f, g",
+                "title": "Sofa and Armchairs (from a set)",
+                "description": "1923 frames; 1750–75 tapestries<br /> Gilded wood frames; wool and silk upholstery <br /><br /> Frames made by the firm <strong>Maison Carlhian</strong>, Paris, 1867–1975 <br /><br /> Tapestry upholstery designed by <strong>Louis Tessier</strong>, French, born 1719, died 1781; and <strong>Maurice Jacques</strong>, French, born 1712, died 1784 <br /><br /> Tapestry upholstery woven by the <strong>Gobelins tapestry manufactory</strong>, Paris, 1699–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-17a–g",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117ba.jpg",
+                        
+                        "thumb": "files/19394117ba_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bb.jpg",
+                        
+                        "thumb": "files/19394117bb_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bc.jpg",
+                        
+                        "thumb": "files/19394117bc_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bd.jpg",
+                        
+                        "thumb": "files/19394117bd_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117be.jpg",
+                        
+                        "thumb": "files/19394117be_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117be.jpg",
+                        
+                        "thumb": "files/19394117be_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bf.jpg",
+                        
+                        "thumb": "files/19394117bf_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bg.jpg",
+                        
+                        "thumb": "files/19394117bg_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117bh.jpg",
+                        
+                        "thumb": "files/19394117bh_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394117k",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-17k",
+                "title": "Fire Screen",
+                "description": "c. 1780<br /> Gilded wood frame; wool and silk upholstery <br /><br /> Tapestry upholstery probably woven by the <strong>Beauvais tapestry manufactory</strong>, Beauvais, France, 1664?present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-17k",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117ka.jpg",
+                        
+                        "thumb": "files/19394117ka_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394117kb.jpg",
+                        
+                        "thumb": "files/19394117kb_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394118a",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-18a",
+                "title": "Sofa and Armchairs (from a set)",
+                "description": "1923 frames; 1760–80 tapestries <br /> Gilded wood frames; wool and silk upholstery <br /><br /> Frames made by the firm <strong>Maison Carlhian</strong>, Paris, 1867–1975 <br /><br /> Tapestry upholstery woven by the <strong>Gobelins tapestry manufactory</strong>, Paris, 1699–present; <br /> in the <strong>Workshop of Jacques Neilson</strong>, French (born England), born 1714, died 1788 <br /><br /> Seat tapestries after designs by Jean-Baptiste Oudry, French, born 1686, died 1755; back tapestries after designs by François Boucher, French, born 1703, died 1770; borders after designs by Maurice Jacques, French, born 1712, died 1784; or Louis Tessier, French, born 1719, died 1781 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-18a–e",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394118aa.jpg",
+                        
+                        "thumb": "files/19394118aa_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394118b",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-18b",
+                "title": "Sofa and Armchairs (from a set)",
+                "description": "1923 frames; 1760–80 tapestries <br /> Gilded wood frames; wool and silk upholstery <br /><br /> Frames made by the firm <strong>Maison Carlhian</strong>, Paris, 1867–1975 <br /><br /> Tapestry upholstery woven by the <strong>Gobelins tapestry manufactory</strong>, Paris, 1699–present; <br /> in the <strong>Workshop of Jacques Neilson</strong>, French (born England), born 1714, died 1788 <br /><br /> Seat tapestries after designs by Jean-Baptiste Oudry, French, born 1686, died 1755; back tapestries after designs by François Boucher, French, born 1703, died 1770; borders after designs by Maurice Jacques, French, born 1712, died 1784; or Louis Tessier, French, born 1719, died 1781 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-18a–e",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394118ba.jpg",
+                        
+                        "thumb": "files/19394118ba_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394118bb.jpg",
+                        
+                        "thumb": "files/19394118bb_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394118bc.jpg",
+                        
+                        "thumb": "files/19394118bc_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394118bd.jpg",
+                        
+                        "thumb": "files/19394118bd_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394118c",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-18c",
+                "title": "Sofa and Armchairs (from a set)",
+                "description": "1923 frames; 1760–80 tapestries <br /> Gilded wood frames; wool and silk upholstery <br /><br /> Frames made by the firm <strong>Maison Carlhian</strong>, Paris, 1867–1975 <br /><br /> Tapestry upholstery woven by the <strong>Gobelins tapestry manufactory</strong>, Paris, 1699–present; <br /> in the <strong>Workshop of Jacques Neilson</strong>, French (born England), born 1714, died 1788 <br /><br /> Seat tapestries after designs by Jean-Baptiste Oudry, French, born 1686, died 1755; back tapestries after designs by François Boucher, French, born 1703, died 1770; borders after designs by Maurice Jacques, French, born 1712, died 1784; or Louis Tessier, French, born 1719, died 1781 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-18a–e",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394118ca.jpg",
+                        
+                        "thumb": "files/19394118ca_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394118cb.jpg",
+                        
+                        "thumb": "files/19394118cb_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394118cc.jpg",
+                        
+                        "thumb": "files/19394118cc_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394118cd.jpg",
+                        
+                        "thumb": "files/19394118cd_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394118d",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-18d",
+                "title": "Sofa and Armchairs (from a set)",
+                "description": "1923 frames; 1760–80 tapestries <br /> Gilded wood frames; wool and silk upholstery <br /><br /> Frames made by the firm <strong>Maison Carlhian</strong>, Paris, 1867–1975 <br /><br /> Tapestry upholstery woven by the <strong>Gobelins tapestry manufactory</strong>, Paris, 1699–present; <br /> in the <strong>Workshop of Jacques Neilson</strong>, French (born England), born 1714, died 1788 <br /><br /> Seat tapestries after designs by Jean-Baptiste Oudry, French, born 1686, died 1755; back tapestries after designs by François Boucher, French, born 1703, died 1770; borders after designs by Maurice Jacques, French, born 1712, died 1784; or Louis Tessier, French, born 1719, died 1781 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-18a–e",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394118da.jpg",
+                        
+                        "thumb": "files/19394118da_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394118db.jpg",
+                        
+                        "thumb": "files/19394118db_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394118dc.jpg",
+                        
+                        "thumb": "files/19394118dc_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394118dd.jpg",
+                        
+                        "thumb": "files/19394118dd_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394118e",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-18e",
+                "title": "Sofa and Armchairs (from a set)",
+                "description": "1923 frames; 1760–80 tapestries <br /> Gilded wood frames; wool and silk upholstery <br /><br /> Frames made by the firm <strong>Maison Carlhian</strong>, Paris, 1867–1975 <br /><br /> Tapestry upholstery woven by the <strong>Gobelins tapestry manufactory</strong>, Paris, 1699–present; <br /> in the <strong>Workshop of Jacques Neilson</strong>, French (born England), born 1714, died 1788 <br /><br /> Seat tapestries after designs by Jean-Baptiste Oudry, French, born 1686, died 1755; back tapestries after designs by François Boucher, French, born 1703, died 1770; borders after designs by Maurice Jacques, French, born 1712, died 1784; or Louis Tessier, French, born 1719, died 1781 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-18a–e",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394118ea.jpg",
+                        
+                        "thumb": "files/19394118ea_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394118eb.jpg",
+                        
+                        "thumb": "files/19394118eb_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394118ec.jpg",
+                        
+                        "thumb": "files/19394118ec_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394118ed.jpg",
+                        
+                        "thumb": "files/19394118ed_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394119",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-19",
+                "title": "Sofa",
+                "description": "c. 1760<br /> Stained wood frame; modern silk upholstery <br /><br /> Made in France <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-19",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394119a.jpg",
+                        
+                        "thumb": "files/19394119a_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394124a",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-24a, b",
+                "title": "Armchairs (two)",
+                "description": "c. 1760<br /> Stained wood frame; modern silk upholstery <br /><br /> Made in France <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-24a,b",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394124a.jpg",
+                        
+                        "thumb": "files/19394124a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394124b.jpg",
+                        
+                        "thumb": "files/19394124b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394124c.jpg",
+                        
+                        "thumb": "files/19394124c_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394124b",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-24a, b",
+                "title": "Armchairs (two)",
+                "description": "c. 1760<br /> Stained wood frame; modern silk upholstery <br /><br /> Made in France <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-24a,b",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394124a.jpg",
+                        
+                        "thumb": "files/19394124a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394124b.jpg",
+                        
+                        "thumb": "files/19394124b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394124c.jpg",
+                        
+                        "thumb": "files/19394124c_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394126",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-26",
+                "title": "Fire Grate",
+                "description": "Late 18th century<br /> Cast iron <br /><br /> Made in France <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-26",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394126a.jpg",
+                        
+                        "thumb": "files/19394126a_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394127",
+            "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
+            "type": "primary",
+            
+            
+            "content": {
+                "accession": "1939-41-27",
+                "title": "Carpet",
+                "description": "In 1664 Jean-Baptiste Colbert, King Louis XIV’s minister in charge of buildings, began a campaign to transform the Louvre (the royal residence at the time) into the grandest and largest palace in Europe (image 2). Central to this project was the renovation of a 1,450-foot-long space known as the Grande Galerie. This amazing interior overlooked the Seine and connected the Louvre and Tuileries palaces (image 3). <br /><br /> For this hall Colbert commissioned the Savonnerie carpet factory to produce ninety-three carpets. The commission’s scale was unprecedented in the history of French woven arts, and the carpets that were ultimately produced rank among the greatest artistic achievements of the 1600s (image 4). <br /><br /> Production of the carpets, which were each some thirty feet in length and required the construction of new looms made from particularly long and stout tree trunks, began in 1668 and continued until 1688, by which time the king had lost interest in the project and moved the court to Versailles. In the following centuries the carpets were given away as diplomatic gifts or, on special occasions, brought out of storage for use at the royal residences and elsewhere. <br /><br /> In 1788 the Museum’s carpet was sent <em>for one day</em> to the Paris church of Saint-Roch for the marriage of the Duke de Montmorency. And on June 18, 1919, when the treaty that ended World War I was signed at Versailles, twenty-four of the carpets adorned the Galerie des Glaces (Hall of Mirrors) (image 5). <br /><br /> Although each of the Savonnerie carpets is individual in design, they share certain distinct traits: a black background, a modified egg-and-leaf border, scrolling acanthus leaves in the corners, and cartouches at each end that contain either a landscape or allegorical scene. All display decorations replete with royal emblems. The design of the Museum’s carpet includes the crowned monogram of the king four times in the center and a crowned globe with the motto NEC PLURIBUS IMPAR (One Among Many) at each end. <br /><br /> 1668–85<br /> Wool, linen <br /><br /> After a model made by <strong>Charles Le Brun</strong>, French, born 1619, died 1690; or <strong>Louis Le Vau</strong>, French, born 1612, died 1670 <br /><br /> Made by the <strong>Savonnerie carpet manufactory</strong>, Paris, 1627–1825 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-27",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394127a.jpg",
+                        
+                        "thumb": "files/19394127a_thumb.jpg"
+                    }
+                },{
+                    "caption": "Portrait of Louis XIV, 1701, by Hyacinthe Rigaud, oil on canvas. Collection Musée du Louvre, Paris",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394127b.jpg",
+                        
+                        "thumb": "files/19394127b_thumb.jpg"
+                    }
+                },{
+                    "caption": "Map of Paris (detail) as it appeared in the 1730s, from Michel-Étienne Turgot’s Plan de Paris: commencé de l’année (1739), engraving with etching",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394127c.jpg",
+                        
+                        "thumb": "files/19394127c_thumb.jpg"
+                    }
+                },{
+                    "caption": "Two men working at a carpet loom, from Denis Diderot’s Encyclopédie, ou, Dictionnaire raisonné des sciences, des arts et des métiers (Paris, 1751–80), engraving",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394127d.jpg",
+                        
+                        "thumb": "files/19394127d_thumb.jpg"
+                    }
+                },{
+                    "caption": "Postcard showing some of the Savonnerie carpets in use at the Galerie des Glaces (Hall of Mirrors) at Versailles in 1919. Private Collection",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394127e.jpg",
+                        
+                        "thumb": "files/19394127e_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394128",
+            "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
+            "type": "primary",
+            
+            
+            "content": {
+                "accession": "1939-41-28a, b",
+                "title": "Wall Lights (two)",
+                "description": "These wall lights are two of eight delivered in August 1784 to Mesdames Victoire, Adélaïde, and Sophie, the elderly spinster aunts of Louis XVI (image 2). They were made for the Grand Salon of the château at Bellevue. Located between Paris and Versailles, the château was originally built in 1748 by Louis XV for his mistress, Madame de Pompadour. After Pompadour’s death in 1764 Louis XV sold the château to his sisters (image 3). <br /><br /> These lights were among numerous furnishings supplied to the sisters by the Parisian dealers Darnault, Frères. The dealers commissioned Feuchère to produce these gilded bronzes and contracted with cabinetmaker Martin Carlin to create the furniture—all of the highest quality and latest fashion. Ten of the Carlin pieces are today in the Louvre Museum in Paris (image 4). <br /><br /> Gilded bronze, whether in the form of an object like these wall lights or made to decorate a piece of furniture, was an essential element in the sumptuous French interiors of the 1700s. Not only did this luxurious material speak to the wealth of the owner, but its gleaming surface—like the mirrors that often lined such rooms—reflected candle- and firelight (image 5). <br /><br /> 1784<br /> Gilded bronze <br /><br /> Made by <strong>Pierre-François Feuchère</strong>, French, born 1737, died 1823 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-28a,b",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394128a.jpg",
+                        
+                        "thumb": "files/19394128a_thumb.jpg"
+                    }
+                },{
+                    "caption": "Portrait of Mesdames Victoire and Adélaïde, from a snuff box, 1767, by J. J. Dailly, gold with painted enamel decoration. Collection Walters Art Museum, Baltimore",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394128c.jpg",
+                        
+                        "thumb": "files/19394128c_thumb.jpg"
+                    }
+                },{
+                    "caption": "Another View of the Château de Bellevue, c. 1750, by Jacques Rigaud, engraving",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394128d.jpg",
+                        
+                        "thumb": "files/19394128d_thumb.jpg"
+                    }
+                },{
+                    "caption": "Cabinet, c. 1785, by Martin Carlin, ebony with Japanese lacquer panels and gilded bronze mounts. Collection Musée du Louvre, Paris",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394128e.jpg",
+                        
+                        "thumb": "files/19394128e_thumb.jpg"
+                    }
+                },{
+                    "caption": "After the Ball, 1735, by Jean-François de Troy, oil on canvas. Private Collection",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394128f.jpg",
+                        
+                        "thumb": "files/19394128f_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394128b.jpg",
+                        
+                        "thumb": "files/19394128b_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "1939412a",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-2a, b",
+                "title": "Pair of Cabinets",
+                "description": "c. 1770<br /> Oak with holly, ebony, and sycamore veneers; gilded bronze mounts; marble tops <br /><br /> Made by <strong>Martin Carlin</strong>, German (active Paris), born c. 1730, died 1785 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-2a,b",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939412a.jpg",
+                        
+                        "thumb": "files/1939412a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 1,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939412b.jpg",
+                        
+                        "thumb": "files/1939412b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 3,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939412c.jpg",
+                        
+                        "thumb": "files/1939412c_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "1939412b",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-2a, b",
+                "title": "Pair of Cabinets",
+                "description": "c. 1770<br /> Oak with holly, ebony, and sycamore veneers; gilded bronze mounts; marble tops <br /><br /> Made by <strong>Martin Carlin</strong>, German (active Paris), born c. 1730, died 1785 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-2a,b",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939412a.jpg",
+                        
+                        "thumb": "files/1939412a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 1,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939412b.jpg",
+                        
+                        "thumb": "files/1939412b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 3,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939412c.jpg",
+                        
+                        "thumb": "files/1939412c_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "1939413",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-3",
+                "title": "Chest of Drawers",
+                "description": "c. 1790<br /> Oak with mahogany, sycamore, boxwood, and holly veneers; gilded bronze mounts; Brescia marble top <br /><br /> Made in Europe <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-3",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939413a.jpg",
+                        
+                        "thumb": "files/1939413a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 1,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939413b.jpg",
+                        
+                        "thumb": "files/1939413b_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394130a",
+            "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
+            "type": "primary",
+            
+            
+            "content": {
+                "accession": "1939-41-30a",
+                "title": "Tapestry showing a Story of Psyche (one from a set of five): The Arrival",
+                "description": "For centuries woven tapestries served a practical purpose—acting as insulation—as they decorated walls and floors, and in the 1700s they remained at the forefront of fashionable interior design (image 2). <br /><br /> The tapestries on view in this room—four from a set of five—feature scenes from the ancient myth of Psyche, a beautiful mortal who overcame many obstacles to become the lover and eventual wife of Cupid. The larger two weavings depict Psyche’s arrival at Cupid’s palace and her toilette among nymphs; the smaller two show Psyche’s abandonment by Cupid and her welcome by basketmakers as she searches for her husband. The fifth, not on view, represents Psyche showing her sisters the riches of Cupid’s palace (image 3). <br /><br /> In 1737 French King Louis XV commissioned the series and six complete sets were woven, with the Museum’s tapestries being the first produced, originally made for the city of Marseille. It took almost three years to complete the five scenes, the weavers translating into silk and wool the elegant and sensuous designs of French artist François Boucher. It is a testament to the skill of the Beauvais factory weavers who, while employing only thread, were able to so skillfully depict flesh, marble, silk, smoke, and gold. <br /><br /> 1741–42<br /> Wool, silk <br /><br /> Designed by <strong>François Boucher</strong>, French, born 1703, died 1770 <br /><br /> Woven by the <strong>Beauvais tapestry manufactory</strong>, Beauvais, France, 1664–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-30a–d",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394130aa.jpg",
+                        
+                        "thumb": "files/19394130aa_thumb.jpg"
+                    }
+                },{
+                    "caption": "Evening Banquet, 1640, by Wolfgang Heimbach, oil on canvas. Collection Kunsthistorisches Museum, Vienna",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394130db.jpg",
+                        
+                        "thumb": "files/19394130db_thumb.jpg"
+                    }
+                },{
+                    "caption": "Fifth tapestry from the set: The Riches (Psyche Displaying Her Treasures to Her Sisters), 1741–42, designed by François Boucher, woven by the Beauvais tapestry factory, wool and silk. Collection Philadelphia Museum of Art",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394130dc.jpg",
+                        
+                        "thumb": "files/19394130dc_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394130b",
+            "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
+            "type": "primary",
+            
+            
+            "content": {
+                "accession": "1939-41-30b",
+                "title": "Tapestry showing a Story of Psyche (one from a set of five): The Abandonment",
+                "description": "For centuries woven tapestries served a practical purpose—acting as insulation—as they decorated walls and floors, and in the 1700s they remained at the forefront of fashionable interior design (image 2). <br /><br /> The tapestries on view in this room—four from a set of five—feature scenes from the ancient myth of Psyche, a beautiful mortal who overcame many obstacles to become the lover and eventual wife of Cupid. The larger two weavings depict Psyche’s arrival at Cupid’s palace and her toilette among nymphs; the smaller two show Psyche’s abandonment by Cupid and her welcome by basketmakers as she searches for her husband. The fifth, not on view, represents Psyche showing her sisters the riches of Cupid’s palace (image 3). <br /><br /> In 1737 French King Louis XV commissioned the series and six complete sets were woven, with the Museum’s tapestries being the first produced, originally made for the city of Marseille. It took almost three years to complete the five scenes, the weavers translating into silk and wool the elegant and sensuous designs of French artist François Boucher. It is a testament to the skill of the Beauvais factory weavers who, while employing only thread, were able to so skillfully depict flesh, marble, silk, smoke, and gold. <br /><br /> 1741–42<br /> Wool, silk <br /><br /> Designed by <strong>François Boucher</strong>, French, born 1703, died 1770 <br /><br /> Woven by the <strong>Beauvais tapestry manufactory</strong>, Beauvais, France, 1664–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-30a–d",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394130ba.jpg",
+                        
+                        "thumb": "files/19394130ba_thumb.jpg"
+                    }
+                },{
+                    "caption": "Evening Banquet, 1640, by Wolfgang Heimbach, oil on canvas. Collection Kunsthistorisches Museum, Vienna",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394130db.jpg",
+                        
+                        "thumb": "files/19394130db_thumb.jpg"
+                    }
+                },{
+                    "caption": "Fifth tapestry from the set: The Riches (Psyche Displaying Her Treasures to Her Sisters), 1741–42, designed by François Boucher, woven by the Beauvais tapestry factory, wool and silk. Collection Philadelphia Museum of Art",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394130dc.jpg",
+                        
+                        "thumb": "files/19394130dc_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394130c",
+            "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
+            "type": "primary",
+            
+            
+            "content": {
+                "accession": "1939-41-30c",
+                "title": "Tapestry showing a Story of Psyche (one from a set of five): The Basketmakers",
+                "description": "For centuries woven tapestries served a practical purpose—acting as insulation—as they decorated walls and floors, and in the 1700s they remained at the forefront of fashionable interior design (image 2). <br /><br /> The tapestries on view in this room—four from a set of five—feature scenes from the ancient myth of Psyche, a beautiful mortal who overcame many obstacles to become the lover and eventual wife of Cupid. The larger two weavings depict Psyche’s arrival at Cupid’s palace and her toilette among nymphs; the smaller two show Psyche’s abandonment by Cupid and her welcome by basketmakers as she searches for her husband. The fifth, not on view, represents Psyche showing her sisters the riches of Cupid’s palace (image 3). <br /><br /> In 1737 French King Louis XV commissioned the series and six complete sets were woven, with the Museum’s tapestries being the first produced, originally made for the city of Marseille. It took almost three years to complete the five scenes, the weavers translating into silk and wool the elegant and sensuous designs of French artist François Boucher. It is a testament to the skill of the Beauvais factory weavers who, while employing only thread, were able to so skillfully depict flesh, marble, silk, smoke, and gold. <br /><br /> 1741–42<br /> Wool, silk <br /><br /> Designed by <strong>François Boucher</strong>, French, born 1703, died 1770 <br /><br /> Woven by the <strong>Beauvais tapestry manufactory</strong>, Beauvais, France, 1664–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-30a–d",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394130ca.jpg",
+                        
+                        "thumb": "files/19394130ca_thumb.jpg"
+                    }
+                },{
+                    "caption": "Evening Banquet, 1640, by Wolfgang Heimbach, oil on canvas. Collection Kunsthistorisches Museum, Vienna",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394130db.jpg",
+                        
+                        "thumb": "files/19394130db_thumb.jpg"
+                    }
+                },{
+                    "caption": "Fifth tapestry from the set: The Riches (Psyche Displaying Her Treasures to Her Sisters), 1741–42, designed by François Boucher, woven by the Beauvais tapestry factory, wool and silk. Collection Philadelphia Museum of Art",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394130dc.jpg",
+                        
+                        "thumb": "files/19394130dc_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394130d",
+            "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
+            "type": "primary",
+            
+            
+            "content": {
+                "accession": "1939-41-30d",
+                "title": "Tapestry showing a Story of Psyche (one from a set of five):<br />The Toilette",
+                "description": "For centuries woven tapestries served a practical purpose—acting as insulation—as they decorated walls and floors, and in the 1700s they remained at the forefront of fashionable interior design (image 2). <br /><br /> The tapestries on view in this room—four from a set of five—feature scenes from the ancient myth of Psyche, a beautiful mortal who overcame many obstacles to become the lover and eventual wife of Cupid. The larger two weavings depict Psyche’s arrival at Cupid’s palace and her toilette among nymphs; the smaller two show Psyche’s abandonment by Cupid and her welcome by basketmakers as she searches for her husband. The fifth, not on view, represents Psyche showing her sisters the riches of Cupid’s palace (image 3). <br /><br /> In 1737 French King Louis XV commissioned the series and six complete sets were woven, with the Museum’s tapestries being the first produced, originally made for the city of Marseille. It took almost three years to complete the five scenes, the weavers translating into silk and wool the elegant and sensuous designs of French artist François Boucher. It is a testament to the skill of the Beauvais factory weavers who, while employing only thread, were able to so skillfully depict flesh, marble, silk, smoke, and gold. <br /><br /> 1741–42<br /> Wool, silk <br /><br /> Designed by <strong>François Boucher</strong>, French, born 1703, died 1770 <br /><br /> Woven by the <strong>Beauvais tapestry manufactory</strong>, Beauvais, France, 1664–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-30a–d",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394130da.jpg",
+                        
+                        "thumb": "files/19394130da_thumb.jpg"
+                    }
+                },{
+                    "caption": "Evening Banquet, 1640, by Wolfgang Heimbach, oil on canvas. Collection Kunsthistorisches Museum, Vienna",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394130db.jpg",
+                        
+                        "thumb": "files/19394130db_thumb.jpg"
+                    }
+                },{
+                    "caption": "Fifth tapestry from the set: The Riches (Psyche Displaying Her Treasures to Her Sisters), 1741–42, designed by François Boucher, woven by the Beauvais tapestry factory, wool and silk. Collection Philadelphia Museum of Art",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394130dc.jpg",
+                        
+                        "thumb": "files/19394130dc_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394133",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-33",
+                "title": "Bust of Madame de La Pouplinière",
+                "description": "Marie-Thérèse de Mondran (1737–?) was the second wife of Alexandre Le Riche de La Pouplinière (1693–1762), an immensely wealthy financier and one of the most influential patrons of the Enlightenment. <br /><br /> 1769<br /> Marble <br /><br /> Made by <strong>Jean-Baptiste Lemoyne the Younger</strong>, French, born 1704, died 1778 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-33",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394133a.jpg",
+                        
+                        "thumb": "files/19394133a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394133b.jpg",
+                        
+                        "thumb": "files/19394133b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394133c.jpg",
+                        
+                        "thumb": "files/19394133c_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394133d.jpg",
+                        
+                        "thumb": "files/19394133d_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394133e.jpg",
+                        
+                        "thumb": "files/19394133e_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394133f.jpg",
+                        
+                        "thumb": "files/19394133f_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394133g.jpg",
+                        
+                        "thumb": "files/19394133g_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394134a",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-34a",
+                "title": "Venus Instructing Cupid",
+                "description": "1770s or 1780s<br /> Marble <br /><br /> Attributed to <strong>Joseph Broche</strong>, French, born c. 1740, died after 1807; or <strong>Jean Baptiste Ignace Broche</strong>, French, born 1741, died 1794 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-34a,b",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394134aa.jpg",
+                        
+                        "thumb": "files/19394134aa_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394134ab.jpg",
+                        
+                        "thumb": "files/19394134ab_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394134ac.jpg",
+                        
+                        "thumb": "files/19394134ac_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394134ad.jpg",
+                        
+                        "thumb": "files/19394134ad_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394134b",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-34b",
+                "title": "Venus Embracing Cupid",
+                "description": "1770s or 1780s<br /> Marble <br /><br /> Attributed to <strong>Joseph Broche</strong>, French, born c. 1740, died after 1807; or <strong>Jean Baptiste Ignace Broche</strong>, French, born 1741, died 1794 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-34a,b",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394134ba.jpg",
+                        
+                        "thumb": "files/19394134ba_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394134bb.jpg",
+                        
+                        "thumb": "files/19394134bb_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394134bc.jpg",
+                        
+                        "thumb": "files/19394134bc_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394135a",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-35a, b",
+                "title": "Pair of Vases",
+                "description": "c. 1750 porcelain (Qing Dynasty, 1644–1911); c. 1775 mounts<br /> Porcelain with underglaze blue and overglaze enamel decoration; gilded bronze mounts <br /><br /> China (vase); France (mounts) <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-35a,b",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394135a.jpg",
+                        
+                        "thumb": "files/19394135a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394135b.jpg",
+                        
+                        "thumb": "files/19394135b_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394135b",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-35a, b",
+                "title": "Pair of Vases",
+                "description": "c. 1750 porcelain (Qing Dynasty, 1644–1911); c. 1775 mounts<br /> Porcelain with underglaze blue and overglaze enamel decoration; gilded bronze mounts <br /><br /> China (vase); France (mounts) <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-35a,b",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394135a.jpg",
+                        
+                        "thumb": "files/19394135a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394135b.jpg",
+                        
+                        "thumb": "files/19394135b_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394136a",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-36A, B",
+                "title": "Pair of Vases",
+                "description": "c. 1768–69<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756– present <br /><br /> Portrait medallions decorated by <strong>Jean-Baptiste-Étienne Genest</strong>, French, active from 1752, died 1789 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-36A,B",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394136a.jpg",
+                        
+                        "thumb": "files/19394136a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394136b.jpg",
+                        
+                        "thumb": "files/19394136b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394136c.jpg",
+                        
+                        "thumb": "files/19394136c_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394136d.jpg",
+                        
+                        "thumb": "files/19394136d_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394136b",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-36A, B",
+                "title": "Pair of Vases",
+                "description": "c. 1768–69<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756– present <br /><br /> Portrait medallions decorated by <strong>Jean-Baptiste-Étienne Genest</strong>, French, active from 1752, died 1789 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-36A,B",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394136a.jpg",
+                        
+                        "thumb": "files/19394136a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394136b.jpg",
+                        
+                        "thumb": "files/19394136b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394136c.jpg",
+                        
+                        "thumb": "files/19394136c_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394136d.jpg",
+                        
+                        "thumb": "files/19394136d_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394137",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-37a, b",
+                "title": "Potpourri Vase",
+                "description": "This vase, made at an unidentiﬁed European porcelain factory at the end of the 1800s, is an exact copy of one made in 1757 at the Sèvres porcelain factory in France. The 1757 vase is now in the Wallace Collection in London. <br /><br /> c. 1890<br /> Hard-paste porcelain with enamel and gilt decoration <br /><br /> Possibly made in France <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-37",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394137a.jpg",
+                        
+                        "thumb": "files/19394137a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394137b.jpg",
+                        
+                        "thumb": "files/19394137b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394137c.jpg",
+                        
+                        "thumb": "files/19394137c_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394138a",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-38A, B",
+                "title": "Pair of Vases",
+                "description": "The scenes on these vases are after two paintings, <em>Diana and Callisto</em> (left) and <em>Apollo and the Sibyl of Cumae</em> (right) by Jean-Jacques Lagrenée (French, 1739–1821), who was appointed artistic codirector of the Sèvres factory in March 1785. <br /><br /> c. 1790<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Model probably made by <strong>Étienne-Maurice Falconet</strong>, French, born 1716, died 1791 <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Possibly decorated by <strong>Charles-Nicolas Dodin</strong>, French, born 1734, died 1803 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-38A,B",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394138a.jpg",
+                        
+                        "thumb": "files/19394138a_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394138b",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-38A, B",
+                "title": "Pair of Vases",
+                "description": "The scenes on these vases are after two paintings, <em>Diana and Callisto</em> (left) and <em>Apollo and the Sibyl of Cumae</em> (right) by Jean-Jacques Lagrenée (French, 1739–1821), who was appointed artistic codirector of the Sèvres factory in March 1785. <br /><br /> c. 1790<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Model probably made by <strong>Étienne-Maurice Falconet</strong>, French, born 1716, died 1791 <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Possibly decorated by <strong>Charles-Nicolas Dodin</strong>, French, born 1734, died 1803 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-38A,B",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394138a.jpg",
+                        
+                        "thumb": "files/19394138a_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394139a",
+            "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
+            "type": "primary",
+            
+            
+            "content": {
+                "accession": "",
+                "title": "Pair of Potpourri Vases",
+                "description": "These exquisitely painted and lavishly gilded potpourri vases exemplify the production of the Sèvres porcelain factory, the preeminent European manufacturer of porcelain in the second half of the 1700s (image 2). <br /><br /> The scenes on the front are based on two paintings: <em>Gathering for the Hunt</em> and <em>Departing for the Hunt</em> by Carel van Falens, a Flemish-born artist who worked in Paris. The use of Van Falens’s pictures reflects not only the popularity of hunting among France’s aristocracy, many of whom were customers of Sèvres, but also the fashion among French collectors for Dutch and Flemish artwork, particularly that of the 1600s (image 3). <br /><br /> The floral bouquets that decorate the reverse of each vase match the vignettes on the front in detail and intricacy, as they were intended to be visible through reflection. Potpourri vases often stood on chests or tables placed under mirrors (image 4). <br /><br /> In the 1700s potpourris, essential items in households of the affluent and aristocratic, were made in a profusion of playful and innovative shapes by many of Europe’s porcelain factories (image 5). At Sèvres, the form was called <em>pot pourri feuilles de mirte</em>, a reference to the leaves of the myrtle plant, a common ingredient in potpourri at the time. On these vessels the plant twines around the shoulders and down the sides. <br /><br /> c. 1761<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Model probably made by <strong>Jean-Claude Duplessis, Sr.</strong>, French, born c. 1695, died 1774 <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-39A,B",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394139a.jpg",
+                        
+                        "thumb": "files/19394139a_thumb.jpg"
+                    }
+                },{
+                    "caption": "View of the Sèvres Porcelain Factory, by Constant Troyon. Collection Sèvres, archives de la manufacture",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394139g.jpg",
+                        
+                        "thumb": "files/19394139g_thumb.jpg"
+                    }
+                },{
+                    "caption": "Gathering for the Hunt, 1726, by Carel van Falens, oil on canvas. Collection Musée de Louvre, Paris",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394139e.jpg",
+                        
+                        "thumb": "files/19394139e_thumb.jpg"
+                    }
+                },{
+                    "caption": "A Lady Fastening Her Garter (detail), 1742, by François Boucher, oil on canvas. Collection Museo Thyssen-Bornemisza, Madrid",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394139f.jpg",
+                        
+                        "thumb": "files/19394139f_thumb.jpg"
+                    }
+                },{
+                    "caption": "Potpourri Vase with Figure Group, c. 1750–60, Mennecy porcelain factory, soft-paste porcelain. Collection Philadelphia Museum of Art",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394139d.jpg",
+                        
+                        "thumb": "files/19394139d_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394139b.jpg",
+                        
+                        "thumb": "files/19394139b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394139c.jpg",
+                        
+                        "thumb": "files/19394139c_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394139b",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "",
+                "title": "Pair of Potpourri Vases",
+                "description": "These exquisitely painted and lavishly gilded potpourri vases exemplify the production of the Sèvres porcelain factory, the preeminent European manufacturer of porcelain in the second half of the 1700s (image 2). <br /><br /> The scenes on the front are based on two paintings: <em>Gathering for the Hunt</em> and <em>Departing for the Hunt</em> by Carel van Falens, a Flemish-born artist who worked in Paris. The use of Van Falens’s pictures reflects not only the popularity of hunting among France’s aristocracy, many of whom were customers of Sèvres, but also the fashion among French collectors for Dutch and Flemish artwork, particularly that of the 1600s (image 3). <br /><br /> The floral bouquets that decorate the reverse of each vase match the vignettes on the front in detail and intricacy, as they were intended to be visible through reflection. Potpourri vases often stood on chests or tables placed under mirrors (image 4). <br /><br /> In the 1700s potpourris, essential items in households of the affluent and aristocratic, were made in a profusion of playful and innovative shapes by many of Europe’s porcelain factories (image 5). At Sèvres, the form was called <em>pot pourri feuilles de mirte</em>, a reference to the leaves of the myrtle plant, a common ingredient in potpourri at the time. On these vessels the plant twines around the shoulders and down the sides. <br /><br /> c. 1761<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Model probably made by <strong>Jean-Claude Duplessis, Sr.</strong>, French, born c. 1695, died 1774 <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-39A,B",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394139a.jpg",
+                        
+                        "thumb": "files/19394139a_thumb.jpg"
+                    }
+                },{
+                    "caption": "View of the Sèvres Porcelain Factory, by Constant Troyon. Collection Sèvres, archives de la manufacture",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394139g.jpg",
+                        
+                        "thumb": "files/19394139g_thumb.jpg"
+                    }
+                },{
+                    "caption": "Gathering for the Hunt, 1726, by Carel van Falens, oil on canvas. Collection Musée de Louvre, Paris",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394139e.jpg",
+                        
+                        "thumb": "files/19394139e_thumb.jpg"
+                    }
+                },{
+                    "caption": "A Lady Fastening Her Garter (detail), 1742, by François Boucher, oil on canvas. Collection Museo Thyssen-Bornemisza, Madrid",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394139f.jpg",
+                        
+                        "thumb": "files/19394139f_thumb.jpg"
+                    }
+                },{
+                    "caption": "Potpourri Vase with Figure Group, c. 1750–60, Mennecy porcelain factory, soft-paste porcelain. Collection Philadelphia Museum of Art",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394139d.jpg",
+                        
+                        "thumb": "files/19394139d_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394139b.jpg",
+                        
+                        "thumb": "files/19394139b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394139c.jpg",
+                        
+                        "thumb": "files/19394139c_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "1939414",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-4",
+                "title": "Chest of Drawers",
+                "description": "Jean-Henri Riesener, the maker of this chest, was a particular favorite of Marie Antoinette (queen of France 1774–93). Riesener was appointed <em>ébéniste du roi</em> (cabinetmaker to the king) in 1774, and in the next decade made over seven hundred pieces of furniture for the crown. <br /><br /> c. 1780–85<br /> Oak with sycamore, amaranth, ebony, and holly veneers; gilded bronze mounts; marble top <br /><br /> Made by <strong>Jean-Henri Riesener</strong>, German (active Paris), born 1734, died 1806 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-4",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939414a.jpg",
+                        
+                        "thumb": "files/1939414a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 1,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939414b.jpg",
+                        
+                        "thumb": "files/1939414b_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394141",
+            "hotspot_image": "files/19394141_hotspot.png",
+            "type": "cabinet",
+            "x": 112,
+            "y": 955,
+            "content": {
+                "accession": "1939-41-41A, B",
+                "title": "Pair of Wine Coolers",
+                "description": "These wine coolers were likely part of a dessert service sold in 1759 by Paris dealer Lazare Duvaux to the Duke of  Richelieu (1696–1788), grandnephew of Cardinal Richelieu, who as prime minister to Louis XIII helped France become the leading power in Europe. <br /><br /> 1758<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Possibly decorated by <strong>Mathieu Fouré</strong>, French, active 1754 to 1762 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-41A,B",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394141a.jpg",
+                        
+                        "thumb": "files/19394141a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 1,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394141b.jpg",
+                        
+                        "thumb": "files/19394141b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 1,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394141c.jpg",
+                        
+                        "thumb": "files/19394141c_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 1,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394141d.jpg",
+                        
+                        "thumb": "files/19394141d_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 1,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394141e.jpg",
+                        
+                        "thumb": "files/19394141e_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 1,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394141f.jpg",
+                        
+                        "thumb": "files/19394141f_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394142",
+            "hotspot_image": "files/19394142_hotspot.png",
+            "type": "cabinet",
+            "x": 65,
+            "y": 252,
+            "content": {
+                "accession": "1939-41-42",
+                "title": "Candlesticks (four)",
+                "description": "1762<br /> Soft-paste porcelain with enamel and gilt decoration; gilded bronze mounts <br /><br /> Model probably made by <strong>Jean-Claude Duplessis, Sr.</strong>, French, born c. 1695, died 1774 <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Decorated by <strong>Jean-Baptiste Tandart</strong>, French, active 1754 to 1800 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-42a–d",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394142a.jpg",
+                        
+                        "thumb": "files/19394142a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394142b.jpg",
+                        
+                        "thumb": "files/19394142b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394142c.jpg",
+                        
+                        "thumb": "files/19394142c_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394142d.jpg",
+                        
+                        "thumb": "files/19394142d_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394143",
+            "hotspot_image": "files/19394143_hotspot.png",
+            "type": "cabinet",
+            "x": 215,
+            "y": 650,
+            "content": {
+                "accession": "1939-41-43A",
+                "title": "Vase (one of a pair)",
+                "description": "1758<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Decorated by <strong>Vincent Taillandier</strong>, French, born 1736, died 1790 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-43",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394143a.jpg",
+                        
+                        "thumb": "files/19394143a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394143b.jpg",
+                        
+                        "thumb": "files/19394143b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394143c.jpg",
+                        
+                        "thumb": "files/19394143c_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394144",
+            "hotspot_image": "files/19394144_hotspot.png",
+            "type": "cabinet",
+            "x": 230,
+            "y": 422,
+            "content": {
+                "accession": "1939-41-44a–c",
+                "title": "Vase",
+                "description": "c. 1757–58<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-44",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394144a.jpg",
+                        
+                        "thumb": "files/19394144a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394144b.jpg",
+                        
+                        "thumb": "files/19394144b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394144c.jpg",
+                        
+                        "thumb": "files/19394144c_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394145",
+            "hotspot_image": "files/19394145_hotspot.png",
+            "type": "cabinet",
+            "x": 193,
+            "y": 245,
+            "content": {
+                "accession": "1939-41-45A, B",
+                "title": "Pair of Vases",
+                "description": "c. 1758<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Decorated by <strong>Jean-Baptiste Tandart</strong>, French, active 1754 to 1800 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-45A,B",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394145a.jpg",
+                        
+                        "thumb": "files/19394145a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394145b.jpg",
+                        
+                        "thumb": "files/19394145b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394145c.jpg",
+                        
+                        "thumb": "files/19394145c_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394145d.jpg",
+                        
+                        "thumb": "files/19394145d_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394145e.jpg",
+                        
+                        "thumb": "files/19394145e_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394145f.jpg",
+                        
+                        "thumb": "files/19394145f_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394145g.jpg",
+                        
+                        "thumb": "files/19394145g_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394145h.jpg",
+                        
+                        "thumb": "files/19394145h_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394145i.jpg",
+                        
+                        "thumb": "files/19394145i_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394145j.jpg",
+                        
+                        "thumb": "files/19394145j_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394146",
+            "hotspot_image": "files/19394146_hotspot.png",
+            "type": "cabinet",
+            "x": 160,
+            "y": 100,
+            "content": {
+                "accession": "1939-41-46B, C",
+                "title": "Vases (two)",
+                "description": "1760<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Partially decorated by <strong>Charles-Louis Méreaud the Younger</strong>, French, born 1735, died 1780 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-46B,C",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394146a.jpg",
+                        
+                        "thumb": "files/19394146a_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394148",
+            "hotspot_image": "files/19394148_hotspot.png",
+            "type": "cabinet",
+            "x": 32,
+            "y": 420,
+            "content": {
+                "accession": "1939-41-46A, B",
+                "title": "Pair of Vases",
+                "description": "c. 1757<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Decorated by <strong>Jean-Louis Morin</strong>, French, born 1732, died 1787 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-48A,B",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394148a.jpg",
+                        
+                        "thumb": "files/19394148a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394148b.jpg",
+                        
+                        "thumb": "files/19394148b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394148c.jpg",
+                        
+                        "thumb": "files/19394148c_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394148d.jpg",
+                        
+                        "thumb": "files/19394148d_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394148e.jpg",
+                        
+                        "thumb": "files/19394148e_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394148f.jpg",
+                        
+                        "thumb": "files/19394148f_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394148g.jpg",
+                        
+                        "thumb": "files/19394148g_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394150",
+            "hotspot_image": "files/19394150_hotspot.png",
+            "type": "cabinet",
+            "x": 30,
+            "y": -8,
+            "content": {
+                "accession": "1939-41-50A, B",
+                "title": "Potpourri Vase",
+                "description": "c. 1762<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Model possibly made by <strong>Jean-Claude Duplessis, Sr.</strong>, French, born c. 1695, died 1774 <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-50",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394150a.jpg",
+                        
+                        "thumb": "files/19394150a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394150b.jpg",
+                        
+                        "thumb": "files/19394150b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394150c.jpg",
+                        
+                        "thumb": "files/19394150c_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394150d.jpg",
+                        
+                        "thumb": "files/19394150d_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394151",
+            "hotspot_image": "files/19394151_hotspot.png",
+            "type": "cabinet",
+            "x": 222,
+            "y": -6,
+            "content": {
+                "accession": "1939-41-51",
+                "title": "Pitcher",
+                "description": "c. 1755<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Made by the <strong>Vincennes porcelain factory</strong>, Vincennes, France, 1740–1756 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-51",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394151a.jpg",
+                        
+                        "thumb": "files/19394151a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394151b.jpg",
+                        
+                        "thumb": "files/19394151b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394151c.jpg",
+                        
+                        "thumb": "files/19394151c_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394151d.jpg",
+                        
+                        "thumb": "files/19394151d_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394152",
+            "hotspot_image": "files/19394152_hotspot.png",
+            "type": "cabinet",
+            "x": 410,
+            "y": -8,
+            "content": {
+                "accession": "1939-41-52",
+                "title": "Potpourri Vase",
+                "description": "c. 1775<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Possibly made by the <strong>Tournai porcelain factory</strong>, Tournai, Belgium, 1751–c. 1850 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-52",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394152a.jpg",
+                        
+                        "thumb": "files/19394152a_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394155",
+            "hotspot_image": "files/19394155_hotspot.png",
+            "type": "cabinet",
+            "x": 220,
+            "y": 420,
+            "content": {
+                "accession": "1939-41-55",
+                "title": "Figure of Mr. Fagon",
+                "description": "Gui Crescent Fagon (1638–1718) was Louis XIV’s chief doctor and director of the king’s botanical gardens. Celebrated in his own lifetime, he gave medical advice to the king and court and encouraged scientific botanical studies through the collection of plants from abroad. The potted aloe plant that sits on the base behind him is a reference to his botanical interests. <br /><br /> This realistically conceived figure was among the earliest produced at the Sèvres factory of a known personality. It is a bit puzzling, however, why Sèvres produced a likeness of the doctor in the 1770s some five decades after his death. Madame Adélaïde, daughter of Louis XV, is recorded has having purchased one of these figures from the factory on January 27, 1776. <br /><br /> c. 1774<br /> Hard-paste porcelain with enamel and gilt decoration; wood walking stick <br /><br /> Original model possibly made by <strong>Josse-François-Joseph Le Riche</strong>, Belgian, born 1741, died 1812 <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Gilded by <strong>Henri-Martin Prévost</strong>, French, active 1757 to 1797 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-55",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394155a.jpg",
+                        
+                        "thumb": "files/19394155a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394155b.jpg",
+                        
+                        "thumb": "files/19394155b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394155c.jpg",
+                        
+                        "thumb": "files/19394155c_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394155d.jpg",
+                        
+                        "thumb": "files/19394155d_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394156",
+            "hotspot_image": "files/19394156_hotspot.png",
+            "type": "cabinet",
+            "x": 154,
+            "y": 245,
+            "content": {
+                "accession": "1939-41-56a, b",
+                "title": "Pair of Vases",
+                "description": "1754<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Model possibly made by <strong>Jean-Claude Duplessis, Sr.</strong>, French, born c. 1695, died 1774 <br /><br /> Made by the <strong>Vincennes porcelain factory</strong>, Vincennes, France, 1740–1756 <br /><br /> Decorated by <strong>Antoine Caton</strong>, French, born 1726, died 1800 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-56a,b",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394156a.jpg",
+                        
+                        "thumb": "files/19394156a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394156b.jpg",
+                        
+                        "thumb": "files/19394156b_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394158",
+            "hotspot_image": "files/19394158_hotspot.png",
+            "type": "cabinet",
+            "x": 223,
+            "y": 634,
+            "content": {
+                "accession": "1939-41-58",
+                "title": "Mantel Clock",
+                "description": "The design of this clock was likely conceived by the Parisian dealer Simon-Philippe Poirier who, along with his partner Dominique Daguerre, would have commissioned its various components from a number of sources, including the Sèvres porcelain factory. The gilded bronze figures of a partially draped female holding two hearts, a child, and a dog are meant to represent an allegory of love and friendship. <br /><br /> c. 1780<br /> Gilded bronze; marble base; soft-paste porcelain column with enamel and gilt decoration; enameled metal face and plaque <br /><br /> Movement made by <strong>Jean-Louis Montjoye</strong>, French, active 1772 to 1781 <br /><br /> Column made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-58",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394158a.jpg",
+                        
+                        "thumb": "files/19394158a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394158b.jpg",
+                        
+                        "thumb": "files/19394158b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394158c.jpg",
+                        
+                        "thumb": "files/19394158c_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394159",
+            "hotspot_image": "files/19394159_hotspot.png",
+            "type": "cabinet",
+            "x": 34,
+            "y": 630,
+            "content": {
+                "accession": "1939-41-59A, B",
+                "title": "Pair of Vases",
+                "description": "1774<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Partially decorated by <strong>Jean-Armand Fallot</strong>, French, active 1765 to 1790 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-59A,B",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394159a.jpg",
+                        
+                        "thumb": "files/19394159a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394159b.jpg",
+                        
+                        "thumb": "files/19394159b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394159c.jpg",
+                        
+                        "thumb": "files/19394159c_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394159d.jpg",
+                        
+                        "thumb": "files/19394159d_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394159e.jpg",
+                        
+                        "thumb": "files/19394159e_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394159f.jpg",
+                        
+                        "thumb": "files/19394159f_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394159g.jpg",
+                        
+                        "thumb": "files/19394159g_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394159h.jpg",
+                        
+                        "thumb": "files/19394159h_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "1939415a",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-5",
+                "title": "Pair of Drop-Front Desks",
+                "description": "The porcelain plaques on the fronts of these desks are decorated with skillfully painted scenes based on paintings by Alexandre-François Desportes (French, 1661–1743). In 1784 Louis XVI acquired the 830 paintings and drawings that remained in Desportes’s studio at his death, sending them to the Sèvres factory to serve as models for the potters and painters. <br /><br /> c. 1790<br /> Oak with thuja and satinwood veneers; gilded bronze mounts; soft-paste porcelain plaques with enamel decoration; marble tops <br /><br /> Desks made in France <br /><br /> Plaques made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-5a,b",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939415aa.jpg",
+                        
+                        "thumb": "files/1939415aa_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 1,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939415ab.jpg",
+                        
+                        "thumb": "files/1939415ab_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "1939415b",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-5",
+                "title": "Pair of Drop-Front Desks",
+                "description": "The porcelain plaques on the fronts of these desks are decorated with skillfully painted scenes based on paintings by Alexandre-François Desportes (French, 1661–1743). In 1784 Louis XVI acquired the 830 paintings and drawings that remained in Desportes’s studio at his death, sending them to the Sèvres factory to serve as models for the potters and painters. <br /><br /> c. 1790<br /> Oak with thuja and satinwood veneers; gilded bronze mounts; soft-paste porcelain plaques with enamel decoration; marble tops <br /><br /> Desks made in France <br /><br /> Plaques made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-5a,b",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939415ba.jpg",
+                        
+                        "thumb": "files/1939415ba_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 1,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939415bb.jpg",
+                        
+                        "thumb": "files/1939415bb_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394160",
+            "hotspot_image": "files/19394160_hotspot.png",
+            "type": "cabinet",
+            "x": 30,
+            "y": 418,
+            "content": {
+                "accession": "1939-41-60A, B",
+                "title": "Pair of Vases",
+                "description": "c. 1763<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Model probably made by <strong>Étienne-Maurice Falconet</strong>, French, born 1716, died 1791 <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-60A,B",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394160a.jpg",
+                        
+                        "thumb": "files/19394160a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394160b.jpg",
+                        
+                        "thumb": "files/19394160b_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394160c.jpg",
+                        
+                        "thumb": "files/19394160c_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394160d.jpg",
+                        
+                        "thumb": "files/19394160d_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394160e.jpg",
+                        
+                        "thumb": "files/19394160e_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394160f.jpg",
+                        
+                        "thumb": "files/19394160f_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394161",
+            "hotspot_image": "files/19394161_hotspot.png",
+            "type": "cabinet",
+            "x": 216,
+            "y": 845,
+            "content": {
+                "accession": "1939-41-61a, b",
+                "title": "Vase",
+                "description": "This vase, along with much of the porcelain in this room, was made at the famous Sèvres (formerly Vincennes) porcelain factory. The manufactory, purchased by French King Louis XV in 1759, produced some of the finest porcelain in Europe during the second half of the 1700s. <br /><br /> The distinctive style developed by Sèvres in the 1750s included brightly colored background colors, exquisite painted scenes, and lavish embellishments in gold. Because of a privilege granted by the king in 1745, the Sèvres factory was the only one in France permitted to decorate its porcelain with figures. <br /><br /> This vase’s turquoise blue <em>(bleu celeste)</em> ground color, only the second introduced at the factory, proved to be its most successful. First created for a dinner and dessert service made for Louis XV in the early 1750s (image 2), <em>bleu celeste</em> appeared on a variety of pieces produced during the latter half of the century. <br /><br /> Charles-Nicolas Dodin, considered one of the most skillful painters at Sèvres, decorated this vase with a scene drawn by François Boucher, a French painter, engraver, and designer (image 3). It depicts an elderly man reading the fortune of a young shepherdess, a book at his feet displaying the astrological symbol of a crescent moon and accompanied by three younger figures who frolic and flirt. Boucher’s work embodied the spirit of the times and had an unparalleled impact on the decorative arts of the 1700s. <br /><br /> 1764<br /> Soft-paste porcelain with enamel and gilt decoration <br /><br /> Model probably made by <strong>Jean-Claude Duplessis, Sr.</strong>, French, born c. 1695, died 1774 <br /><br /> Made by the <strong>Sèvres porcelain factory</strong>, Sèvres, France, 1756–present <br /><br /> Decorated by <strong>Charles-Nicolas Dodin</strong>, French, born 1734, died 1803 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-61",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "360",
+                    "files": {
+                        "large": "files/19394161a_0.jpg",
+                        "steps": [
+                            "files/19394161a_0.jpg",
+                            "files/19394161a_1.jpg",
+                            "files/19394161a_2.jpg",
+                            "files/19394161a_3.jpg",
+                            "files/19394161a_4.jpg",
+                            "files/19394161a_5.jpg",
+                            "files/19394161a_6.jpg",
+                            "files/19394161a_7.jpg",
+                            "files/19394161a_8.jpg",
+                            "files/19394161a_9.jpg",
+                            "files/19394161a_10.jpg",
+                            "files/19394161a_11.jpg",
+                            "files/19394161a_12.jpg",
+                            "files/19394161a_13.jpg",
+                            "files/19394161a_14.jpg",
+                            "files/19394161a_15.jpg",
+                            "files/19394161a_16.jpg",
+                            "files/19394161a_17.jpg",
+                            "files/19394161a_18.jpg",
+                            "files/19394161a_19.jpg"
+                        ],
+                        "thumb": "files/19394161a_thumb.jpg"
+                    }
+                },{
+                    "caption": "Wine Bottle Cooler, 1753, Vincennes porcelain factory, soft-paste porcelain. From a dinner service ordered by Louis XV. Collection Metropolitan Museum of Art, New York",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394161c.jpg",
+                        
+                        "thumb": "files/19394161c_thumb.jpg"
+                    }
+                },{
+                    "caption": "The Fortune Teller, 1738, by Pierre Aveline, based on a drawing by François Boucher, engraving",
+                    "weight": 0,
+                    "type": "context",
+                    "files": {
+                        "large": "files/19394161b.jpg",
+                        
+                        "thumb": "files/19394161b_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "1939418",
+            "hotspot_image": "files/",
+            "type": "secondary",
+            
+            
+            "content": {
+                "accession": "1939-41-8",
+                "title": "Writing Table",
+                "description": "This writing table was delivered to Marie Antoinette (Queen of France 1774–93) on December 31, 1783, for use at the royal château of Marly, near Versailles. Cabinetmaker Jean-Henri Riesener, a favorite of the queen, created several versions of the table, including the one on display at the other end of this wall that he made for Princess Élisabeth, the youngest sister of Louis XVI. The central scrollwork panels on the top of both tables were likely added at the time of the French Revolution (1787–99), perhaps to replace decorative elements that referenced the royal family. <br /><br /> 1783<br /> Oak with mahogany, sycamore, satinwood, boxwood, ebony, and other wood veneers; gilded bronze mounts <br /><br /> Made by <strong>Jean-Henri Riesener</strong>, German (active Paris), born 1734, died 1806 <br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-8",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939418a.jpg",
+                        
+                        "thumb": "files/1939418a_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939418b.jpg",
+                        
+                        "thumb": "files/1939418b_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "1939419",
+            "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
+            "type": "primary",
+            
+            
+            "content": {
+                "accession": "",
+                "title": "Writing Table",
+                "description": "Jean-Henri Riesener delivered this exquisite writing table to the Versailles apartment of Princess Élisabeth, the youngest sister of King Louis XVI, on December 31, 1785 (image 2). ​<br /><br /> Riesener made numerous versions of the table, including another in the Museum’s collection—on view at the other end of this wall—that he created for Queen Marie Antoinette. Perhaps as a reflection of the cabinetmaker’s fondness for the model, a similar table appears in a portrait of him painted by Antoine Vestier in 1786 (image 3). ​​<br /><br /> Small, portable tables proliferated in the 1700s, easily moved from one room to another, from the light of a window to the warmth of a fire. They were generally intended for women and were suited to a variety of purposes (image 4). ​​<br /><br /> One such purpose was letter writing, a fashionable pastime among French upper-class women during the 1700s. Letters, either in the possession of young women or discreetly exchanged between presumed lovers, often appear in paintings of the time as suggestions of sexual intrigue (image 5). ​​<br /><br /> 1783​<br /> Oak with mahogany, satinwood, purplewood, and other wood veneers; gilded bronze mounts ​​<br /><br /> Made by <strong>Jean-Henri Riesener</strong>, German (active Paris), born 1734, died 1806 ​​<br /><br /> Bequest of Eleanore Elkins Rice, 1939-41-9",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+                    
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939419a.jpg",
+                        
+                        "thumb": "files/1939419a_thumb.jpg"
+                    }
+                },{
+                    "caption": "Portrait of Madame Elizabeth, Adelaide Labille-Guiard, 1788, Versailles, from the web",
+                    "weight": 1,
+                    "type": "context",
+                    "files": {
+                        "large": "files/1939419b.png",
+                        
+                        "thumb": "files/1939419b_thumb.jpg"
+                    }
+                },{
+                    "caption": "<strong>Portrait of Jean-Henri Riesener</strong> (1734–1806), 1786, by Antoine Vestier, oil on canvas. Collection Château de Versailles",
+                    "weight": 1,
+                    "type": "context",
+                    "files": {
+                        "large": "files/1939419d.jpg",
+                        
+                        "thumb": "files/1939419d_thumb.jpg"
+                    }
+                },{
+                    "caption": "Conversation at Drottningholm Castle, 1779, by Pehr Hilleström, oil on canvas. Collection Nationalmuseum, Stockholm",
+                    "weight": 2,
+                    "type": "context",
+                    "files": {
+                        "large": "files/1939419f.jpg",
+                        
+                        "thumb": "files/1939419f_thumb.jpg"
+                    }
+                },{
+                    "caption": "The Beloved Portrait, c. 1783, by Jean-Frédéric Schall, oil on panel. Private Collection",
+                    "weight": 2,
+                    "type": "context",
+                    "files": {
+                        "large": "files/1939419e.jpg",
+                        
+                        "thumb": "files/1939419e_thumb.jpg"
+                    }
+                },{
+                    
+                    "weight": 2,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939419c.jpg",
+                        
+                        "thumb": "files/1939419c_thumb.jpg"
+                    }
+                }
+            ]
+        }
+    ],
+    "drawers": [
+        {
+            "id": "drawer-left",
+            "points": [
+                
+            ],
+            "objects": [
+                19394141,19394142,19394143,19394145,19394146,19394148,19394144
+            ]
+        },{
+            "id": "drawer-right",
+            "points": [
+                
+            ],
+            "objects": [
+                19394150,19394151,19394152,19394156,19394159,19394160,19394155,19394158,19394161
+            ]
+        }
+    ]
+}

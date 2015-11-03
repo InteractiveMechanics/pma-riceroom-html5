@@ -6,8 +6,6 @@ dist
 .sass-cache
 .DS_Store
 
-jekyll-data/build/*
-
 files/howtheroomcametogether.mp4
 files/eleanorrice.mp4
 files/thegildedage.mp4
