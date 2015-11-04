@@ -45,28 +45,28 @@ images:
 
   - weight:         0
     type:           "context"
-    caption:        "View of the Sèvres Porcelain Factory, by Constant Troyon. Collection Sèvres, archives de la manufacture"
+    caption:        "*View of the Sèvres Porcelain Factory*, by Constant Troyon. Collection Sèvres, archives de la manufacture"
     files:
       - thumb:      "19394139g_thumb.jpg"
         large:      "19394139g.jpg"
 
   - weight:         0
     type:           "context"
-    caption:        "Gathering for the Hunt, 1726, by Carel van Falens, oil on canvas. Collection Musée de Louvre, Paris"
+    caption:        "*Gathering for the Hunt*, 1726, by Carel van Falens, oil on canvas. Collection Musée de Louvre, Paris"
     files:
       - thumb:      "19394139e_thumb.jpg"
         large:      "19394139e.jpg"
 
   - weight:         0
     type:           "context"
-    caption:        "A Lady Fastening Her Garter (detail), 1742, by François Boucher, oil on canvas. Collection Museo Thyssen-Bornemisza, Madrid"
+    caption:        "*A Lady Fastening Her Garter* (detail), 1742, by François Boucher, oil on canvas. Collection Museo Thyssen-Bornemisza, Madrid"
     files:
       - thumb:      "19394139f_thumb.jpg"
         large:      "19394139f.jpg"
 
   - weight:         0
     type:           "context"
-    caption:        "Potpourri Vase with Figure Group, c. 1750–60, Mennecy porcelain factory, soft-paste porcelain. Collection Philadelphia Museum of Art"
+    caption:        "*Potpourri Vase with Figure Group*, c. 1750–60, Mennecy porcelain factory, soft-paste porcelain. Collection Philadelphia Museum of Art"
     files:
       - thumb:      "19394139d_thumb.jpg"
         large:      "19394139d.jpg"

@@ -43,28 +43,28 @@ images:
 
   - weight:         1
     type:           "context"
-    caption:        "Portrait of Madame Elizabeth, Adelaide Labille-Guiard, 1788, Versailles, from the web"
+    caption:        "*Portrait of Madame Elisabeth (1764-1794)*, 1788, by Adelaide Labille-Guiard, oil on canvas. Collection Chateau de Versailles"
     files:
       - large:      "1939419b.png"
         thumb:      "1939419b_thumb.jpg"
 
   - weight:         1
     type:           "context"
-    caption:        "**Portrait of Jean-Henri Riesener** (1734–1806), 1786, by Antoine Vestier, oil on canvas. Collection Château de Versailles"
+    caption:        "*Portrait of Jean-Henri Riesener (1734–1806)*, 1786, by Antoine Vestier, oil on canvas. Collection Château de Versailles"
     files:
       - large:      "1939419d.jpg"
         thumb:      "1939419d_thumb.jpg"
 
   - weight:         2
     type:           "context"
-    caption:        "Conversation at Drottningholm Castle, 1779, by Pehr Hilleström, oil on canvas. Collection Nationalmuseum, Stockholm"
+    caption:        "*Conversation at Drottningholm Castle*, 1779, by Pehr Hilleström, oil on canvas. Collection Nationalmuseum, Stockholm"
     files:
       - thumb:      "1939419f_thumb.jpg"
         large:      "1939419f.jpg"
 
   - weight:         2
     type:           "context"
-    caption:        "The Beloved Portrait, c. 1783, by Jean-Frédéric Schall, oil on panel. Private Collection"
+    caption:        "*The Beloved Portrait*, c. 1783, by Jean-Frédéric Schall, oil on panel. Private Collection"
     files:
       - thumb:      "1939419e_thumb.jpg"
         large:      "1939419e.jpg"

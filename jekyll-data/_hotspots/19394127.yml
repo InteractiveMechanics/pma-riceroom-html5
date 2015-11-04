@@ -47,21 +47,21 @@ images:
 
   - weight:         0
     type:           "context"
-    caption:        "Portrait of Louis XIV, 1701, by Hyacinthe Rigaud, oil on canvas. Collection Musée du Louvre, Paris"
+    caption:        "*Portrait of Louis XIV*, 1701, by Hyacinthe Rigaud, oil on canvas. Collection Musée du Louvre, Paris"
     files:
       - thumb:      "19394127b_thumb.jpg"
         large:      "19394127b.jpg"
 
   - weight:         0
     type:           "context"
-    caption:        "Map of Paris (detail) as it appeared in the 1730s, from Michel-Étienne Turgot’s Plan de Paris: commencé de l’année (1739), engraving with etching"
+    caption:        "Map of Paris (detail) as it appeared in the 1730s, from Michel-Étienne Turgot’s *Plan de Paris: commencé de l’année* (1739), engraving with etching"
     files:
       - thumb:      "19394127c_thumb.jpg"
         large:      "19394127c.jpg"
 
   - weight:         0
     type:           "context"
-    caption:        "Two men working at a carpet loom, from Denis Diderot’s Encyclopédie, ou, Dictionnaire raisonné des sciences, des arts et des métiers (Paris, 1751–80), engraving"
+    caption:        "Two men working at a carpet loom, from Denis Diderot’s *Encyclopédie, ou, Dictionnaire raisonné des sciences, des arts et des métiers* (Paris, 1751–80), engraving"
     files:
       - thumb:      "19394127d_thumb.jpg"
         large:      "19394127d.jpg"

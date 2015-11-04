@@ -41,14 +41,14 @@ images:
 
   - weight:         0
     type:           "context"
-    caption:        "Portrait of Mesdames Victoire and Adélaïde, from a snuff box, 1767, by J. J. Dailly, gold with painted enamel decoration. Collection Walters Art Museum, Baltimore"
+    caption:        "*Portrait of Mesdames Victoire and Adélaïde*, from a snuff box, 1767, by J. J. Dailly, gold with painted enamel decoration. Collection Walters Art Museum, Baltimore"
     files:
       - thumb:      "19394128c_thumb.jpg"
         large:      "19394128c.jpg"
 
   - weight:         0
     type:           "context"
-    caption:        "Another View of the Château de Bellevue, c. 1750, by Jacques Rigaud, engraving"
+    caption:        "*Another View of the Château de Bellevue*, c. 1750, by Jacques Rigaud, engraving"
     files:
       - thumb:      "19394128d_thumb.jpg"
         large:      "19394128d.jpg"
@@ -62,7 +62,7 @@ images:
 
   - weight:         0
     type:           "context"
-    caption:        "After the Ball, 1735, by Jean-François de Troy, oil on canvas. Private Collection"
+    caption:        "*After the Ball*, 1735, by Jean-François de Troy, oil on canvas. Private Collection"
     files:
       - thumb:      "19394128f_thumb.jpg"
         large:      "19394128f.jpg"

@@ -43,14 +43,14 @@ images:
 
   - weight:         0
     type:           "context"
-    caption:        "Evening Banquet, 1640, by Wolfgang Heimbach, oil on canvas. Collection Kunsthistorisches Museum, Vienna"
+    caption:        "*Evening Banquet*, 1640, by Wolfgang Heimbach, oil on canvas. Collection Kunsthistorisches Museum, Vienna"
     files:
       - thumb:      "19394130db_thumb.jpg"
         large:      "19394130db.jpg"
 
   - weight:         0
     type:           "context"
-    caption:        "Fifth tapestry from the set: The Riches (Psyche Displaying Her Treasures to Her Sisters), 1741–42, designed by François Boucher, woven by the Beauvais tapestry factory, wool and silk. Collection Philadelphia Museum of Art"
+    caption:        "*Fifth tapestry* from the set: *The Riches (Psyche Displaying Her Treasures to Her Sisters)*, 1741–42, designed by François Boucher, woven by the Beauvais tapestry factory, wool and silk. Collection Philadelphia Museum of Art"
     files:
       - thumb:      "19394130dc_thumb.jpg"
         large:      "19394130dc.jpg"

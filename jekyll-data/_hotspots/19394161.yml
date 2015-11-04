@@ -70,7 +70,7 @@ images:
 
   - weight:         0
     type:           "context"
-    caption:        "The Fortune Teller, 1738, by Pierre Aveline, based on a drawing by François Boucher, engraving"
+    caption:        "*The Fortune Teller*, 1738, by Pierre Aveline, based on a drawing by François Boucher, engraving"
     files:
       - thumb:      "19394161b_thumb.jpg"
         large:      "19394161b.jpg"
