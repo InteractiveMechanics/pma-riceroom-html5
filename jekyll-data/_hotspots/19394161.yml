@@ -63,7 +63,7 @@ images:
 
   - weight:         0
     type:           "context"
-    caption:        "Wine Bottle Cooler, 1753, Vincennes porcelain factory, soft-paste porcelain. From a dinner service ordered by Louis XV. Collection Metropolitan Museum of Art, New York"
+    caption:        "Wine Bottle Coolers, 1753, Vincennes porcelain factory, soft-paste porcelain. From a dinner service ordered by Louis XV. Collection Metropolitan Museum of Art, NY"
     files:
       - thumb:      "19394161c_thumb.jpg"
         large:      "19394161c.jpg"
