@@ -32,7 +32,7 @@
                 "thumb": "files/thegildedage_thumb.jpg"
             }
         },{
-            "title": "How the Room Got Here",
+            "title": "The Room: A History",
             "files": {
                 "source": "files/howtheroomcametogether.mp4",
                 "poster": "files/howtheroomcametogether_poster.jpg",
@@ -107,7 +107,7 @@
                         "thumb": "files/19394110a_thumb.jpg"
                     }
                 },{
-                    "caption": "Writing Desk, c. 1777–80, by Martin Carlin, plaques by Sèvres porcelain factory, oak with satinwood, tulipwood, and mahogany veneers; gilded bronze mounts; soft-paste porcelain plaques with enamel and gilt decoration. Collection Philadelphia Museum of Art",
+                    "caption": "<em>Writing Desk</em>, c. 1777–80, by Martin Carlin, plaques by Sèvres porcelain factory, oak with satinwood, tulipwood, and mahogany veneers; gilded bronze mounts; soft-paste porcelain plaques with enamel and gilt decoration. Collection Philadelphia Museum of Art",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -163,7 +163,7 @@
                         "thumb": "files/19394110a_thumb.jpg"
                     }
                 },{
-                    "caption": "Writing Desk, c. 1777–80, by Martin Carlin, plaques by Sèvres porcelain factory, oak with satinwood, tulipwood, and mahogany veneers; gilded bronze mounts; soft-paste porcelain plaques with enamel and gilt decoration. Collection Philadelphia Museum of Art",
+                    "caption": "<em>Writing Desk</em>, c. 1777–80, by Martin Carlin, plaques by Sèvres porcelain factory, oak with satinwood, tulipwood, and mahogany veneers; gilded bronze mounts; soft-paste porcelain plaques with enamel and gilt decoration. Collection Philadelphia Museum of Art",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -1467,7 +1467,7 @@
                         "thumb": "files/19394127a_thumb.jpg"
                     }
                 },{
-                    "caption": "Portrait of Louis XIV, 1701, by Hyacinthe Rigaud, oil on canvas. Collection Musée du Louvre, Paris",
+                    "caption": "<em>Portrait of Louis XIV</em>, 1701, by Hyacinthe Rigaud, oil on canvas. Collection Musée du Louvre, Paris",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -1476,7 +1476,7 @@
                         "thumb": "files/19394127b_thumb.jpg"
                     }
                 },{
-                    "caption": "Map of Paris (detail) as it appeared in the 1730s, from Michel-Étienne Turgot’s Plan de Paris: commencé de l’année (1739), engraving with etching",
+                    "caption": "Map of Paris (detail) as it appeared in the 1730s, from Michel-Étienne Turgot’s <em>Plan de Paris: commencé de l’année</em> (1739), engraving with etching",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -1485,7 +1485,7 @@
                         "thumb": "files/19394127c_thumb.jpg"
                     }
                 },{
-                    "caption": "Two men working at a carpet loom, from Denis Diderot’s Encyclopédie, ou, Dictionnaire raisonné des sciences, des arts et des métiers (Paris, 1751–80), engraving",
+                    "caption": "Two men working at a carpet loom, from Denis Diderot’s <em>Encyclopédie, ou, Dictionnaire raisonné des sciences, des arts et des métiers</em> (Paris, 1751–80), engraving",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -1532,7 +1532,7 @@
                         "thumb": "files/19394128a_thumb.jpg"
                     }
                 },{
-                    "caption": "Portrait of Mesdames Victoire and Adélaïde, from a snuff box, 1767, by J. J. Dailly, gold with painted enamel decoration. Collection Walters Art Museum, Baltimore",
+                    "caption": "<em>Portrait of Mesdames Victoire and Adélaïde</em>, from a snuff box, 1767, by J. J. Dailly, gold with painted enamel decoration. Collection Walters Art Museum, Baltimore",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -1541,7 +1541,7 @@
                         "thumb": "files/19394128c_thumb.jpg"
                     }
                 },{
-                    "caption": "Another View of the Château de Bellevue, c. 1750, by Jacques Rigaud, engraving",
+                    "caption": "<em>Another View of the Château de Bellevue</em>, c. 1750, by Jacques Rigaud, engraving",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -1559,7 +1559,7 @@
                         "thumb": "files/19394128e_thumb.jpg"
                     }
                 },{
-                    "caption": "After the Ball, 1735, by Jean-François de Troy, oil on canvas. Private Collection",
+                    "caption": "<em>After the Ball</em>, 1735, by Jean-François de Troy, oil on canvas. Private Collection",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -1738,7 +1738,7 @@
                         "thumb": "files/19394130aa_thumb.jpg"
                     }
                 },{
-                    "caption": "Evening Banquet, 1640, by Wolfgang Heimbach, oil on canvas. Collection Kunsthistorisches Museum, Vienna",
+                    "caption": "<em>Evening Banquet</em>, 1640, by Wolfgang Heimbach, oil on canvas. Collection Kunsthistorisches Museum, Vienna",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -1747,7 +1747,7 @@
                         "thumb": "files/19394130db_thumb.jpg"
                     }
                 },{
-                    "caption": "Fifth tapestry from the set: The Riches (Psyche Displaying Her Treasures to Her Sisters), 1741–42, designed by François Boucher, woven by the Beauvais tapestry factory, wool and silk. Collection Philadelphia Museum of Art",
+                    "caption": "<em>Fifth tapestry</em> from the set: <em>The Riches (Psyche Displaying Her Treasures to Her Sisters)</em>, 1741–42, designed by François Boucher, woven by the Beauvais tapestry factory, wool and silk. Collection Philadelphia Museum of Art",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -1785,7 +1785,7 @@
                         "thumb": "files/19394130ba_thumb.jpg"
                     }
                 },{
-                    "caption": "Evening Banquet, 1640, by Wolfgang Heimbach, oil on canvas. Collection Kunsthistorisches Museum, Vienna",
+                    "caption": "<em>Evening Banquet</em>, 1640, by Wolfgang Heimbach, oil on canvas. Collection Kunsthistorisches Museum, Vienna",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -1794,7 +1794,7 @@
                         "thumb": "files/19394130db_thumb.jpg"
                     }
                 },{
-                    "caption": "Fifth tapestry from the set: The Riches (Psyche Displaying Her Treasures to Her Sisters), 1741–42, designed by François Boucher, woven by the Beauvais tapestry factory, wool and silk. Collection Philadelphia Museum of Art",
+                    "caption": "<em>Fifth tapestry</em> from the set: <em>The Riches (Psyche Displaying Her Treasures to Her Sisters)</em>, 1741–42, designed by François Boucher, woven by the Beauvais tapestry factory, wool and silk. Collection Philadelphia Museum of Art",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -1832,7 +1832,7 @@
                         "thumb": "files/19394130ca_thumb.jpg"
                     }
                 },{
-                    "caption": "Evening Banquet, 1640, by Wolfgang Heimbach, oil on canvas. Collection Kunsthistorisches Museum, Vienna",
+                    "caption": "<em>Evening Banquet</em>, 1640, by Wolfgang Heimbach, oil on canvas. Collection Kunsthistorisches Museum, Vienna",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -1841,7 +1841,7 @@
                         "thumb": "files/19394130db_thumb.jpg"
                     }
                 },{
-                    "caption": "Fifth tapestry from the set: The Riches (Psyche Displaying Her Treasures to Her Sisters), 1741–42, designed by François Boucher, woven by the Beauvais tapestry factory, wool and silk. Collection Philadelphia Museum of Art",
+                    "caption": "<em>Fifth tapestry</em> from the set: <em>The Riches (Psyche Displaying Her Treasures to Her Sisters)</em>, 1741–42, designed by François Boucher, woven by the Beauvais tapestry factory, wool and silk. Collection Philadelphia Museum of Art",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -1879,7 +1879,7 @@
                         "thumb": "files/19394130da_thumb.jpg"
                     }
                 },{
-                    "caption": "Evening Banquet, 1640, by Wolfgang Heimbach, oil on canvas. Collection Kunsthistorisches Museum, Vienna",
+                    "caption": "<em>Evening Banquet</em>, 1640, by Wolfgang Heimbach, oil on canvas. Collection Kunsthistorisches Museum, Vienna",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -1888,7 +1888,7 @@
                         "thumb": "files/19394130db_thumb.jpg"
                     }
                 },{
-                    "caption": "Fifth tapestry from the set: The Riches (Psyche Displaying Her Treasures to Her Sisters), 1741–42, designed by François Boucher, woven by the Beauvais tapestry factory, wool and silk. Collection Philadelphia Museum of Art",
+                    "caption": "<em>Fifth tapestry</em> from the set: <em>The Riches (Psyche Displaying Her Treasures to Her Sisters)</em>, 1741–42, designed by François Boucher, woven by the Beauvais tapestry factory, wool and silk. Collection Philadelphia Museum of Art",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -2405,7 +2405,7 @@
                         "thumb": "files/19394139a_thumb.jpg"
                     }
                 },{
-                    "caption": "View of the Sèvres Porcelain Factory, by Constant Troyon. Collection Sèvres, archives de la manufacture",
+                    "caption": "<em>View of the Sèvres Porcelain Factory</em>, by Constant Troyon. Collection Sèvres, archives de la manufacture",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -2414,7 +2414,7 @@
                         "thumb": "files/19394139g_thumb.jpg"
                     }
                 },{
-                    "caption": "Gathering for the Hunt, 1726, by Carel van Falens, oil on canvas. Collection Musée de Louvre, Paris",
+                    "caption": "<em>Gathering for the Hunt</em>, 1726, by Carel van Falens, oil on canvas. Collection Musée de Louvre, Paris",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -2423,7 +2423,7 @@
                         "thumb": "files/19394139e_thumb.jpg"
                     }
                 },{
-                    "caption": "A Lady Fastening Her Garter (detail), 1742, by François Boucher, oil on canvas. Collection Museo Thyssen-Bornemisza, Madrid",
+                    "caption": "<em>A Lady Fastening Her Garter</em> (detail), 1742, by François Boucher, oil on canvas. Collection Museo Thyssen-Bornemisza, Madrid",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -2432,7 +2432,7 @@
                         "thumb": "files/19394139f_thumb.jpg"
                     }
                 },{
-                    "caption": "Potpourri Vase with Figure Group, c. 1750–60, Mennecy porcelain factory, soft-paste porcelain. Collection Philadelphia Museum of Art",
+                    "caption": "<em>Potpourri Vase with Figure Group</em>, c. 1750–60, Mennecy porcelain factory, soft-paste porcelain. Collection Philadelphia Museum of Art",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -2488,7 +2488,7 @@
                         "thumb": "files/19394139a_thumb.jpg"
                     }
                 },{
-                    "caption": "View of the Sèvres Porcelain Factory, by Constant Troyon. Collection Sèvres, archives de la manufacture",
+                    "caption": "<em>View of the Sèvres Porcelain Factory</em>, by Constant Troyon. Collection Sèvres, archives de la manufacture",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -2497,7 +2497,7 @@
                         "thumb": "files/19394139g_thumb.jpg"
                     }
                 },{
-                    "caption": "Gathering for the Hunt, 1726, by Carel van Falens, oil on canvas. Collection Musée de Louvre, Paris",
+                    "caption": "<em>Gathering for the Hunt</em>, 1726, by Carel van Falens, oil on canvas. Collection Musée de Louvre, Paris",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -2506,7 +2506,7 @@
                         "thumb": "files/19394139e_thumb.jpg"
                     }
                 },{
-                    "caption": "A Lady Fastening Her Garter (detail), 1742, by François Boucher, oil on canvas. Collection Museo Thyssen-Bornemisza, Madrid",
+                    "caption": "<em>A Lady Fastening Her Garter</em> (detail), 1742, by François Boucher, oil on canvas. Collection Museo Thyssen-Bornemisza, Madrid",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -2515,7 +2515,7 @@
                         "thumb": "files/19394139f_thumb.jpg"
                     }
                 },{
-                    "caption": "Potpourri Vase with Figure Group, c. 1750–60, Mennecy porcelain factory, soft-paste porcelain. Collection Philadelphia Museum of Art",
+                    "caption": "<em>Potpourri Vase with Figure Group</em>, c. 1750–60, Mennecy porcelain factory, soft-paste porcelain. Collection Philadelphia Museum of Art",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -3600,7 +3600,7 @@
                         "thumb": "files/19394161a_thumb.jpg"
                     }
                 },{
-                    "caption": "Wine Bottle Cooler, 1753, Vincennes porcelain factory, soft-paste porcelain. From a dinner service ordered by Louis XV. Collection Metropolitan Museum of Art, New York",
+                    "caption": "Wine Bottle Coolers, 1753, Vincennes porcelain factory, soft-paste porcelain. From a dinner service ordered by Louis XV. Collection Metropolitan Museum of Art, NY",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -3609,7 +3609,7 @@
                         "thumb": "files/19394161c_thumb.jpg"
                     }
                 },{
-                    "caption": "The Fortune Teller, 1738, by Pierre Aveline, based on a drawing by François Boucher, engraving",
+                    "caption": "<em>The Fortune Teller</em>, 1738, by Pierre Aveline, based on a drawing by François Boucher, engraving",
                     "weight": 0,
                     "type": "context",
                     "files": {
@@ -3685,7 +3685,7 @@
                         "thumb": "files/1939419a_thumb.jpg"
                     }
                 },{
-                    "caption": "Portrait of Madame Elizabeth, Adelaide Labille-Guiard, 1788, Versailles, from the web",
+                    "caption": "<em>Portrait of Madame Elisabeth (1764-1794)</em>, 1788, by Adelaide Labille-Guiard, oil on canvas. Collection Chateau de Versailles",
                     "weight": 1,
                     "type": "context",
                     "files": {
@@ -3694,7 +3694,7 @@
                         "thumb": "files/1939419b_thumb.jpg"
                     }
                 },{
-                    "caption": "<strong>Portrait of Jean-Henri Riesener</strong> (1734–1806), 1786, by Antoine Vestier, oil on canvas. Collection Château de Versailles",
+                    "caption": "<em>Portrait of Jean-Henri Riesener (1734–1806)</em>, 1786, by Antoine Vestier, oil on canvas. Collection Château de Versailles",
                     "weight": 1,
                     "type": "context",
                     "files": {
@@ -3703,7 +3703,7 @@
                         "thumb": "files/1939419d_thumb.jpg"
                     }
                 },{
-                    "caption": "Conversation at Drottningholm Castle, 1779, by Pehr Hilleström, oil on canvas. Collection Nationalmuseum, Stockholm",
+                    "caption": "<em>Conversation at Drottningholm Castle</em>, 1779, by Pehr Hilleström, oil on canvas. Collection Nationalmuseum, Stockholm",
                     "weight": 2,
                     "type": "context",
                     "files": {
@@ -3712,7 +3712,7 @@
                         "thumb": "files/1939419f_thumb.jpg"
                     }
                 },{
-                    "caption": "The Beloved Portrait, c. 1783, by Jean-Frédéric Schall, oil on panel. Private Collection",
+                    "caption": "<em>The Beloved Portrait</em>, c. 1783, by Jean-Frédéric Schall, oil on panel. Private Collection",
                     "weight": 2,
                     "type": "context",
                     "files": {
