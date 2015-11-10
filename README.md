@@ -14,3 +14,21 @@
 
 ### Missing files
 Due to the large size of some of the files in this project, any file over 50MB should not be stored in the repo. This includes all video files or large images (like high-density TIFFs).
+
+### Kiosk Configuration
+
+* GAL009 *North, Right* (192.168.51.179) & GAL010 *South, Left* (192.168.51.180)
+
+- [ ] Install VNC & license
+- [ ] Configure Firewall for VNC (automatically done at installation)
+- [ ] Install keylock SW & license key
+- [ ] Configure BIOS wake up time: 9 AM every day
+- [ ] Configure power on after power loss ON
+- [ ] Add scheduled task for shutdown (5PM on Mon, Tues, Thurs, Sat, Sun) (11PM every day)
+- [ ] Disable all Windows updates
+- [ ] Disable screensaver
+- [ ] Configure static IP
+- [ ] Remove any public wifi and make sure kiosk is on employee wifi
+- [ ] Change UAC to lowest mode
+- [ ] set chrome homepage to local destination
+- [ ] Configure keylock SW
