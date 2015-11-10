@@ -707,4 +707,5 @@
         atv="-12" />
 
     <events onviewchanged="js( Utilities.resetTimeout() );" />
+    <contextmenu fullscreen="false" versioninfo="false" touch="false" />
 </krpano>

@@ -75,4 +75,5 @@ layout: null
         atv="{{ drawer.positions[0].points[0].atv }}" />{% endfor%}
 
     <events onviewchanged="js( Utilities.resetTimeout() );" />
+    <contextmenu fullscreen="false" versioninfo="false" touch="false" />
 </krpano>
