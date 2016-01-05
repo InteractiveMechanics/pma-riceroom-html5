@@ -19,7 +19,7 @@ context:
     credit:         ""
     medium:         ""
     url:            ""
-    description:    "These wall lights are two of eight delivered in August 1784 to Mesdames Victoire, Adélaïde, and Sophie, the elderly spinster aunts of Louis XVI (image 2). They were made for the Grand Salon of the château at Bellevue. Located between Paris and Versailles, the château was originally built in 1748 by Louis XV for his mistress, Madame de Pompadour. After Pompadour’s death in 1764 Louis XV sold the château to his sisters (image 3).
+    description:    "These wall lights are two of eight delivered in August 1784 to Mesdames Victoire, Adélaïde, and Sophie, the elderly spinster aunts of King Louis XVI (image 2). They were made for the Grand Salon of the château at Bellevue. Located between Paris and Versailles, the château was originally built in 1748 by King Louis XV for his mistress, Madame de Pompadour. After Pompadour’s death in 1764 Louis XV sold the château to his sisters (image 3).
 <br><br>
 These lights were among numerous furnishings supplied to the sisters by the Parisian dealers Darnault, Frères. The dealers commissioned Feuchère to produce these gilded bronzes and contracted with cabinetmaker Martin Carlin to create the furniture—all of the highest quality and latest fashion. Ten of the Carlin pieces are today in the Louvre Museum in Paris (image 4).
 <br><br>
@@ -41,28 +41,28 @@ images:
 
   - weight:         0
     type:           "context"
-    caption:        "*Portrait of Mesdames Victoire and Adélaïde*, from a snuff box, 1767, by J. J. Dailly, gold with painted enamel decoration. Collection Walters Art Museum, Baltimore"
+    caption:        "*Portrait of Mesdames Victoire and Adélaïde*, from a snuff box, 1767, by J. J. Dailly"
     files:
       - thumb:      "19394128c_thumb.jpg"
         large:      "19394128c.jpg"
 
   - weight:         0
     type:           "context"
-    caption:        "*Another View of the Château de Bellevue*, c. 1750, by Jacques Rigaud, engraving"
+    caption:        "*Château de Bellevue*, c. 1750, by Jacques Rigaud"
     files:
       - thumb:      "19394128d_thumb.jpg"
         large:      "19394128d.jpg"
 
   - weight:         0
     type:           "context"
-    caption:        "Cabinet, c. 1785, by Martin Carlin, ebony with Japanese lacquer panels and gilded bronze mounts. Collection Musée du Louvre, Paris"
+    caption:        "Cabinet, c. 1785, by Martin Carlin"
     files:
       - thumb:      "19394128e_thumb.jpg"
         large:      "19394128e.jpg"
 
   - weight:         0
     type:           "context"
-    caption:        "*After the Ball*, 1735, by Jean-François de Troy, oil on canvas. Private Collection"
+    caption:        "*After the Ball*, 1735, by Jean-François de Troy"
     files:
       - thumb:      "19394128f_thumb.jpg"
         large:      "19394128f.jpg"

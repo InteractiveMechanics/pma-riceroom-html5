@@ -30,7 +30,7 @@ context:
     credit:         ""
     medium:         ""
     url:            ""
-    description:    "This writing table was delivered to Marie Antoinette (Queen of France 1774–93) on December 31, 1783, for use at the royal château of Marly, near Versailles. Cabinetmaker Jean-Henri Riesener, a favorite of the queen, created several versions of the table, including the one on display at the other end of this wall that he made for Princess Élisabeth, the youngest sister of Louis XVI. The central scrollwork panels on the top of both tables were likely added at the time of the French Revolution (1787–99), perhaps to replace decorative elements that referenced the royal family.
+    description:    "This writing table was delivered to Marie Antoinette (queen of France 1774–93) (image 2) on December 31, 1783, for use at the royal château of Marly, near Versailles. Cabinetmaker Jean-Henri Riesener, a favorite of the queen, created several versions of the table, including the one on display at the other end of this wall that he made for Princess Élisabeth, the youngest sister of King Louis XVI. The central scrollwork panels on the top of both tables were likely added at the time of the French Revolution (1787–99), perhaps to replace decorative elements that referenced the royal family.
 <br><br>
 1783<br>
 Oak with mahogany, sycamore, satinwood, boxwood, ebony, and other wood veneers; gilded bronze mounts
@@ -46,10 +46,17 @@ images:
       - large:      "1939418a.jpg"
         thumb:      "1939418a_thumb.jpg"
 
-  - weight:         0
+  - weight:         1
     type:           "zoom"
     files:
       - large:      "1939418b.jpg"
         thumb:      "1939418b_thumb.jpg"
+
+  - weight:         2
+    type:           "context"
+    caption:        "*Portrait of Marie Antoinette with Her Children*, 1787, by Elisabeth Louise Vigée Le Brun"
+    files:
+      - thumb:      "1939418e_thumb.jpg"
+        large:      "1939418e.jpg"
 
 ---

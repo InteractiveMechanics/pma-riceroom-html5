@@ -21,7 +21,7 @@ context:
     url:            ""
     description:    "These exquisitely painted and lavishly gilded potpourri vases exemplify the production of the Sèvres porcelain factory, the preeminent European manufacturer of porcelain in the second half of the 1700s (image 2). 
 <br><br>
-The scenes on the front are based on two paintings: *Gathering for the Hunt* and *Departing for the Hunt* by Carel van Falens, a Flemish-born artist who worked in Paris. The use of Van Falens’s pictures reflects not only the popularity of hunting among France’s aristocracy, many of whom were customers of Sèvres, but also the fashion among French collectors for Dutch and Flemish artwork, particularly that of the 1600s (image 3).
+The scenes on the front are based on two paintings: *Gathering for the Hunt* and *Departing for the Hunt* (image 3) by Carel van Falens, a Flemish-born artist who worked in Paris. The use of Van Falens’s pictures reflects not only the popularity of hunting among France’s aristocracy, many of whom were customers of Sèvres, but also the fashion among French collectors for Dutch and Flemish artwork, particularly that of the 1600s.
 <br><br>
 The floral bouquets that decorate the reverse of each vase match the vignettes on the front in detail and intricacy, as they were intended to be visible through reflection. Potpourri vases often stood on chests or tables placed under mirrors (image 4). 
 <br><br>
@@ -45,28 +45,28 @@ images:
 
   - weight:         0
     type:           "context"
-    caption:        "*View of the Sèvres Porcelain Factory*, by Constant Troyon. Collection Sèvres, archives de la manufacture"
+    caption:        "*View of the Sèvres Porcelain Factory*, by Constant Troyon"
     files:
       - thumb:      "19394139g_thumb.jpg"
         large:      "19394139g.jpg"
 
   - weight:         0
     type:           "context"
-    caption:        "*Gathering for the Hunt*, 1726, by Carel van Falens, oil on canvas. Collection Musée de Louvre, Paris"
+    caption:        "*Gathering for the Hunt*, 1726, by Carel van Falens"
     files:
       - thumb:      "19394139e_thumb.jpg"
         large:      "19394139e.jpg"
 
   - weight:         0
     type:           "context"
-    caption:        "*A Lady Fastening Her Garter* (detail), 1742, by François Boucher, oil on canvas. Collection Museo Thyssen-Bornemisza, Madrid"
+    caption:        "*A Lady Fastening Her Garter* (detail), 1742, by François Boucher"
     files:
       - thumb:      "19394139f_thumb.jpg"
         large:      "19394139f.jpg"
 
   - weight:         0
     type:           "context"
-    caption:        "*Potpourri Vase with Figure Group*, c. 1750–60, Mennecy porcelain factory, soft-paste porcelain. Collection Philadelphia Museum of Art"
+    caption:        "*Potpourri Vase*, c. 1750–60, Mennecy porcelain factory"
     files:
       - thumb:      "19394139d_thumb.jpg"
         large:      "19394139d.jpg"

@@ -50,7 +50,7 @@ images:
 
   - weight:         0
     type:           "context"
-    caption:        "*Writing Desk*, c. 1777–80, by Martin Carlin, plaques by Sèvres porcelain factory, oak with satinwood, tulipwood, and mahogany veneers; gilded bronze mounts; soft-paste porcelain plaques with enamel and gilt decoration. Collection Philadelphia Museum of Art"
+    caption:        "*Writing Desk*, c. 1777–80, by Martin Carlin, plaques by Sèvres porcelain factory"
     files:
       - thumb:      "19394110c_thumb.jpg"
         large:      "19394110c.jpg"

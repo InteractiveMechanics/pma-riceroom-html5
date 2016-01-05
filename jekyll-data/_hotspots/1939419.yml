@@ -19,7 +19,7 @@ context:
     credit:         ""
     medium:         ""
     url:            ""
-    description:    "Jean-Henri Riesener delivered this exquisite writing table to the Versailles apartment of Princess Élisabeth, the youngest sister of King Louis XVI, on December 31, 1785 (image 2).
+    description:    "Jean-Henri Riesener delivered this exquisite writing table to the Versailles apartment of Princess Élisabeth (image 2), the youngest sister of King Louis XVI, on December 31, 1785.
 ​<br><br>
 Riesener made numerous versions of the table, including another in the Museum’s collection—on view at the other end of this wall—that he created for Queen Marie Antoinette. Perhaps as a reflection of the cabinetmaker’s fondness for the model, a similar table appears in a portrait of him painted by Antoine Vestier in 1786 (image 3).
 ​​<br><br>
@@ -43,28 +43,28 @@ images:
 
   - weight:         1
     type:           "context"
-    caption:        "*Portrait of Madame Elisabeth (1764-1794)*, 1788, by Adelaide Labille-Guiard, oil on canvas. Collection Chateau de Versailles"
+    caption:        "*Portrait of Madame Elisabeth*, 1788, by Adelaide Labille-Guiard"
     files:
       - large:      "1939419b.png"
         thumb:      "1939419b_thumb.jpg"
 
   - weight:         1
     type:           "context"
-    caption:        "*Portrait of Jean-Henri Riesener (1734–1806)*, 1786, by Antoine Vestier, oil on canvas. Collection Château de Versailles"
+    caption:        "*Portrait of Jean-Henri Riesener*, 1786, by Antoine Vestier"
     files:
       - large:      "1939419d.jpg"
         thumb:      "1939419d_thumb.jpg"
 
   - weight:         2
     type:           "context"
-    caption:        "*Conversation at Drottningholm Castle*, 1779, by Pehr Hilleström, oil on canvas. Collection Nationalmuseum, Stockholm"
+    caption:        "*Conversation at Drottningholm Castle*, 1779, by Pehr Hilleström"
     files:
       - thumb:      "1939419f_thumb.jpg"
         large:      "1939419f.jpg"
 
   - weight:         2
     type:           "context"
-    caption:        "*The Beloved Portrait*, c. 1783, by Jean-Frédéric Schall, oil on panel. Private Collection"
+    caption:        "*The Beloved Portrait*, c. 1783, by Jean-Frédéric Schall"
     files:
       - thumb:      "1939419e_thumb.jpg"
         large:      "1939419e.jpg"
