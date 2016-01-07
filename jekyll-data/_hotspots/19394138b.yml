@@ -3,14 +3,14 @@ id:                 "19394138b"
 type:               "secondary"
 positions:
   - points:
-      - ath:        -1.08
-        atv:        -5.15
-      - ath:        1.9
-        atv:        -5.15
-      - ath:        1.92
-        atv:        -3.2
-      - ath:        -1.08
-        atv:        -3.22
+      - ath:        0.98
+        atv:        -5.17
+      - ath:        1.93
+        atv:        -5.13
+      - ath:        1.91
+        atv:        -3.17
+      - ath:        1.05
+        atv:        -3.20
   - points: 
       - ath:        -177.58
         atv:        3.23
@@ -47,7 +47,7 @@ images:
   - weight:         0
     type:           "zoom"
     files:
-      - large:      "19394138a.jpg"
-        thumb:      "19394138a_thumb.jpg"
+      - large:      "19394138b.jpg"
+        thumb:      "19394138b_thumb.jpg"
 
 ---

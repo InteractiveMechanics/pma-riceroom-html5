@@ -3,14 +3,14 @@ id:                 "19394138a"
 type:               "secondary"
 positions:
   - points:
-      - ath:        -1.08
+      - ath:        -1.05
+        atv:        -5.16
+      - ath:        -0.15
         atv:        -5.15
-      - ath:        1.9
-        atv:        -5.15
-      - ath:        1.92
-        atv:        -3.2
-      - ath:        -1.08
+      - ath:        -0.18
         atv:        -3.22
+      - ath:        -1.06
+        atv:        -3.23
   - points: 
       - ath:        168.60
         atv:        3.17
