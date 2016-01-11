@@ -11,6 +11,7 @@ Attract = (function() {
     }
     var openAttract = function () {
         attractRotation(0.030);
+        $('#captions').removeClass('in');
         $('#attract').removeClass('hidden');
         setTimeout(function(){
             $('#attract').addClass('in');
@@ -22,6 +23,7 @@ Attract = (function() {
             slowRotate(0);
             resetToStart();
 
+            $('#captions').addClass('in');
             attract.addClass('hidden');
             Videos.makeVideosActive();
             Narrative.toggleNarrativeButton(true);

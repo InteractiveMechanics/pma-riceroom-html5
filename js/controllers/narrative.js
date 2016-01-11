@@ -44,15 +44,12 @@ Narrative = (function() {
         $.each(intervals, function(index, value){ clearTimeout(value); });
         intervals = [];
 
-        container.removeClass('in');
-        setTimeout(function(){
-            container.addClass('hidden');
-        }, 500);
         Utilities.toggleActiveMedia(false);
         playing = false;
     }
     var toggleNarrativePlaying = function() {
         if (playing) {
+            container.find('.caption-container').text('Touch any object');
             stopNarrative();
             Videos.makeVideosActive();
             Utilities.toggleActivePanorama(false);
@@ -71,11 +68,6 @@ Narrative = (function() {
                     }
                 }, caption.time));
             });
-
-            container.removeClass('hidden');
-            setTimeout(function(){
-                container.addClass('in');
-            }, 100);
 
             Videos.closeVideos();
             DetailPanel.closeDetailPanel();
