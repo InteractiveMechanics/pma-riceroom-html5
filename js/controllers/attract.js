@@ -19,8 +19,13 @@ Attract = (function() {
     var closeAttract = function() {
         attract.removeClass('in');
         setTimeout(function(){
+            slowRotate(0);
+            resetToStart();
+
             attract.addClass('hidden');
-            Narrative.toggleNarrativePlaying();
+            Videos.makeVideosActive();
+            Narrative.toggleNarrativeButton(true);
+            Utilities.toggleActivePanorama(false);
         }, 500);
     }
     
