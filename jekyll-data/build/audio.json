@@ -35,6 +35,11 @@
     {
         "time": 25000,
         "text": "Touch any object on the screen",
+        "action": "Utilities.toggleActivePanorama(false)"
+    },
+    {
+        "time": 25000,
+        "text": "Touch any object on the screen",
         "action": "resetToStart()"
     },
     {

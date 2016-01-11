@@ -41,7 +41,7 @@
         ath="-6.5"
         atv="5.25"
         scale="0.16"
-        alpha="1"
+        alpha="0"
         edge="center"
         zoom="true"
         capture="false"
@@ -55,7 +55,7 @@
         ath="-4.92"
         atv="29.08"
         scale="0.16"
-        alpha="1"
+        alpha="0"
         edge="center"
         zoom="true"
         capture="false"
@@ -69,7 +69,7 @@
         ath="-43.67"
         atv="-14.52"
         scale="0.16"
-        alpha="1"
+        alpha="0"
         edge="center"
         zoom="true"
         capture="false"
@@ -83,7 +83,7 @@
         ath="-0.19"
         atv="-12.66"
         scale="0.16"
-        alpha="1"
+        alpha="0"
         edge="center"
         zoom="true"
         capture="false"
@@ -97,7 +97,7 @@
         ath="27.65"
         atv="-15.12"
         scale="0.16"
-        alpha="1"
+        alpha="0"
         edge="center"
         zoom="true"
         capture="false"
@@ -111,7 +111,7 @@
         ath="53.72"
         atv="-26.94"
         scale="0.16"
-        alpha="1"
+        alpha="0"
         edge="center"
         zoom="true"
         capture="false"
@@ -125,7 +125,7 @@
         ath="155.13"
         atv="-24.26"
         scale="0.16"
-        alpha="1"
+        alpha="0"
         edge="center"
         zoom="true"
         capture="false"
@@ -139,7 +139,7 @@
         ath="-178.37"
         atv="-2.83"
         scale="0.16"
-        alpha="1"
+        alpha="0"
         edge="center"
         zoom="true"
         capture="false"
@@ -153,7 +153,7 @@
         ath="137.05"
         atv="5.64"
         scale="0.16"
-        alpha="1"
+        alpha="0"
         edge="center"
         zoom="true"
         capture="false"
@@ -601,10 +601,10 @@
         capture="false"
         onclick="js( DetailPanel.updateDetailPanel(19394138a) );">
         
-        <point ath="-1.08" atv="-5.15" />
-        <point ath="1.9" atv="-5.15" />
-        <point ath="1.92" atv="-3.2" />
-        <point ath="-1.08" atv="-3.22" />
+        <point ath="-1.05" atv="-5.16" />
+        <point ath="-0.15" atv="-5.15" />
+        <point ath="-0.18" atv="-3.22" />
+        <point ath="-1.06" atv="-3.23" />
     </hotspot>
     <hotspot 
         name="a19394138b"
@@ -613,10 +613,10 @@
         capture="false"
         onclick="js( DetailPanel.updateDetailPanel(19394138b) );">
         
-        <point ath="-1.08" atv="-5.15" />
-        <point ath="1.9" atv="-5.15" />
-        <point ath="1.92" atv="-3.2" />
-        <point ath="-1.08" atv="-3.22" />
+        <point ath="0.98" atv="-5.17" />
+        <point ath="1.93" atv="-5.13" />
+        <point ath="1.91" atv="-3.17" />
+        <point ath="1.05" atv="-3.2" />
     </hotspot>
     <hotspot 
         name="a19394139b"
@@ -684,7 +684,7 @@
         type="image"
         url="/images/hotspot-white-stroke@2x.png"
         enabled="true"
-        alpha="1"
+        alpha="0"
         onclick="js( Drawer.openDrawer('drawer-left') );"
         scale="0.16"
         edge="center"
@@ -697,7 +697,7 @@
         type="image"
         url="/images/hotspot-white-stroke@2x.png"
         enabled="true"
-        alpha="1"
+        alpha="0"
         onclick="js( Drawer.openDrawer('drawer-right') );"
         scale="0.16"
         edge="center"
