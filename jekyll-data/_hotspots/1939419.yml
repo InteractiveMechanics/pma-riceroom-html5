@@ -1,11 +1,17 @@
 ---
 id:                 1939419
-type:               "primary"
+type:               "secondary"
 hotspot_image:      "images/hotspot-white-stroke@2x.png"
 positions:
   - points:
-      - ath:        137.05
-        atv:        5.64
+      - ath:        130.16
+        atv:        9.04
+      - ath:        129.85
+        atv:        1.28
+      - ath:        148.31
+        atv:        4.13
+      - ath:        142.47
+        atv:        8.76
   - points: 
       - ath:        0
         atv:        0

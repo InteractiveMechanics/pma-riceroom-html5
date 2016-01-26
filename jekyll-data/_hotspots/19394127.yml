@@ -1,14 +1,56 @@
 ---
 id:                 19394127
-type:               "primary"
+type:               "secondary"
 hotspot_image:      "images/hotspot-white-stroke@2x.png"
 positions:
   - points:
-      - ath:        -4.92
-        atv:        29.08
+      - ath:        -57.69
+        atv:        23.68
+      - ath:        -35.01
+        atv:        10.46
+      - ath:        -28.95
+        atv:        10.87
+      - ath:        -28.82
+        atv:        20.18
+      - ath:        -10.56
+        atv:        20.02
+      - ath:        -4.82
+        atv:        11.52
+      - ath:        7.25
+        atv:        10.65
+      - ath:        8.82
+        atv:        18.70
+      - ath:        12.30
+        atv:        18.50
+      - ath:        12.69
+        atv:        21.74
+      - ath:        30.80
+        atv:        20.49
+      - ath:        30.18
+        atv:        8.06
+      - ath:        67.95
+        atv:        17.83
   - points: 
-      - ath:        2.21
-        atv:        27.53
+      - ath:        -69.83
+        atv:        15.64
+      - ath:        -33.68
+        atv:        7.01
+      - ath:        -26.97
+        atv:        7.72
+      - ath:        -27.47
+        atv:        21.06
+      - ath:        25.26
+        atv:        21.58
+      - ath:        26.92
+        atv:        4.93
+      - ath:        38.48
+        atv:        9.00
+      - ath:        55.13
+        atv:        18.93
+      - ath:        65.64
+        atv:        14.77
+      - ath:        73.25
+        atv:        16.18
 
 context:
   - accession:      "1939-41-27"

@@ -1,14 +1,34 @@
 ---
 id:                 "19394130c"
-type:               "primary"
+type:               "secondary"
 hotspot_image:      "images/hotspot-white-stroke@2x.png"
 positions:
   - points:
-      - ath:        53.72
-        atv:        -26.94
+      - ath:        46.73
+        atv:        -8.03
+      - ath:        46.42
+        atv:        -37.12
+      - ath:        71.57
+        atv:        -44.47
+      - ath:        71.04
+        atv:        -8.79
+      - ath:        57.59
+        atv:        -8.34
+      - ath:        57.05
+        atv:        -9.14
+      - ath:        52.55
+        atv:        -8.96
   - points: 
-      - ath:        -25.17
-        atv:        -16.17
+      - ath:        -28.28
+        atv:        -8.61
+      - ath:        -28.50
+        atv:        -29.10
+      - ath:        -21.97
+        atv:        -24.58
+      - ath:        -22.09
+        atv:        -8.45
+      - ath:        -24.02
+        atv:        -8.41
 
 context:
   - accession:      "1939-41-30c"
