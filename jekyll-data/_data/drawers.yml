@@ -1,11 +1,23 @@
 - id: "drawer-left"
   positions:
     - points:
-      - ath:        303
-        atv:        -17
+      - ath:        -63.66 
+        atv:        -30.84
+      - ath:        -51.12 
+        atv:        -28.20
+      - ath:        -50.92
+        atv:        -2.76
+      - ath:        -63.95
+        atv:        -2.70
     - points: 
-      - ath:        26.95
-        atv:        -11.48
+      - ath:        25.22
+        atv:        -20.12
+      - ath:        28.60
+        atv:        -21.75
+      - ath:        28.58
+        atv:        -5.48
+      - ath:        25.10
+        atv:        -5.72
   objects:
     - id: 19394141
     - id: 19394142
@@ -18,11 +30,23 @@
 - id: "drawer-right"
   positions:
     - points:
-      - ath:        333
-        atv:        -12
+      - ath:        -28.76
+        atv:        -20.07
+      - ath:        -25.00
+        atv:        -18.65
+      - ath:        -24.93
+        atv:        -3.84
+      - ath:        -28.74
+        atv:        -3.77
     - points: 
-      - ath:        55.73
-        atv:        -18.41
+      - ath:        48.90
+        atv:        -5.46
+      - ath:        48.89
+        atv:        -30.16
+      - ath:        60.45
+        atv:        -33.39
+      - ath:        60.51
+        atv:        -5.31
   objects:
     - id: 19394150
     - id: 19394151

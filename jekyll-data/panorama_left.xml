@@ -62,18 +62,18 @@ layout: null
     {% for drawer in site.data.drawers %}
     <hotspot
         name="{{ drawer.id }}"
-        type="image"
-        url="/images/hotspot-white-stroke@2x.png"
         enabled="true"
         alpha="0"
         onclick="js( Drawer.openDrawer('{{ drawer.id }}') );"
-        scale="0.16"
-        edge="center"
-        zoom="true"
-        capture="false"
-        ath="{{ drawer.positions[1].points[0].ath }}"
-        atv="{{ drawer.positions[1].points[0].atv }}" />{% endfor%}
+        capture="false" >
+        
+        {% for point in drawer.positions[1].points %}
+        <point ath="{{ point.ath }}" atv="{{ point.atv }}" />
+        {% endfor %}
+    </hotspot>
+    {% endfor%}
 
+    <!-- <events onclick="showlog(); screentosphere(mouse.x, mouse.y, toh, tov); trace(get(toh), ' ', get(tov));" /> -->
     <events onviewchanged="js( Utilities.resetTimeout() );" />
     <contextmenu fullscreen="false" versioninfo="false" touch="false" />
 </krpano>

@@ -1,0 +1,333 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install' ]
+2 info using npm@2.5.1
+3 info using node@v0.12.0
+4 verbose node symlink /usr/local/bin/node
+5 warn package.json PMA-RiceRoom@0.1.0 No repository field.
+6 verbose install where, deps [ '/Users/peter.alt/Documents/workspace/web/pma-riceroom-html5',
+6 verbose install   [ 'sass',
+6 verbose install     'grunt',
+6 verbose install     'jekyll',
+6 verbose install     'grunt-contrib-sass',
+6 verbose install     'grunt-contrib-cssmin',
+6 verbose install     'grunt-contrib-watch',
+6 verbose install     'grunt-contrib-connect',
+6 verbose install     'grunt-jekyll' ] ]
+7 verbose install where, peers [ '/Users/peter.alt/Documents/workspace/web/pma-riceroom-html5',
+7 verbose install   [] ]
+8 info preinstall PMA-RiceRoom@0.1.0
+9 silly cache add args [ 'grunt-contrib-watch@latest', null ]
+10 verbose cache add spec grunt-contrib-watch@latest
+11 silly cache add args [ 'grunt-contrib-connect@latest', null ]
+12 verbose cache add spec grunt-contrib-connect@latest
+13 silly cache add args [ 'grunt-jekyll@latest', null ]
+14 verbose cache add spec grunt-jekyll@latest
+15 silly cache add args [ 'sass@~0.5.0', null ]
+16 verbose cache add spec sass@~0.5.0
+17 silly cache add parsed spec { raw: 'sass@~0.5.0',
+17 silly cache add   scope: null,
+17 silly cache add   name: 'sass',
+17 silly cache add   rawSpec: '~0.5.0',
+17 silly cache add   spec: '>=0.5.0 <0.6.0',
+17 silly cache add   type: 'range' }
+18 verbose addNamed sass@>=0.5.0 <0.6.0
+19 silly addNamed semver.valid null
+20 silly addNamed semver.validRange >=0.5.0 <0.6.0
+21 silly addNameRange { name: 'sass', range: '>=0.5.0 <0.6.0', hasData: false }
+22 silly mapToRegistry name sass
+23 silly mapToRegistry using default registry
+24 silly mapToRegistry registry https://registry.npmjs.org/
+25 silly mapToRegistry uri https://registry.npmjs.org/sass
+26 verbose addNameRange registry:https://registry.npmjs.org/sass not in flight; fetching
+27 verbose already installed skipping grunt@~0.4.5 /Users/peter.alt/Documents/workspace/web/pma-riceroom-html5
+28 silly cache add parsed spec { raw: 'grunt-contrib-watch@latest',
+28 silly cache add   scope: null,
+28 silly cache add   name: 'grunt-contrib-watch',
+28 silly cache add   rawSpec: 'latest',
+28 silly cache add   spec: 'latest',
+28 silly cache add   type: 'tag' }
+29 verbose addNamed grunt-contrib-watch@latest
+30 silly addNamed semver.valid null
+31 silly addNamed semver.validRange null
+32 info addNameTag [ 'grunt-contrib-watch', 'latest' ]
+33 silly mapToRegistry name grunt-contrib-watch
+34 silly mapToRegistry using default registry
+35 silly mapToRegistry registry https://registry.npmjs.org/
+36 silly mapToRegistry uri https://registry.npmjs.org/grunt-contrib-watch
+37 verbose addNameTag registry:https://registry.npmjs.org/grunt-contrib-watch not in flight; fetching
+38 silly cache add parsed spec { raw: 'grunt-contrib-connect@latest',
+38 silly cache add   scope: null,
+38 silly cache add   name: 'grunt-contrib-connect',
+38 silly cache add   rawSpec: 'latest',
+38 silly cache add   spec: 'latest',
+38 silly cache add   type: 'tag' }
+39 verbose addNamed grunt-contrib-connect@latest
+40 silly addNamed semver.valid null
+41 silly addNamed semver.validRange null
+42 info addNameTag [ 'grunt-contrib-connect', 'latest' ]
+43 silly mapToRegistry name grunt-contrib-connect
+44 silly mapToRegistry using default registry
+45 silly mapToRegistry registry https://registry.npmjs.org/
+46 silly mapToRegistry uri https://registry.npmjs.org/grunt-contrib-connect
+47 verbose addNameTag registry:https://registry.npmjs.org/grunt-contrib-connect not in flight; fetching
+48 silly cache add parsed spec { raw: 'grunt-jekyll@latest',
+48 silly cache add   scope: null,
+48 silly cache add   name: 'grunt-jekyll',
+48 silly cache add   rawSpec: 'latest',
+48 silly cache add   spec: 'latest',
+48 silly cache add   type: 'tag' }
+49 verbose addNamed grunt-jekyll@latest
+50 silly addNamed semver.valid null
+51 silly addNamed semver.validRange null
+52 info addNameTag [ 'grunt-jekyll', 'latest' ]
+53 silly mapToRegistry name grunt-jekyll
+54 silly mapToRegistry using default registry
+55 silly mapToRegistry registry https://registry.npmjs.org/
+56 silly mapToRegistry uri https://registry.npmjs.org/grunt-jekyll
+57 verbose addNameTag registry:https://registry.npmjs.org/grunt-jekyll not in flight; fetching
+58 silly cache add args [ 'jekyll@~3.0.0', null ]
+59 verbose cache add spec jekyll@~3.0.0
+60 silly cache add parsed spec { raw: 'jekyll@~3.0.0',
+60 silly cache add   scope: null,
+60 silly cache add   name: 'jekyll',
+60 silly cache add   rawSpec: '~3.0.0',
+60 silly cache add   spec: '>=3.0.0 <3.1.0',
+60 silly cache add   type: 'range' }
+61 verbose addNamed jekyll@>=3.0.0 <3.1.0
+62 silly addNamed semver.valid null
+63 silly addNamed semver.validRange >=3.0.0 <3.1.0
+64 silly addNameRange { name: 'jekyll', range: '>=3.0.0 <3.1.0', hasData: false }
+65 silly mapToRegistry name jekyll
+66 silly mapToRegistry using default registry
+67 silly mapToRegistry registry https://registry.npmjs.org/
+68 silly mapToRegistry uri https://registry.npmjs.org/jekyll
+69 verbose addNameRange registry:https://registry.npmjs.org/jekyll not in flight; fetching
+70 silly cache add args [ 'grunt-contrib-sass@latest', null ]
+71 verbose cache add spec grunt-contrib-sass@latest
+72 silly cache add parsed spec { raw: 'grunt-contrib-sass@latest',
+72 silly cache add   scope: null,
+72 silly cache add   name: 'grunt-contrib-sass',
+72 silly cache add   rawSpec: 'latest',
+72 silly cache add   spec: 'latest',
+72 silly cache add   type: 'tag' }
+73 verbose addNamed grunt-contrib-sass@latest
+74 silly addNamed semver.valid null
+75 silly addNamed semver.validRange null
+76 info addNameTag [ 'grunt-contrib-sass', 'latest' ]
+77 silly mapToRegistry name grunt-contrib-sass
+78 silly mapToRegistry using default registry
+79 silly mapToRegistry registry https://registry.npmjs.org/
+80 silly mapToRegistry uri https://registry.npmjs.org/grunt-contrib-sass
+81 verbose addNameTag registry:https://registry.npmjs.org/grunt-contrib-sass not in flight; fetching
+82 silly cache add args [ 'grunt-contrib-cssmin@latest', null ]
+83 verbose cache add spec grunt-contrib-cssmin@latest
+84 silly cache add parsed spec { raw: 'grunt-contrib-cssmin@latest',
+84 silly cache add   scope: null,
+84 silly cache add   name: 'grunt-contrib-cssmin',
+84 silly cache add   rawSpec: 'latest',
+84 silly cache add   spec: 'latest',
+84 silly cache add   type: 'tag' }
+85 verbose addNamed grunt-contrib-cssmin@latest
+86 silly addNamed semver.valid null
+87 silly addNamed semver.validRange null
+88 info addNameTag [ 'grunt-contrib-cssmin', 'latest' ]
+89 silly mapToRegistry name grunt-contrib-cssmin
+90 silly mapToRegistry using default registry
+91 silly mapToRegistry registry https://registry.npmjs.org/
+92 silly mapToRegistry uri https://registry.npmjs.org/grunt-contrib-cssmin
+93 verbose addNameTag registry:https://registry.npmjs.org/grunt-contrib-cssmin not in flight; fetching
+94 verbose get https://registry.npmjs.org/grunt-jekyll not expired, no request
+95 silly addNameTag next cb for grunt-jekyll with tag latest
+96 verbose addNamed grunt-jekyll@0.4.3
+97 silly addNamed semver.valid 0.4.3
+98 silly addNamed semver.validRange 0.4.3
+99 verbose request uri https://registry.npmjs.org/grunt-contrib-watch
+100 verbose request no auth needed
+101 info attempt registry request try #1 at 12:50:48
+102 verbose request id ac8f2ad7136b90c3
+103 verbose etag "B67Q6ITCOAHGVLWZ6MIJ2WNEY"
+104 http request GET https://registry.npmjs.org/grunt-contrib-watch
+105 verbose request uri https://registry.npmjs.org/grunt-contrib-connect
+106 verbose request no auth needed
+107 info attempt registry request try #1 at 12:50:48
+108 verbose etag "15J1OIL8769IAY2AG9LJBMRGB"
+109 http request GET https://registry.npmjs.org/grunt-contrib-connect
+110 verbose request uri https://registry.npmjs.org/sass
+111 verbose request no auth needed
+112 info attempt registry request try #1 at 12:50:48
+113 verbose etag "53VHKD697WQZAG6NZZB52WV1T"
+114 http request GET https://registry.npmjs.org/sass
+115 verbose request uri https://registry.npmjs.org/jekyll
+116 verbose request no auth needed
+117 info attempt registry request try #1 at 12:50:48
+118 verbose etag "64B63BYFMVWPP2D1IGP35PQWN"
+119 http request GET https://registry.npmjs.org/jekyll
+120 verbose request uri https://registry.npmjs.org/grunt-contrib-sass
+121 verbose request no auth needed
+122 info attempt registry request try #1 at 12:50:48
+123 verbose etag "EEQEL4L2CVKMX5OX6HZ0VG48O"
+124 http request GET https://registry.npmjs.org/grunt-contrib-sass
+125 verbose request uri https://registry.npmjs.org/grunt-contrib-cssmin
+126 verbose request no auth needed
+127 info attempt registry request try #1 at 12:50:48
+128 verbose etag "34OB5TQP8IIW4HIKRAM5U0P4C"
+129 http request GET https://registry.npmjs.org/grunt-contrib-cssmin
+130 silly cache afterAdd grunt-jekyll@0.4.3
+131 verbose afterAdd /Users/peter.alt/.npm/grunt-jekyll/0.4.3/package/package.json not in flight; writing
+132 verbose afterAdd /Users/peter.alt/.npm/grunt-jekyll/0.4.3/package/package.json written
+133 info already installed grunt-jekyll@0.4.3
+134 http 304 https://registry.npmjs.org/grunt-contrib-watch
+135 silly get cb [ 304,
+135 silly get   { date: 'Tue, 26 Jan 2016 17:50:48 GMT',
+135 silly get     via: '1.1 varnish',
+135 silly get     'cache-control': 'max-age=300',
+135 silly get     etag: '"B67Q6ITCOAHGVLWZ6MIJ2WNEY"',
+135 silly get     age: '167',
+135 silly get     connection: 'keep-alive',
+135 silly get     'x-served-by': 'cache-jfk1023-JFK',
+135 silly get     'x-cache': 'HIT',
+135 silly get     'x-cache-hits': '3',
+135 silly get     'x-timer': 'S1453830648.965692,VS0,VE0',
+135 silly get     vary: 'Accept' } ]
+136 verbose etag https://registry.npmjs.org/grunt-contrib-watch from cache
+137 verbose get saving grunt-contrib-watch to /Users/peter.alt/.npm/registry.npmjs.org/grunt-contrib-watch/.cache.json
+138 http 304 https://registry.npmjs.org/grunt-contrib-connect
+139 silly get cb [ 304,
+139 silly get   { date: 'Tue, 26 Jan 2016 17:50:48 GMT',
+139 silly get     via: '1.1 varnish',
+139 silly get     'cache-control': 'max-age=300',
+139 silly get     etag: '"15J1OIL8769IAY2AG9LJBMRGB"',
+139 silly get     age: '2',
+139 silly get     connection: 'keep-alive',
+139 silly get     'x-served-by': 'cache-jfk1033-JFK',
+139 silly get     'x-cache': 'HIT',
+139 silly get     'x-cache-hits': '1',
+139 silly get     'x-timer': 'S1453830648.965957,VS0,VE0',
+139 silly get     vary: 'Accept' } ]
+140 verbose etag https://registry.npmjs.org/grunt-contrib-connect from cache
+141 verbose get saving grunt-contrib-connect to /Users/peter.alt/.npm/registry.npmjs.org/grunt-contrib-connect/.cache.json
+142 http 304 https://registry.npmjs.org/grunt-contrib-sass
+143 silly get cb [ 304,
+143 silly get   { date: 'Tue, 26 Jan 2016 17:50:48 GMT',
+143 silly get     via: '1.1 varnish',
+143 silly get     'cache-control': 'max-age=300',
+143 silly get     etag: '"EEQEL4L2CVKMX5OX6HZ0VG48O"',
+143 silly get     age: '162',
+143 silly get     connection: 'keep-alive',
+143 silly get     'x-served-by': 'cache-jfk1037-JFK',
+143 silly get     'x-cache': 'HIT',
+143 silly get     'x-cache-hits': '1',
+143 silly get     'x-timer': 'S1453830648.968401,VS0,VE0',
+143 silly get     vary: 'Accept' } ]
+144 verbose etag https://registry.npmjs.org/grunt-contrib-sass from cache
+145 verbose get saving grunt-contrib-sass to /Users/peter.alt/.npm/registry.npmjs.org/grunt-contrib-sass/.cache.json
+146 http 304 https://registry.npmjs.org/grunt-contrib-cssmin
+147 silly get cb [ 304,
+147 silly get   { date: 'Tue, 26 Jan 2016 17:50:48 GMT',
+147 silly get     via: '1.1 varnish',
+147 silly get     'cache-control': 'max-age=300',
+147 silly get     etag: '"34OB5TQP8IIW4HIKRAM5U0P4C"',
+147 silly get     age: '162',
+147 silly get     connection: 'keep-alive',
+147 silly get     'x-served-by': 'cache-jfk1021-JFK',
+147 silly get     'x-cache': 'HIT',
+147 silly get     'x-cache-hits': '1',
+147 silly get     'x-timer': 'S1453830648.969297,VS0,VE1',
+147 silly get     vary: 'Accept' } ]
+148 verbose etag https://registry.npmjs.org/grunt-contrib-cssmin from cache
+149 verbose get saving grunt-contrib-cssmin to /Users/peter.alt/.npm/registry.npmjs.org/grunt-contrib-cssmin/.cache.json
+150 silly addNameTag next cb for grunt-contrib-connect with tag latest
+151 verbose addNamed grunt-contrib-connect@0.11.2
+152 silly addNamed semver.valid 0.11.2
+153 silly addNamed semver.validRange 0.11.2
+154 silly addNameTag next cb for grunt-contrib-cssmin with tag latest
+155 verbose addNamed grunt-contrib-cssmin@0.14.0
+156 silly addNamed semver.valid 0.14.0
+157 silly addNamed semver.validRange 0.14.0
+158 silly addNameTag next cb for grunt-contrib-watch with tag latest
+159 verbose addNamed grunt-contrib-watch@0.6.1
+160 silly addNamed semver.valid 0.6.1
+161 silly addNamed semver.validRange 0.6.1
+162 silly addNameTag next cb for grunt-contrib-sass with tag latest
+163 verbose addNamed grunt-contrib-sass@0.9.2
+164 silly addNamed semver.valid 0.9.2
+165 silly addNamed semver.validRange 0.9.2
+166 silly cache afterAdd grunt-contrib-connect@0.11.2
+167 verbose afterAdd /Users/peter.alt/.npm/grunt-contrib-connect/0.11.2/package/package.json not in flight; writing
+168 silly cache afterAdd grunt-contrib-cssmin@0.14.0
+169 verbose afterAdd /Users/peter.alt/.npm/grunt-contrib-cssmin/0.14.0/package/package.json not in flight; writing
+170 silly cache afterAdd grunt-contrib-watch@0.6.1
+171 verbose afterAdd /Users/peter.alt/.npm/grunt-contrib-watch/0.6.1/package/package.json not in flight; writing
+172 silly cache afterAdd grunt-contrib-sass@0.9.2
+173 verbose afterAdd /Users/peter.alt/.npm/grunt-contrib-sass/0.9.2/package/package.json not in flight; writing
+174 verbose afterAdd /Users/peter.alt/.npm/grunt-contrib-watch/0.6.1/package/package.json written
+175 info already installed grunt-contrib-watch@0.6.1
+176 verbose afterAdd /Users/peter.alt/.npm/grunt-contrib-sass/0.9.2/package/package.json written
+177 info already installed grunt-contrib-sass@0.9.2
+178 verbose afterAdd /Users/peter.alt/.npm/grunt-contrib-connect/0.11.2/package/package.json written
+179 verbose afterAdd /Users/peter.alt/.npm/grunt-contrib-cssmin/0.14.0/package/package.json written
+180 http 304 https://registry.npmjs.org/sass
+181 silly get cb [ 304,
+181 silly get   { date: 'Tue, 26 Jan 2016 17:50:48 GMT',
+181 silly get     via: '1.1 varnish',
+181 silly get     'cache-control': 'max-age=300',
+181 silly get     etag: '"53VHKD697WQZAG6NZZB52WV1T"',
+181 silly get     age: '0',
+181 silly get     connection: 'keep-alive',
+181 silly get     'x-served-by': 'cache-jfk1034-JFK',
+181 silly get     'x-cache': 'HIT',
+181 silly get     'x-cache-hits': '1',
+181 silly get     'x-timer': 'S1453830648.968335,VS0,VE84',
+181 silly get     vary: 'Accept' } ]
+182 verbose etag https://registry.npmjs.org/sass from cache
+183 verbose get saving sass to /Users/peter.alt/.npm/registry.npmjs.org/sass/.cache.json
+184 silly addNameRange number 2 { name: 'sass', range: '>=0.5.0 <0.6.0', hasData: true }
+185 silly addNameRange versions [ 'sass', [ '0.4.0', '0.4.1', '0.4.2', '0.4.3', '0.5.0' ] ]
+186 verbose addNamed sass@0.5.0
+187 silly addNamed semver.valid 0.5.0
+188 silly addNamed semver.validRange 0.5.0
+189 silly cache afterAdd sass@0.5.0
+190 verbose afterAdd /Users/peter.alt/.npm/sass/0.5.0/package/package.json not in flight; writing
+191 verbose afterAdd /Users/peter.alt/.npm/sass/0.5.0/package/package.json written
+192 http 304 https://registry.npmjs.org/jekyll
+193 silly get cb [ 304,
+193 silly get   { date: 'Tue, 26 Jan 2016 17:50:48 GMT',
+193 silly get     via: '1.1 varnish',
+193 silly get     'cache-control': 'max-age=300',
+193 silly get     etag: '"64B63BYFMVWPP2D1IGP35PQWN"',
+193 silly get     age: '0',
+193 silly get     connection: 'keep-alive',
+193 silly get     'x-served-by': 'cache-jfk1022-JFK',
+193 silly get     'x-cache': 'HIT',
+193 silly get     'x-cache-hits': '1',
+193 silly get     'x-timer': 'S1453830648.966309,VS0,VE91',
+193 silly get     vary: 'Accept' } ]
+194 verbose etag https://registry.npmjs.org/jekyll from cache
+195 verbose get saving jekyll to /Users/peter.alt/.npm/registry.npmjs.org/jekyll/.cache.json
+196 silly addNameRange number 2 { name: 'jekyll', range: '>=3.0.0 <3.1.0', hasData: true }
+197 silly addNameRange versions [ 'jekyll', [ '3.0.0-beta1' ] ]
+198 verbose stack Error: No compatible version found: jekyll@'>=3.0.0 <3.1.0'
+198 verbose stack Valid install targets:
+198 verbose stack ["3.0.0-beta1"]
+198 verbose stack
+198 verbose stack     at installTargetsError (/usr/local/lib/node_modules/npm/lib/cache/add-named.js:259:12)
+198 verbose stack     at next (/usr/local/lib/node_modules/npm/lib/cache/add-named.js:238:17)
+198 verbose stack     at setData (/usr/local/lib/node_modules/npm/lib/cache/add-named.js:215:5)
+198 verbose stack     at RES (/usr/local/lib/node_modules/npm/node_modules/inflight/inflight.js:23:14)
+198 verbose stack     at f (/usr/local/lib/node_modules/npm/node_modules/once/once.js:17:25)
+198 verbose stack     at saved (/usr/local/lib/node_modules/npm/lib/cache/caching-client.js:173:7)
+198 verbose stack     at FSReqWrap.oncomplete (fs.js:99:15)
+199 verbose cwd /Users/peter.alt/Documents/workspace/web/pma-riceroom-html5
+200 error Darwin 14.5.0
+201 error argv "node" "/usr/local/bin/npm" "install"
+202 error node v0.12.0
+203 error npm  v2.5.1
+204 error code ETARGET
+205 error notarget No compatible version found: jekyll@'>=3.0.0 <3.1.0'
+205 error notarget Valid install targets:
+205 error notarget ["3.0.0-beta1"]
+205 error notarget
+205 error notarget This is most likely not a problem with npm itself.
+205 error notarget In most cases you or one of your dependencies are requesting
+205 error notarget a package version that doesn't exist.
+206 verbose exit [ 1, true ]
