@@ -33,7 +33,7 @@
 
     
     <hotspot 
-        name="a/hotspots/19394128"
+        name="a19394128"
         type="image"
         url="/images/hotspot-white-stroke@2x.png"
         visible="true"
@@ -45,14 +45,14 @@
         edge="center"
         zoom="true"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394128) );" />
+        onclick="js( DetailPanel.updateDetailPanel(19394128) );" />
     
     <hotspot 
-        name="a/hotspots/1939411"
+        name="a1939411"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/1939411) );">
+        onclick="js( DetailPanel.updateDetailPanel(1939411) );">
         
         <point ath="0" atv="0" />
         <point ath="0" atv="0" />
@@ -60,20 +60,20 @@
         <point ath="0" atv="0" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394110n"
+        name="a19394110n"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394110n) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394110n) );">
         
         <point ath="0" atv="0" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394110s"
+        name="a19394110s"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394110s) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394110s) );">
         
         <point ath="-2.57" atv="-2.83" />
         <point ath="3.3" atv="-2.86" />
@@ -81,11 +81,11 @@
         <point ath="-2.54" atv="-1.4" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394111a"
+        name="a19394111a"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394111a) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394111a) );">
         
         <point ath="26.57" atv="2.34" />
         <point ath="26.35" atv="-3.66" />
@@ -93,11 +93,11 @@
         <point ath="29.61" atv="2.95" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394111b"
+        name="a19394111b"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394111b) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394111b) );">
         
         <point ath="40.36" atv="-0.61" />
         <point ath="42.9" atv="-2.62" />
@@ -105,11 +105,11 @@
         <point ath="40.67" atv="2.99" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394113"
+        name="a19394113"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394113) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394113) );">
         
         <point ath="-36.39" atv="-3.1" />
         <point ath="-34.01" atv="-5.6" />
@@ -118,11 +118,11 @@
         <point ath="-34.48" atv="-0.96" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394116"
+        name="a19394116"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394116) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394116) );">
         
         <point ath="-18.89" atv="-4.89" />
         <point ath="-18.95" atv="-8.64" />
@@ -133,11 +133,11 @@
         <point ath="-14.75" atv="-2.99" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394117a"
+        name="a19394117a"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394117a) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394117a) );">
         
         <point ath="49.21" atv="-3.68" />
         <point ath="56.72" atv="-4.87" />
@@ -149,11 +149,11 @@
         <point ath="40.45" atv="4.21" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394117b"
+        name="a19394117b"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394117b) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394117b) );">
         
         <point ath="-12.43" atv="-0.66" />
         <point ath="-12.46" atv="-4.49" />
@@ -163,11 +163,11 @@
         <point ath="-5.8" atv="-0.53" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394117c"
+        name="a19394117c"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394117c) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394117c) );">
         
         <point ath="-20.54" atv="1.48" />
         <point ath="-21.3" atv="-3.35" />
@@ -177,11 +177,11 @@
         <point ath="-17.85" atv="0.17" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394117d"
+        name="a19394117d"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394117d) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394117d) );">
         
         <point ath="-150.5" atv="28.95" />
         <point ath="-156.47" atv="-3.28" />
@@ -189,11 +189,11 @@
         <point ath="-126.25" atv="22.23" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394117e"
+        name="a19394117e"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394117e) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394117e) );">
         
         <point ath="6.89" atv="-0.56" />
         <point ath="6.8" atv="-5.46" />
@@ -201,11 +201,11 @@
         <point ath="11.78" atv="-0.52" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394117f"
+        name="a19394117f"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394117f) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394117f) );">
         
         <point ath="15.32" atv="0.14" />
         <point ath="15.95" atv="-3.08" />
@@ -214,11 +214,11 @@
         <point ath="21.3" atv="2.06" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394117g"
+        name="a19394117g"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394117g) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394117g) );">
         
         <point ath="125.18" atv="19.79" />
         <point ath="139.76" atv="-3.86" />
@@ -226,11 +226,11 @@
         <point ath="143.4" atv="28.43" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394117k"
+        name="a19394117k"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394117k) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394117k) );">
         
         <point ath="29.92" atv="3.65" />
         <point ath="30.01" atv="-5.32" />
@@ -238,11 +238,11 @@
         <point ath="33.32" atv="3.85" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394118a"
+        name="a19394118a"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394118a) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394118a) );">
         
         <point ath="12.8" atv="-0.67" />
         <point ath="13.77" atv="-3.19" />
@@ -257,11 +257,11 @@
         <point ath="14.95" atv="-0.0" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394118b"
+        name="a19394118b"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394118b) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394118b) );">
         
         <point ath="-6.78" atv="-2.13" />
         <point ath="-6.66" atv="-6.14" />
@@ -269,11 +269,11 @@
         <point ath="-5.58" atv="-1.97" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394118c"
+        name="a19394118c"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394118c) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394118c) );">
         
         <point ath="0" atv="0" />
         <point ath="0" atv="0" />
@@ -281,11 +281,11 @@
         <point ath="0" atv="0" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394118d"
+        name="a19394118d"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394118d) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394118d) );">
         
         <point ath="0" atv="0" />
         <point ath="0" atv="0" />
@@ -295,11 +295,11 @@
         <point ath="0" atv="0" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394118e"
+        name="a19394118e"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394118e) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394118e) );">
         
         <point ath="" atv="" />
         <point ath="" atv="" />
@@ -308,11 +308,11 @@
         <point ath="" atv="" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394119"
+        name="a19394119"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394119) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394119) );">
         
         <point ath="-26.58" atv="20.41" />
         <point ath="-26.48" atv="3.53" />
@@ -322,11 +322,11 @@
         <point ath="24.52" atv="21.57" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394124a"
+        name="a19394124a"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394124a) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394124a) );">
         
         <point ath="-35.88" atv="6.14" />
         <point ath="-37.65" atv="-3.24" />
@@ -337,11 +337,11 @@
         <point ath="-31.18" atv="6.69" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394124b"
+        name="a19394124b"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394124b) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394124b) );">
         
         <point ath="-28.86" atv="4.34" />
         <point ath="-29.92" atv="-3.65" />
@@ -351,11 +351,11 @@
         <point ath="-23.05" atv="2.18" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394126"
+        name="a19394126"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394126) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394126) );">
         
         <point ath="33.67" atv="3.71" />
         <point ath="33.56" atv="-0.61" />
@@ -363,11 +363,11 @@
         <point ath="38.77" atv="4.78" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394127"
+        name="a19394127"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394127) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394127) );">
         
         <point ath="-69.83" atv="15.64" />
         <point ath="-33.68" atv="7.01" />
@@ -381,11 +381,11 @@
         <point ath="73.25" atv="16.18" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/1939412a"
+        name="a1939412a"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/1939412a) );">
+        onclick="js( DetailPanel.updateDetailPanel(1939412a) );">
         
         <point ath="1.31" atv="-4.99" />
         <point ath="3.37" atv="-4.98" />
@@ -393,11 +393,11 @@
         <point ath="1.0" atv="-3.11" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/1939412b"
+        name="a1939412b"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/1939412b) );">
+        onclick="js( DetailPanel.updateDetailPanel(1939412b) );">
         
         <point ath="157.07" atv="3.17" />
         <point ath="-160.47" atv="3.24" />
@@ -405,11 +405,11 @@
         <point ath="156.19" atv="26.92" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/1939413"
+        name="a1939413"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/1939413) );">
+        onclick="js( DetailPanel.updateDetailPanel(1939413) );">
         
         <point ath="-59.1" atv="-2.46" />
         <point ath="-40.17" atv="-3.42" />
@@ -417,11 +417,11 @@
         <point ath="-58.46" atv="12.07" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394130a"
+        name="a19394130a"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394130a) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394130a) );">
         
         <point ath="129.17" atv="-10.73" />
         <point ath="129.16" atv="-47.82" />
@@ -430,11 +430,11 @@
         <point ath="179.99" atv="-13.11" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394130b"
+        name="a19394130b"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394130b) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394130b) );">
         
         <point ath="-65.09" atv="-10.19" />
         <point ath="-65.26" atv="-43.73" />
@@ -446,11 +446,11 @@
         <point ath="-52.13" atv="-9.69" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394130c"
+        name="a19394130c"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394130c) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394130c) );">
         
         <point ath="-28.28" atv="-8.61" />
         <point ath="-28.5" atv="-29.1" />
@@ -459,11 +459,11 @@
         <point ath="-24.02" atv="-8.41" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394130d"
+        name="a19394130d"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394130d) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394130d) );">
         
         <point ath="-10.71" atv="-7.4" />
         <point ath="-10.4" atv="-16.43" />
@@ -475,11 +475,11 @@
         <point ath="12.14" atv="-7.67" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394133"
+        name="a19394133"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394133) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394133) );">
         
         <point ath="34.63" atv="-5.34" />
         <point ath="33.87" atv="-8.61" />
@@ -488,11 +488,11 @@
         <point ath="36.49" atv="-5.36" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394134a"
+        name="a19394134a"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394134a) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394134a) );">
         
         <point ath="6.59" atv="0.02" />
         <point ath="6.18" atv="-7.43" />
@@ -500,11 +500,11 @@
         <point ath="3.29" atv="0.15" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394134b"
+        name="a19394134b"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394134b) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394134b) );">
         
         <point ath="-5.78" atv="0.15" />
         <point ath="-5.03" atv="-6.47" />
@@ -512,11 +512,11 @@
         <point ath="-2.61" atv="0.07" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394135a"
+        name="a19394135a"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394135a) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394135a) );">
         
         <point ath="-51.6" atv="-10.45" />
         <point ath="-47.98" atv="-10.17" />
@@ -524,11 +524,11 @@
         <point ath="-51.22" atv="-2.58" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394135b"
+        name="a19394135b"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394135b) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394135b) );">
         
         <point ath="-23.58" atv="-4.66" />
         <point ath="-23.84" atv="-8.39" />
@@ -536,11 +536,11 @@
         <point ath="-22.17" atv="-4.69" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394136a"
+        name="a19394136a"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394136a) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394136a) );">
         
         <point ath="37.7" atv="-5.34" />
         <point ath="37.82" atv="-11.2" />
@@ -548,11 +548,11 @@
         <point ath="39.91" atv="-5.3" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394136b"
+        name="a19394136b"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394136b) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394136b) );">
         
         <point ath="31.57" atv="-5.52" />
         <point ath="31.57" atv="-10.51" />
@@ -560,11 +560,11 @@
         <point ath="33.74" atv="-5.36" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394137"
+        name="a19394137"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394137) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394137) );">
         
         <point ath="-1.32" atv="-3.03" />
         <point ath="-1.47" atv="-5.44" />
@@ -572,11 +572,11 @@
         <point ath="0.79" atv="-2.8" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394138a"
+        name="a19394138a"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394138a) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394138a) );">
         
         <point ath="168.6" atv="3.17" />
         <point ath="168.3" atv="-9.58" />
@@ -584,11 +584,11 @@
         <point ath="174.36" atv="3.31" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394138b"
+        name="a19394138b"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394138b) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394138b) );">
         
         <point ath="-177.58" atv="3.23" />
         <point ath="-176.93" atv="-9.71" />
@@ -596,11 +596,11 @@
         <point ath="-171.73" atv="3.57" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/19394139b"
+        name="a19394139b"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/19394139b) );">
+        onclick="js( DetailPanel.updateDetailPanel(19394139b) );">
         
         <point ath="-0.67" atv="-5.04" />
         <point ath="-0.67" atv="-6.93" />
@@ -608,11 +608,11 @@
         <point ath="2.72" atv="-5.07" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/1939414"
+        name="a1939414"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/1939414) );">
+        onclick="js( DetailPanel.updateDetailPanel(1939414) );">
         
         <point ath="-26.7" atv="-4.29" />
         <point ath="-19.6" atv="-4.61" />
@@ -623,11 +623,11 @@
         <point ath="-26.05" atv="-2.51" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/1939415a"
+        name="a1939415a"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/1939415a) );">
+        onclick="js( DetailPanel.updateDetailPanel(1939415a) );">
         
         <point ath="106.73" atv="12.48" />
         <point ath="106.29" atv="-6.97" />
@@ -635,11 +635,11 @@
         <point ath="118.15" atv="13.23" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/1939415b"
+        name="a1939415b"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/1939415b) );">
+        onclick="js( DetailPanel.updateDetailPanel(1939415b) );">
         
         <point ath="-118.74" atv="14.02" />
         <point ath="-118.91" atv="-7.14" />
@@ -647,11 +647,11 @@
         <point ath="-106.1" atv="13.34" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/1939418"
+        name="a1939418"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/1939418) );">
+        onclick="js( DetailPanel.updateDetailPanel(1939418) );">
         
         <point ath="12.15" atv="-4.39" />
         <point ath="13.98" atv="-4.49" />
@@ -659,11 +659,11 @@
         <point ath="12.1" atv="-3.21" />
     </hotspot>
     <hotspot 
-        name="a/hotspots/1939419"
+        name="a1939419"
         enabled="true"
         alpha="0"
         capture="false"
-        onclick="js( DetailPanel.updateDetailPanel(/hotspots/1939419) );">
+        onclick="js( DetailPanel.updateDetailPanel(1939419) );">
         
         <point ath="0" atv="0" />
     </hotspot>

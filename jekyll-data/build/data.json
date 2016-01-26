@@ -42,7 +42,7 @@
     ],
     "hotspots": [
         {
-            "id": "/hotspots/1939411",
+            "id": "1939411",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -80,7 +80,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394110n",
+            "id": "19394110n",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "secondary",
             
@@ -136,7 +136,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394110s",
+            "id": "19394110s",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -192,7 +192,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394111a",
+            "id": "19394111a",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -248,7 +248,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394111b",
+            "id": "19394111b",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -304,7 +304,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394113",
+            "id": "19394113",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -333,7 +333,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394116",
+            "id": "19394116",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -362,7 +362,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394117a",
+            "id": "19394117a",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -391,7 +391,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394117b",
+            "id": "19394117b",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -492,7 +492,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394117c",
+            "id": "19394117c",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -593,7 +593,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394117d",
+            "id": "19394117d",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -694,7 +694,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394117e",
+            "id": "19394117e",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -795,7 +795,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394117f",
+            "id": "19394117f",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -896,7 +896,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394117g",
+            "id": "19394117g",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -997,7 +997,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394117k",
+            "id": "19394117k",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -1035,7 +1035,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394118a",
+            "id": "19394118a",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -1064,7 +1064,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394118b",
+            "id": "19394118b",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -1120,7 +1120,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394118c",
+            "id": "19394118c",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -1176,7 +1176,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394118d",
+            "id": "19394118d",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -1232,7 +1232,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394118e",
+            "id": "19394118e",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -1288,7 +1288,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394119",
+            "id": "19394119",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -1317,7 +1317,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394124a",
+            "id": "19394124a",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -1364,7 +1364,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394124b",
+            "id": "19394124b",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -1411,7 +1411,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394126",
+            "id": "19394126",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -1440,7 +1440,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394127",
+            "id": "19394127",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "secondary",
             
@@ -1505,7 +1505,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394128",
+            "id": "19394128",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "primary",
             
@@ -1579,7 +1579,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/1939412a",
+            "id": "1939412a",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -1626,7 +1626,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/1939412b",
+            "id": "1939412b",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -1673,7 +1673,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/1939413",
+            "id": "1939413",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -1711,7 +1711,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394130a",
+            "id": "19394130a",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "secondary",
             
@@ -1758,7 +1758,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394130b",
+            "id": "19394130b",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "secondary",
             
@@ -1805,7 +1805,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394130c",
+            "id": "19394130c",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "secondary",
             
@@ -1852,7 +1852,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394130d",
+            "id": "19394130d",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "secondary",
             
@@ -1899,7 +1899,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394133",
+            "id": "19394133",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -1982,7 +1982,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394134a",
+            "id": "19394134a",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -2038,7 +2038,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394134b",
+            "id": "19394134b",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -2085,7 +2085,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394135a",
+            "id": "19394135a",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -2123,7 +2123,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394135b",
+            "id": "19394135b",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -2161,7 +2161,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394136a",
+            "id": "19394136a",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -2217,7 +2217,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394136b",
+            "id": "19394136b",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -2273,7 +2273,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394137",
+            "id": "19394137",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -2320,7 +2320,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394138a",
+            "id": "19394138a",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -2349,7 +2349,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394138b",
+            "id": "19394138b",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -2378,7 +2378,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394139a",
+            "id": "19394139a",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "primary",
             
@@ -2461,7 +2461,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394139b",
+            "id": "19394139b",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -2544,7 +2544,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/1939414",
+            "id": "1939414",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -2582,7 +2582,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394141",
+            "id": "19394141",
             "hotspot_image": "files/19394141_hotspot.png",
             "type": "cabinet",
             "x": 112,
@@ -2656,7 +2656,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394142",
+            "id": "19394142",
             "hotspot_image": "files/19394142_hotspot.png",
             "type": "cabinet",
             "x": 65,
@@ -2712,7 +2712,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394143",
+            "id": "19394143",
             "hotspot_image": "files/19394143_hotspot.png",
             "type": "cabinet",
             "x": 215,
@@ -2759,7 +2759,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394144",
+            "id": "19394144",
             "hotspot_image": "files/19394144_hotspot.png",
             "type": "cabinet",
             "x": 230,
@@ -2806,7 +2806,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394145",
+            "id": "19394145",
             "hotspot_image": "files/19394145_hotspot.png",
             "type": "cabinet",
             "x": 193,
@@ -2916,7 +2916,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394146",
+            "id": "19394146",
             "hotspot_image": "files/19394146_hotspot.png",
             "type": "cabinet",
             "x": 160,
@@ -2945,7 +2945,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394148",
+            "id": "19394148",
             "hotspot_image": "files/19394148_hotspot.png",
             "type": "cabinet",
             "x": 32,
@@ -3028,7 +3028,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394150",
+            "id": "19394150",
             "hotspot_image": "files/19394150_hotspot.png",
             "type": "cabinet",
             "x": 30,
@@ -3084,7 +3084,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394151",
+            "id": "19394151",
             "hotspot_image": "files/19394151_hotspot.png",
             "type": "cabinet",
             "x": 222,
@@ -3140,7 +3140,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394152",
+            "id": "19394152",
             "hotspot_image": "files/19394152_hotspot.png",
             "type": "cabinet",
             "x": 410,
@@ -3169,7 +3169,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394155",
+            "id": "19394155",
             "hotspot_image": "files/19394155_hotspot.png",
             "type": "cabinet",
             "x": 220,
@@ -3225,7 +3225,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394156",
+            "id": "19394156",
             "hotspot_image": "files/19394156_hotspot.png",
             "type": "cabinet",
             "x": 154,
@@ -3263,7 +3263,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394158",
+            "id": "19394158",
             "hotspot_image": "files/19394158_hotspot.png",
             "type": "cabinet",
             "x": 223,
@@ -3310,7 +3310,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394159",
+            "id": "19394159",
             "hotspot_image": "files/19394159_hotspot.png",
             "type": "cabinet",
             "x": 34,
@@ -3402,7 +3402,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/1939415a",
+            "id": "1939415a",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -3440,7 +3440,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/1939415b",
+            "id": "1939415b",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -3478,7 +3478,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394160",
+            "id": "19394160",
             "hotspot_image": "files/19394160_hotspot.png",
             "type": "cabinet",
             "x": 30,
@@ -3552,7 +3552,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/19394161",
+            "id": "19394161",
             "hotspot_image": "files/19394161_hotspot.png",
             "type": "cabinet",
             "x": 216,
@@ -3620,7 +3620,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/1939418",
+            "id": "1939418",
             "hotspot_image": "files/",
             "type": "secondary",
             
@@ -3667,7 +3667,7 @@
                 }
             ]
         },{
-            "id": "/hotspots/1939419",
+            "id": "1939419",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "secondary",
             
