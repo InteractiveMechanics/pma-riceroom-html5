@@ -1,0 +1,80 @@
+---
+id:                 "19394162"
+type:               "secondary"
+hotspot_image:      "images/hotspot-white-stroke@2x.png"
+positions:
+  - points:
+      - ath:        -13.85
+        atv:        -15.23
+      - ath:        -6.08
+        atv:        -48.04
+      - ath:        3.12
+        atv:        -48.02
+      - ath:        14.40
+        atv:        -15.28
+      - ath:        8.97
+        atv:        -15.58
+      - ath:        7.90
+        atv:        -19.85
+      - ath:        0.08
+        atv:        -20.19
+      - ath:        -0.30
+        atv:        -17.83
+      - ath:        -1.99
+        atv:        -17.78
+      - ath:        -2.35
+        atv:        -19.61
+      - ath:        -8.07
+        atv:        -19.40
+      - ath:        -8.36
+        atv:        -15.06
+
+
+
+  - points:
+      - ath:        14.57
+        atv:        -25.92
+      - ath:        14.05
+        atv:        -17.18
+      - ath:        9.07
+        atv:        -16.73
+      - ath:        8.43
+        atv:        -21.06
+      - ath:        2.37
+        atv:        -21.10
+      - ath:        2.22
+        atv:        -18.82
+      - ath:        0.33
+        atv:        -18.79
+      - ath:        -0.39
+        atv:        -21.50
+      - ath:        -6.79
+        atv:        -21.16
+      - ath:        -7.19
+        atv:        -16.45
+      - ath:        -11.87
+        atv:        -16.79
+      - ath:        -11.39
+        atv:        -29.54
+      - ath:        1.20
+        atv:        -43.71
+
+context:
+  - accession:      "1939-41-62"
+    title:          "Chandeliers (five)"
+    date:           ""
+    creator:        ""
+    location:       ""
+    credit:         ""
+    medium:         ""
+    url:            ""
+    description:    "The chandeliers in this room are based on hanging light fixtures from the 1700s that accommodate candles. These electrified versions, assemblages of old and new parts, were produced specifically for Eleanore and Alexander Rice’s drawing room by the firm of André Carlhian, who also designed and made the room’s paneling."
+
+images:
+  - weight:         0
+    type:           "zoom"
+    files:
+      - large:      "19394162.jpg"
+        thumb:      "19394162_thumb.jpg"
+
+---
