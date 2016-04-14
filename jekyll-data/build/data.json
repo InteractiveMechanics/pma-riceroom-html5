@@ -45,8 +45,8 @@
             "id": "1939411",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-1",
                 "title": "Writing Table",
@@ -60,21 +60,21 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939411a.jpg",
-                        
+
                         "thumb": "files/1939411a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 1,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939411b.jpg",
-                        
+
                         "thumb": "files/1939411b_thumb.jpg"
                     }
                 }
@@ -83,8 +83,8 @@
             "id": "19394110n",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-10",
                 "title": "Writing Table",
@@ -98,12 +98,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394110a.jpg",
-                        
+
                         "thumb": "files/19394110a_thumb.jpg"
                     }
                 },{
@@ -112,7 +112,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394110c.jpg",
-                        
+
                         "thumb": "files/19394110c_thumb.jpg"
                     }
                 },{
@@ -121,16 +121,16 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394110d.jpg",
-                        
+
                         "thumb": "files/19394110d_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394110b.jpg",
-                        
+
                         "thumb": "files/19394110b_thumb.jpg"
                     }
                 }
@@ -139,8 +139,8 @@
             "id": "19394110s",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-10",
                 "title": "Writing Table",
@@ -154,12 +154,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394110a.jpg",
-                        
+
                         "thumb": "files/19394110a_thumb.jpg"
                     }
                 },{
@@ -168,7 +168,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394110c.jpg",
-                        
+
                         "thumb": "files/19394110c_thumb.jpg"
                     }
                 },{
@@ -177,16 +177,16 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394110d.jpg",
-                        
+
                         "thumb": "files/19394110d_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394110b.jpg",
-                        
+
                         "thumb": "files/19394110b_thumb.jpg"
                     }
                 }
@@ -195,8 +195,8 @@
             "id": "19394111a",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-11",
                 "title": "Writing Desks (two)",
@@ -210,39 +210,39 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394111a.jpg",
-                        
+
                         "thumb": "files/19394111a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 1,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394111b.jpg",
-                        
+
                         "thumb": "files/19394111b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 2,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394111c.jpg",
-                        
+
                         "thumb": "files/19394111c_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 3,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394111d.jpg",
-                        
+
                         "thumb": "files/19394111d_thumb.jpg"
                     }
                 }
@@ -251,8 +251,8 @@
             "id": "19394111b",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-11",
                 "title": "Writing Desks (two)",
@@ -266,39 +266,39 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394111a.jpg",
-                        
+
                         "thumb": "files/19394111a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 1,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394111b.jpg",
-                        
+
                         "thumb": "files/19394111b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 2,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394111c.jpg",
-                        
+
                         "thumb": "files/19394111c_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 3,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394111d.jpg",
-                        
+
                         "thumb": "files/19394111d_thumb.jpg"
                     }
                 }
@@ -307,8 +307,8 @@
             "id": "19394113",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-13",
                 "title": "Plant Stand",
@@ -322,12 +322,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394113a.jpg",
-                        
+
                         "thumb": "files/19394113a_thumb.jpg"
                     }
                 }
@@ -336,8 +336,8 @@
             "id": "19394116",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-16",
                 "title": "Folding Screen",
@@ -351,12 +351,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394116a.jpg",
-                        
+
                         "thumb": "files/19394116a_thumb.jpg"
                     }
                 }
@@ -365,8 +365,8 @@
             "id": "19394117a",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-17a",
                 "title": "Sofa and Armchairs (from a set)",
@@ -380,12 +380,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117aa.jpg",
-                        
+
                         "thumb": "files/19394117aa_thumb.jpg"
                     }
                 }
@@ -394,8 +394,8 @@
             "id": "19394117b",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-17b, c, d, e, f, g",
                 "title": "Sofa and Armchairs (from a set)",
@@ -409,84 +409,84 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117ba.jpg",
-                        
+
                         "thumb": "files/19394117ba_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bb.jpg",
-                        
+
                         "thumb": "files/19394117bb_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bc.jpg",
-                        
+
                         "thumb": "files/19394117bc_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bd.jpg",
-                        
+
                         "thumb": "files/19394117bd_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117be.jpg",
-                        
+
                         "thumb": "files/19394117be_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117be.jpg",
-                        
+
                         "thumb": "files/19394117be_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bf.jpg",
-                        
+
                         "thumb": "files/19394117bf_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bg.jpg",
-                        
+
                         "thumb": "files/19394117bg_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bh.jpg",
-                        
+
                         "thumb": "files/19394117bh_thumb.jpg"
                     }
                 }
@@ -495,8 +495,8 @@
             "id": "19394117c",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-17b, c, d, e, f, g",
                 "title": "Sofa and Armchairs (from a set)",
@@ -510,84 +510,84 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117ba.jpg",
-                        
+
                         "thumb": "files/19394117ba_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bb.jpg",
-                        
+
                         "thumb": "files/19394117bb_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bc.jpg",
-                        
+
                         "thumb": "files/19394117bc_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bd.jpg",
-                        
+
                         "thumb": "files/19394117bd_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117be.jpg",
-                        
+
                         "thumb": "files/19394117be_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117be.jpg",
-                        
+
                         "thumb": "files/19394117be_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bf.jpg",
-                        
+
                         "thumb": "files/19394117bf_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bg.jpg",
-                        
+
                         "thumb": "files/19394117bg_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bh.jpg",
-                        
+
                         "thumb": "files/19394117bh_thumb.jpg"
                     }
                 }
@@ -596,8 +596,8 @@
             "id": "19394117d",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-17b, c, d, e, f, g",
                 "title": "Sofa and Armchairs (from a set)",
@@ -611,84 +611,84 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117ba.jpg",
-                        
+
                         "thumb": "files/19394117ba_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bb.jpg",
-                        
+
                         "thumb": "files/19394117bb_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bc.jpg",
-                        
+
                         "thumb": "files/19394117bc_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bd.jpg",
-                        
+
                         "thumb": "files/19394117bd_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117be.jpg",
-                        
+
                         "thumb": "files/19394117be_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117be.jpg",
-                        
+
                         "thumb": "files/19394117be_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bf.jpg",
-                        
+
                         "thumb": "files/19394117bf_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bg.jpg",
-                        
+
                         "thumb": "files/19394117bg_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bh.jpg",
-                        
+
                         "thumb": "files/19394117bh_thumb.jpg"
                     }
                 }
@@ -697,8 +697,8 @@
             "id": "19394117e",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-17b, c, d, e, f, g",
                 "title": "Sofa and Armchairs (from a set)",
@@ -712,84 +712,84 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117ba.jpg",
-                        
+
                         "thumb": "files/19394117ba_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bb.jpg",
-                        
+
                         "thumb": "files/19394117bb_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bc.jpg",
-                        
+
                         "thumb": "files/19394117bc_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bd.jpg",
-                        
+
                         "thumb": "files/19394117bd_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117be.jpg",
-                        
+
                         "thumb": "files/19394117be_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117be.jpg",
-                        
+
                         "thumb": "files/19394117be_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bf.jpg",
-                        
+
                         "thumb": "files/19394117bf_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bg.jpg",
-                        
+
                         "thumb": "files/19394117bg_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bh.jpg",
-                        
+
                         "thumb": "files/19394117bh_thumb.jpg"
                     }
                 }
@@ -798,8 +798,8 @@
             "id": "19394117f",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-17b, c, d, e, f, g",
                 "title": "Sofa and Armchairs (from a set)",
@@ -813,84 +813,84 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117ba.jpg",
-                        
+
                         "thumb": "files/19394117ba_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bb.jpg",
-                        
+
                         "thumb": "files/19394117bb_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bc.jpg",
-                        
+
                         "thumb": "files/19394117bc_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bd.jpg",
-                        
+
                         "thumb": "files/19394117bd_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117be.jpg",
-                        
+
                         "thumb": "files/19394117be_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117be.jpg",
-                        
+
                         "thumb": "files/19394117be_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bf.jpg",
-                        
+
                         "thumb": "files/19394117bf_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bg.jpg",
-                        
+
                         "thumb": "files/19394117bg_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bh.jpg",
-                        
+
                         "thumb": "files/19394117bh_thumb.jpg"
                     }
                 }
@@ -899,8 +899,8 @@
             "id": "19394117g",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-17b, c, d, e, f, g",
                 "title": "Sofa and Armchairs (from a set)",
@@ -914,84 +914,84 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117ba.jpg",
-                        
+
                         "thumb": "files/19394117ba_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bb.jpg",
-                        
+
                         "thumb": "files/19394117bb_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bc.jpg",
-                        
+
                         "thumb": "files/19394117bc_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bd.jpg",
-                        
+
                         "thumb": "files/19394117bd_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117be.jpg",
-                        
+
                         "thumb": "files/19394117be_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117be.jpg",
-                        
+
                         "thumb": "files/19394117be_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bf.jpg",
-                        
+
                         "thumb": "files/19394117bf_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bg.jpg",
-                        
+
                         "thumb": "files/19394117bg_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117bh.jpg",
-                        
+
                         "thumb": "files/19394117bh_thumb.jpg"
                     }
                 }
@@ -1000,8 +1000,8 @@
             "id": "19394117k",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-17k",
                 "title": "Fire Screen",
@@ -1015,21 +1015,21 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117ka.jpg",
-                        
+
                         "thumb": "files/19394117ka_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394117kb.jpg",
-                        
+
                         "thumb": "files/19394117kb_thumb.jpg"
                     }
                 }
@@ -1038,8 +1038,8 @@
             "id": "19394118a",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-18a",
                 "title": "Sofa and Armchairs (from a set)",
@@ -1053,12 +1053,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394118aa.jpg",
-                        
+
                         "thumb": "files/19394118aa_thumb.jpg"
                     }
                 }
@@ -1067,8 +1067,8 @@
             "id": "19394118b",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-18b",
                 "title": "Sofa and Armchairs (from a set)",
@@ -1082,39 +1082,39 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394118ba.jpg",
-                        
+
                         "thumb": "files/19394118ba_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394118bb.jpg",
-                        
+
                         "thumb": "files/19394118bb_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394118bc.jpg",
-                        
+
                         "thumb": "files/19394118bc_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394118bd.jpg",
-                        
+
                         "thumb": "files/19394118bd_thumb.jpg"
                     }
                 }
@@ -1123,8 +1123,8 @@
             "id": "19394118c",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-18c",
                 "title": "Sofa and Armchairs (from a set)",
@@ -1138,39 +1138,39 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394118ca.jpg",
-                        
+
                         "thumb": "files/19394118ca_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394118cb.jpg",
-                        
+
                         "thumb": "files/19394118cb_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394118cc.jpg",
-                        
+
                         "thumb": "files/19394118cc_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394118cd.jpg",
-                        
+
                         "thumb": "files/19394118cd_thumb.jpg"
                     }
                 }
@@ -1179,8 +1179,8 @@
             "id": "19394118d",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-18d",
                 "title": "Sofa and Armchairs (from a set)",
@@ -1194,39 +1194,39 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394118da.jpg",
-                        
+
                         "thumb": "files/19394118da_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394118db.jpg",
-                        
+
                         "thumb": "files/19394118db_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394118dc.jpg",
-                        
+
                         "thumb": "files/19394118dc_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394118dd.jpg",
-                        
+
                         "thumb": "files/19394118dd_thumb.jpg"
                     }
                 }
@@ -1235,8 +1235,8 @@
             "id": "19394118e",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-18e",
                 "title": "Sofa and Armchairs (from a set)",
@@ -1250,39 +1250,39 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394118ea.jpg",
-                        
+
                         "thumb": "files/19394118ea_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394118eb.jpg",
-                        
+
                         "thumb": "files/19394118eb_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394118ec.jpg",
-                        
+
                         "thumb": "files/19394118ec_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394118ed.jpg",
-                        
+
                         "thumb": "files/19394118ed_thumb.jpg"
                     }
                 }
@@ -1291,8 +1291,8 @@
             "id": "19394119",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-19",
                 "title": "Sofa",
@@ -1306,12 +1306,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394119a.jpg",
-                        
+
                         "thumb": "files/19394119a_thumb.jpg"
                     }
                 }
@@ -1320,8 +1320,8 @@
             "id": "19394124a",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-24a, b",
                 "title": "Armchairs (two)",
@@ -1335,30 +1335,30 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394124a.jpg",
-                        
+
                         "thumb": "files/19394124a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394124b.jpg",
-                        
+
                         "thumb": "files/19394124b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394124c.jpg",
-                        
+
                         "thumb": "files/19394124c_thumb.jpg"
                     }
                 }
@@ -1367,8 +1367,8 @@
             "id": "19394124b",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-24a, b",
                 "title": "Armchairs (two)",
@@ -1382,30 +1382,30 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394124a.jpg",
-                        
+
                         "thumb": "files/19394124a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394124b.jpg",
-                        
+
                         "thumb": "files/19394124b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394124c.jpg",
-                        
+
                         "thumb": "files/19394124c_thumb.jpg"
                     }
                 }
@@ -1414,8 +1414,8 @@
             "id": "19394126",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-26",
                 "title": "Fire Grate",
@@ -1429,12 +1429,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394126a.jpg",
-                        
+
                         "thumb": "files/19394126a_thumb.jpg"
                     }
                 }
@@ -1443,8 +1443,8 @@
             "id": "19394127",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-27",
                 "title": "Carpet",
@@ -1458,12 +1458,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394127a.jpg",
-                        
+
                         "thumb": "files/19394127a_thumb.jpg"
                     }
                 },{
@@ -1472,7 +1472,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394127b.jpg",
-                        
+
                         "thumb": "files/19394127b_thumb.jpg"
                     }
                 },{
@@ -1481,7 +1481,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394127c.jpg",
-                        
+
                         "thumb": "files/19394127c_thumb.jpg"
                     }
                 },{
@@ -1490,7 +1490,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394127d.jpg",
-                        
+
                         "thumb": "files/19394127d_thumb.jpg"
                     }
                 },{
@@ -1499,7 +1499,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394127e.jpg",
-                        
+
                         "thumb": "files/19394127e_thumb.jpg"
                     }
                 }
@@ -1508,8 +1508,8 @@
             "id": "19394128",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "primary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-28a, b",
                 "title": "Wall Lights (two)",
@@ -1523,12 +1523,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394128a.jpg",
-                        
+
                         "thumb": "files/19394128a_thumb.jpg"
                     }
                 },{
@@ -1537,7 +1537,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394128c.jpg",
-                        
+
                         "thumb": "files/19394128c_thumb.jpg"
                     }
                 },{
@@ -1546,7 +1546,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394128d.jpg",
-                        
+
                         "thumb": "files/19394128d_thumb.jpg"
                     }
                 },{
@@ -1555,7 +1555,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394128e.jpg",
-                        
+
                         "thumb": "files/19394128e_thumb.jpg"
                     }
                 },{
@@ -1564,16 +1564,16 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394128f.jpg",
-                        
+
                         "thumb": "files/19394128f_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394128b.jpg",
-                        
+
                         "thumb": "files/19394128b_thumb.jpg"
                     }
                 }
@@ -1582,8 +1582,8 @@
             "id": "1939412a",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-2a, b",
                 "title": "Pair of Cabinets",
@@ -1597,30 +1597,30 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939412a.jpg",
-                        
+
                         "thumb": "files/1939412a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 1,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939412b.jpg",
-                        
+
                         "thumb": "files/1939412b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 3,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939412c.jpg",
-                        
+
                         "thumb": "files/1939412c_thumb.jpg"
                     }
                 }
@@ -1629,8 +1629,8 @@
             "id": "1939412b",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-2a, b",
                 "title": "Pair of Cabinets",
@@ -1644,30 +1644,30 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939412a.jpg",
-                        
+
                         "thumb": "files/1939412a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 1,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939412b.jpg",
-                        
+
                         "thumb": "files/1939412b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 3,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939412c.jpg",
-                        
+
                         "thumb": "files/1939412c_thumb.jpg"
                     }
                 }
@@ -1676,8 +1676,8 @@
             "id": "1939413",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-3",
                 "title": "Chest of Drawers",
@@ -1691,21 +1691,21 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939413a.jpg",
-                        
+
                         "thumb": "files/1939413a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 1,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939413b.jpg",
-                        
+
                         "thumb": "files/1939413b_thumb.jpg"
                     }
                 }
@@ -1714,8 +1714,8 @@
             "id": "19394130a",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-30a",
                 "title": "Tapestry showing a Story of Psyche (one from a set of five): The Arrival",
@@ -1729,12 +1729,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394130aa.jpg",
-                        
+
                         "thumb": "files/19394130aa_thumb.jpg"
                     }
                 },{
@@ -1743,7 +1743,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394130db.jpg",
-                        
+
                         "thumb": "files/19394130db_thumb.jpg"
                     }
                 },{
@@ -1752,7 +1752,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394130dc.jpg",
-                        
+
                         "thumb": "files/19394130dc_thumb.jpg"
                     }
                 }
@@ -1761,8 +1761,8 @@
             "id": "19394130b",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-30b",
                 "title": "Tapestry showing a Story of Psyche (one from a set of five): The Abandonment",
@@ -1776,12 +1776,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394130ba.jpg",
-                        
+
                         "thumb": "files/19394130ba_thumb.jpg"
                     }
                 },{
@@ -1790,7 +1790,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394130db.jpg",
-                        
+
                         "thumb": "files/19394130db_thumb.jpg"
                     }
                 },{
@@ -1799,7 +1799,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394130dc.jpg",
-                        
+
                         "thumb": "files/19394130dc_thumb.jpg"
                     }
                 }
@@ -1808,8 +1808,8 @@
             "id": "19394130c",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-30c",
                 "title": "Tapestry showing a Story of Psyche (one from a set of five): The Basketmakers",
@@ -1823,12 +1823,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394130ca.jpg",
-                        
+
                         "thumb": "files/19394130ca_thumb.jpg"
                     }
                 },{
@@ -1837,7 +1837,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394130db.jpg",
-                        
+
                         "thumb": "files/19394130db_thumb.jpg"
                     }
                 },{
@@ -1846,7 +1846,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394130dc.jpg",
-                        
+
                         "thumb": "files/19394130dc_thumb.jpg"
                     }
                 }
@@ -1855,8 +1855,8 @@
             "id": "19394130d",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-30d",
                 "title": "Tapestry showing a Story of Psyche (one from a set of five):<br />The Toilette",
@@ -1870,12 +1870,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394130da.jpg",
-                        
+
                         "thumb": "files/19394130da_thumb.jpg"
                     }
                 },{
@@ -1884,7 +1884,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394130db.jpg",
-                        
+
                         "thumb": "files/19394130db_thumb.jpg"
                     }
                 },{
@@ -1893,7 +1893,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394130dc.jpg",
-                        
+
                         "thumb": "files/19394130dc_thumb.jpg"
                     }
                 }
@@ -1902,8 +1902,8 @@
             "id": "19394133",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-33",
                 "title": "Bust of Madame de La Pouplinière",
@@ -1917,66 +1917,66 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394133a.jpg",
-                        
+
                         "thumb": "files/19394133a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394133b.jpg",
-                        
+
                         "thumb": "files/19394133b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394133c.jpg",
-                        
+
                         "thumb": "files/19394133c_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394133d.jpg",
-                        
+
                         "thumb": "files/19394133d_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394133e.jpg",
-                        
+
                         "thumb": "files/19394133e_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394133f.jpg",
-                        
+
                         "thumb": "files/19394133f_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394133g.jpg",
-                        
+
                         "thumb": "files/19394133g_thumb.jpg"
                     }
                 }
@@ -1985,8 +1985,8 @@
             "id": "19394134a",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-34a",
                 "title": "Venus Instructing Cupid",
@@ -2000,39 +2000,39 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394134aa.jpg",
-                        
+
                         "thumb": "files/19394134aa_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394134ab.jpg",
-                        
+
                         "thumb": "files/19394134ab_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394134ac.jpg",
-                        
+
                         "thumb": "files/19394134ac_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394134ad.jpg",
-                        
+
                         "thumb": "files/19394134ad_thumb.jpg"
                     }
                 }
@@ -2041,8 +2041,8 @@
             "id": "19394134b",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-34b",
                 "title": "Venus Embracing Cupid",
@@ -2056,30 +2056,30 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394134ba.jpg",
-                        
+
                         "thumb": "files/19394134ba_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394134bb.jpg",
-                        
+
                         "thumb": "files/19394134bb_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394134bc.jpg",
-                        
+
                         "thumb": "files/19394134bc_thumb.jpg"
                     }
                 }
@@ -2088,8 +2088,8 @@
             "id": "19394135a",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-35a, b",
                 "title": "Pair of Vases",
@@ -2103,21 +2103,21 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394135a.jpg",
-                        
+
                         "thumb": "files/19394135a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394135b.jpg",
-                        
+
                         "thumb": "files/19394135b_thumb.jpg"
                     }
                 }
@@ -2126,8 +2126,8 @@
             "id": "19394135b",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-35a, b",
                 "title": "Pair of Vases",
@@ -2141,21 +2141,21 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394135a.jpg",
-                        
+
                         "thumb": "files/19394135a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394135b.jpg",
-                        
+
                         "thumb": "files/19394135b_thumb.jpg"
                     }
                 }
@@ -2164,8 +2164,8 @@
             "id": "19394136a",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-36A, B",
                 "title": "Pair of Vases",
@@ -2179,39 +2179,39 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394136a.jpg",
-                        
+
                         "thumb": "files/19394136a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394136b.jpg",
-                        
+
                         "thumb": "files/19394136b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394136c.jpg",
-                        
+
                         "thumb": "files/19394136c_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394136d.jpg",
-                        
+
                         "thumb": "files/19394136d_thumb.jpg"
                     }
                 }
@@ -2220,8 +2220,8 @@
             "id": "19394136b",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-36A, B",
                 "title": "Pair of Vases",
@@ -2235,39 +2235,39 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394136a.jpg",
-                        
+
                         "thumb": "files/19394136a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394136b.jpg",
-                        
+
                         "thumb": "files/19394136b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394136c.jpg",
-                        
+
                         "thumb": "files/19394136c_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394136d.jpg",
-                        
+
                         "thumb": "files/19394136d_thumb.jpg"
                     }
                 }
@@ -2276,8 +2276,8 @@
             "id": "19394137",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-37a, b",
                 "title": "Potpourri Vase",
@@ -2291,30 +2291,30 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394137a.jpg",
-                        
+
                         "thumb": "files/19394137a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394137b.jpg",
-                        
+
                         "thumb": "files/19394137b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394137c.jpg",
-                        
+
                         "thumb": "files/19394137c_thumb.jpg"
                     }
                 }
@@ -2323,8 +2323,8 @@
             "id": "19394138a",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-38A, B",
                 "title": "Pair of Vases",
@@ -2338,12 +2338,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394138a.jpg",
-                        
+
                         "thumb": "files/19394138a_thumb.jpg"
                     }
                 }
@@ -2352,8 +2352,8 @@
             "id": "19394138b",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-38A, B",
                 "title": "Pair of Vases",
@@ -2367,12 +2367,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394138b.jpg",
-                        
+
                         "thumb": "files/19394138b_thumb.jpg"
                     }
                 }
@@ -2381,8 +2381,8 @@
             "id": "19394139a",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "primary",
-            
-            
+
+
             "content": {
                 "accession": "",
                 "title": "Pair of Potpourri Vases",
@@ -2396,12 +2396,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394139a.jpg",
-                        
+
                         "thumb": "files/19394139a_thumb.jpg"
                     }
                 },{
@@ -2410,7 +2410,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394139g.jpg",
-                        
+
                         "thumb": "files/19394139g_thumb.jpg"
                     }
                 },{
@@ -2419,7 +2419,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394139e.jpg",
-                        
+
                         "thumb": "files/19394139e_thumb.jpg"
                     }
                 },{
@@ -2428,7 +2428,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394139f.jpg",
-                        
+
                         "thumb": "files/19394139f_thumb.jpg"
                     }
                 },{
@@ -2437,25 +2437,25 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394139d.jpg",
-                        
+
                         "thumb": "files/19394139d_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394139b.jpg",
-                        
+
                         "thumb": "files/19394139b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394139c.jpg",
-                        
+
                         "thumb": "files/19394139c_thumb.jpg"
                     }
                 }
@@ -2464,8 +2464,8 @@
             "id": "19394139b",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "",
                 "title": "Pair of Potpourri Vases",
@@ -2479,12 +2479,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394139a.jpg",
-                        
+
                         "thumb": "files/19394139a_thumb.jpg"
                     }
                 },{
@@ -2493,7 +2493,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394139g.jpg",
-                        
+
                         "thumb": "files/19394139g_thumb.jpg"
                     }
                 },{
@@ -2502,7 +2502,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394139e.jpg",
-                        
+
                         "thumb": "files/19394139e_thumb.jpg"
                     }
                 },{
@@ -2511,7 +2511,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394139f.jpg",
-                        
+
                         "thumb": "files/19394139f_thumb.jpg"
                     }
                 },{
@@ -2520,25 +2520,25 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394139d.jpg",
-                        
+
                         "thumb": "files/19394139d_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394139b.jpg",
-                        
+
                         "thumb": "files/19394139b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394139c.jpg",
-                        
+
                         "thumb": "files/19394139c_thumb.jpg"
                     }
                 }
@@ -2547,8 +2547,8 @@
             "id": "1939414",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-4",
                 "title": "Chest of Drawers",
@@ -2562,21 +2562,21 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939414a.jpg",
-                        
+
                         "thumb": "files/1939414a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 1,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939414b.jpg",
-                        
+
                         "thumb": "files/1939414b_thumb.jpg"
                     }
                 }
@@ -2600,57 +2600,57 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394141a.jpg",
-                        
+
                         "thumb": "files/19394141a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 1,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394141b.jpg",
-                        
+
                         "thumb": "files/19394141b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 1,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394141c.jpg",
-                        
+
                         "thumb": "files/19394141c_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 1,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394141d.jpg",
-                        
+
                         "thumb": "files/19394141d_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 1,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394141e.jpg",
-                        
+
                         "thumb": "files/19394141e_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 1,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394141f.jpg",
-                        
+
                         "thumb": "files/19394141f_thumb.jpg"
                     }
                 }
@@ -2674,39 +2674,39 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394142a.jpg",
-                        
+
                         "thumb": "files/19394142a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394142b.jpg",
-                        
+
                         "thumb": "files/19394142b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394142c.jpg",
-                        
+
                         "thumb": "files/19394142c_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394142d.jpg",
-                        
+
                         "thumb": "files/19394142d_thumb.jpg"
                     }
                 }
@@ -2730,30 +2730,30 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394143a.jpg",
-                        
+
                         "thumb": "files/19394143a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394143b.jpg",
-                        
+
                         "thumb": "files/19394143b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394143c.jpg",
-                        
+
                         "thumb": "files/19394143c_thumb.jpg"
                     }
                 }
@@ -2777,30 +2777,30 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394144a.jpg",
-                        
+
                         "thumb": "files/19394144a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394144b.jpg",
-                        
+
                         "thumb": "files/19394144b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394144c.jpg",
-                        
+
                         "thumb": "files/19394144c_thumb.jpg"
                     }
                 }
@@ -2824,93 +2824,93 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394145a.jpg",
-                        
+
                         "thumb": "files/19394145a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394145b.jpg",
-                        
+
                         "thumb": "files/19394145b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394145c.jpg",
-                        
+
                         "thumb": "files/19394145c_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394145d.jpg",
-                        
+
                         "thumb": "files/19394145d_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394145e.jpg",
-                        
+
                         "thumb": "files/19394145e_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394145f.jpg",
-                        
+
                         "thumb": "files/19394145f_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394145g.jpg",
-                        
+
                         "thumb": "files/19394145g_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394145h.jpg",
-                        
+
                         "thumb": "files/19394145h_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394145i.jpg",
-                        
+
                         "thumb": "files/19394145i_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394145j.jpg",
-                        
+
                         "thumb": "files/19394145j_thumb.jpg"
                     }
                 }
@@ -2934,12 +2934,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394146a.jpg",
-                        
+
                         "thumb": "files/19394146a_thumb.jpg"
                     }
                 }
@@ -2963,66 +2963,66 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394148a.jpg",
-                        
+
                         "thumb": "files/19394148a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394148b.jpg",
-                        
+
                         "thumb": "files/19394148b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394148c.jpg",
-                        
+
                         "thumb": "files/19394148c_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394148d.jpg",
-                        
+
                         "thumb": "files/19394148d_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394148e.jpg",
-                        
+
                         "thumb": "files/19394148e_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394148f.jpg",
-                        
+
                         "thumb": "files/19394148f_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394148g.jpg",
-                        
+
                         "thumb": "files/19394148g_thumb.jpg"
                     }
                 }
@@ -3046,39 +3046,39 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394150a.jpg",
-                        
+
                         "thumb": "files/19394150a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394150b.jpg",
-                        
+
                         "thumb": "files/19394150b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394150c.jpg",
-                        
+
                         "thumb": "files/19394150c_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394150d.jpg",
-                        
+
                         "thumb": "files/19394150d_thumb.jpg"
                     }
                 }
@@ -3102,39 +3102,39 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394151a.jpg",
-                        
+
                         "thumb": "files/19394151a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394151b.jpg",
-                        
+
                         "thumb": "files/19394151b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394151c.jpg",
-                        
+
                         "thumb": "files/19394151c_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394151d.jpg",
-                        
+
                         "thumb": "files/19394151d_thumb.jpg"
                     }
                 }
@@ -3158,12 +3158,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394152a.jpg",
-                        
+
                         "thumb": "files/19394152a_thumb.jpg"
                     }
                 }
@@ -3187,39 +3187,39 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394155a.jpg",
-                        
+
                         "thumb": "files/19394155a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394155b.jpg",
-                        
+
                         "thumb": "files/19394155b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394155c.jpg",
-                        
+
                         "thumb": "files/19394155c_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394155d.jpg",
-                        
+
                         "thumb": "files/19394155d_thumb.jpg"
                     }
                 }
@@ -3243,21 +3243,21 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394156a.jpg",
-                        
+
                         "thumb": "files/19394156a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394156b.jpg",
-                        
+
                         "thumb": "files/19394156b_thumb.jpg"
                     }
                 }
@@ -3281,30 +3281,30 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394158a.jpg",
-                        
+
                         "thumb": "files/19394158a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394158b.jpg",
-                        
+
                         "thumb": "files/19394158b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394158c.jpg",
-                        
+
                         "thumb": "files/19394158c_thumb.jpg"
                     }
                 }
@@ -3328,75 +3328,75 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394159a.jpg",
-                        
+
                         "thumb": "files/19394159a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394159b.jpg",
-                        
+
                         "thumb": "files/19394159b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394159c.jpg",
-                        
+
                         "thumb": "files/19394159c_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394159d.jpg",
-                        
+
                         "thumb": "files/19394159d_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394159e.jpg",
-                        
+
                         "thumb": "files/19394159e_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394159f.jpg",
-                        
+
                         "thumb": "files/19394159f_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394159g.jpg",
-                        
+
                         "thumb": "files/19394159g_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394159h.jpg",
-                        
+
                         "thumb": "files/19394159h_thumb.jpg"
                     }
                 }
@@ -3405,8 +3405,8 @@
             "id": "1939415a",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-5",
                 "title": "Pair of Drop-Front Desks",
@@ -3420,21 +3420,21 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939415aa.jpg",
-                        
+
                         "thumb": "files/1939415aa_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 1,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939415ab.jpg",
-                        
+
                         "thumb": "files/1939415ab_thumb.jpg"
                     }
                 }
@@ -3443,8 +3443,8 @@
             "id": "1939415b",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-5",
                 "title": "Pair of Drop-Front Desks",
@@ -3458,21 +3458,21 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939415ba.jpg",
-                        
+
                         "thumb": "files/1939415ba_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 1,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939415bb.jpg",
-                        
+
                         "thumb": "files/1939415bb_thumb.jpg"
                     }
                 }
@@ -3496,57 +3496,57 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394160a.jpg",
-                        
+
                         "thumb": "files/19394160a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394160b.jpg",
-                        
+
                         "thumb": "files/19394160b_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394160c.jpg",
-                        
+
                         "thumb": "files/19394160c_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394160d.jpg",
-                        
+
                         "thumb": "files/19394160d_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394160e.jpg",
-                        
+
                         "thumb": "files/19394160e_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/19394160f.jpg",
-                        
+
                         "thumb": "files/19394160f_thumb.jpg"
                     }
                 }
@@ -3570,7 +3570,7 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "360",
                     "files": {
@@ -3605,7 +3605,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394161c.jpg",
-                        
+
                         "thumb": "files/19394161c_thumb.jpg"
                     }
                 },{
@@ -3614,8 +3614,37 @@
                     "type": "context",
                     "files": {
                         "large": "files/19394161b.jpg",
-                        
+
                         "thumb": "files/19394161b_thumb.jpg"
+                    }
+                }
+            ]
+        },{
+            "id": "19394162",
+            "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
+            "type": "secondary",
+
+
+            "content": {
+                "accession": "1939-41-62",
+                "title": "Chandeliers (five)",
+                "description": "The chandeliers in this room are based on hanging light fixtures from the 1700s that accommodate candles. These electrified versions, assemblages of old and new parts, were produced specifically for Eleanore and Alexander Rice’s drawing room by the firm of André Carlhian, who also designed and made the room’s paneling.",
+                "date": "",
+                "creator": "",
+                "location": "",
+                "medium": "",
+                "credit": "",
+                "url": ""
+            },
+            "images": [
+                {
+
+                    "weight": 0,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/19394162.jpg",
+
+                        "thumb": "files/19394162_thumb.jpg"
                     }
                 }
             ]
@@ -3623,8 +3652,8 @@
             "id": "1939418",
             "hotspot_image": "files/",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "1939-41-8",
                 "title": "Writing Table",
@@ -3638,21 +3667,21 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939418a.jpg",
-                        
+
                         "thumb": "files/1939418a_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 1,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939418b.jpg",
-                        
+
                         "thumb": "files/1939418b_thumb.jpg"
                     }
                 },{
@@ -3661,7 +3690,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/1939418e.jpg",
-                        
+
                         "thumb": "files/1939418e_thumb.jpg"
                     }
                 }
@@ -3670,8 +3699,8 @@
             "id": "1939419",
             "hotspot_image": "files/images/hotspot-white-stroke@2x.png",
             "type": "secondary",
-            
-            
+
+
             "content": {
                 "accession": "",
                 "title": "Writing Table",
@@ -3685,12 +3714,12 @@
             },
             "images": [
                 {
-                    
+
                     "weight": 0,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939419a.jpg",
-                        
+
                         "thumb": "files/1939419a_thumb.jpg"
                     }
                 },{
@@ -3699,7 +3728,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/1939419b.png",
-                        
+
                         "thumb": "files/1939419b_thumb.jpg"
                     }
                 },{
@@ -3708,7 +3737,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/1939419d.jpg",
-                        
+
                         "thumb": "files/1939419d_thumb.jpg"
                     }
                 },{
@@ -3717,7 +3746,7 @@
                     "type": "context",
                     "files": {
                         "large": "files/1939419f.jpg",
-                        
+
                         "thumb": "files/1939419f_thumb.jpg"
                     }
                 },{
@@ -3726,16 +3755,16 @@
                     "type": "context",
                     "files": {
                         "large": "files/1939419e.jpg",
-                        
+
                         "thumb": "files/1939419e_thumb.jpg"
                     }
                 },{
-                    
+
                     "weight": 2,
                     "type": "zoom",
                     "files": {
                         "large": "files/1939419c.jpg",
-                        
+
                         "thumb": "files/1939419c_thumb.jpg"
                     }
                 }
@@ -3746,7 +3775,7 @@
         {
             "id": "drawer-left",
             "points": [
-                
+
             ],
             "objects": [
                 19394141,19394142,19394143,19394145,19394146,19394148,19394144
@@ -3754,7 +3783,7 @@
         },{
             "id": "drawer-right",
             "points": [
-                
+
             ],
             "objects": [
                 19394150,19394151,19394152,19394156,19394159,19394160,19394155,19394158,19394161
