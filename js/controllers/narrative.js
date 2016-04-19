@@ -40,7 +40,7 @@ Narrative = (function() {
         audio.pause();
         slowRotate(0);
         toggleAudioIcon(false);
-        
+
         $.each(intervals, function(index, value){ clearTimeout(value); });
         intervals = [];
 
@@ -49,7 +49,7 @@ Narrative = (function() {
     }
     var toggleNarrativePlaying = function() {
         if (playing) {
-            container.find('.caption-container').text('Touch any object');
+            container.find('.caption-container').text('Tap any object');
             stopNarrative();
             Videos.makeVideosActive();
             Utilities.toggleActivePanorama(false);
