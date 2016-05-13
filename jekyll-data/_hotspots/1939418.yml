@@ -11,7 +11,7 @@ positions:
         atv:        14.13
       - ath:        -136.71
         atv:        14.36
-  - points: 
+  - points:
       - ath:        12.15
         atv:        -4.39
       - ath:        13.98
@@ -47,16 +47,18 @@ images:
         thumb:      "1939418a_thumb.jpg"
 
   - weight:         1
-    type:           "zoom"
-    files:
-      - large:      "1939418b.jpg"
-        thumb:      "1939418b_thumb.jpg"
-
-  - weight:         2
     type:           "context"
     caption:        "*Portrait of Marie Antoinette with Her Children*, 1787, by Elisabeth Louise Vigée Le Brun"
     files:
       - thumb:      "1939418e_thumb.jpg"
         large:      "1939418e.jpg"
+
+  - weight:         2
+    type:           "zoom"
+    files:
+      - large:      "1939418b.jpg"
+        thumb:      "1939418b_thumb.jpg"
+
+
 
 ---

@@ -3676,22 +3676,22 @@
                         "thumb": "files/1939418a_thumb.jpg"
                     }
                 },{
-
-                    "weight": 1,
-                    "type": "zoom",
-                    "files": {
-                        "large": "files/1939418b.jpg",
-
-                        "thumb": "files/1939418b_thumb.jpg"
-                    }
-                },{
                     "caption": "<em>Portrait of Marie Antoinette with Her Children</em>, 1787, by Elisabeth Louise Vigée Le Brun",
-                    "weight": 2,
+                    "weight": 1,
                     "type": "context",
                     "files": {
                         "large": "files/1939418e.jpg",
 
                         "thumb": "files/1939418e_thumb.jpg"
+                    }
+                },{
+
+                    "weight": 2,
+                    "type": "zoom",
+                    "files": {
+                        "large": "files/1939418b.jpg",
+
+                        "thumb": "files/1939418b_thumb.jpg"
                     }
                 }
             ]
